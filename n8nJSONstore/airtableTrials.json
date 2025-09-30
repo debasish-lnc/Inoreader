@@ -34,8 +34,7 @@
     "Trial": "FL v Lloyd Preston Brewer III  Florida strip mall owner charged with murder after admittedly shooting man who was urinating on his building",
     "State": "Florida",
     "Location": "Monroe County / Key West",
-    "Trial Date": "2025-10-06",
-    "Last Check": "2025-09-25",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "23-CF-000070-A-K\n\nJudge:\n\nMark H. Jones",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0EgcwAbbTso9rq"
   },
@@ -85,9 +84,20 @@
     "Trial": "SC v An Ngo",
     "State": "South Carolina",
     "Location": "Pickens County",
-    "Last Check": "2025-08-29",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "2025A3920400183",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0TGJrWukg31eti"
+  },
+  {
+    "id": "rec0U8tnvcGzrrhAV",
+    "createdTime": "2025-09-17T13:03:05.000Z",
+    "Trial": "IN v Mirla Gonzalez-Palma /  told police she got drunk and stabbed her partner after he hit her during an argument.",
+    "State": "Indiana",
+    "Location": "Marion",
+    "Trial Date": "2025-11-17",
+    "Last Check": "2025-09-25",
+    "Case# / Judge": "49D31-2509-MR-028252",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0U8tnvcGzrrhAV"
   },
   {
     "id": "rec0WKMsZPzXYoRN1",
@@ -112,7 +122,7 @@
   {
     "id": "rec0bt3T3SJsLHXlA",
     "createdTime": "2025-02-19T13:30:25.000Z",
-    "Trial": "NJ v Cristian Custodio-Aquino ",
+    "Trial": "NJ v Cristian Custodio-Aquino / Man arrested in connection to murder of Cherry Hill veterinarian ",
     "State": "New Jersey",
     "Location": "Camden County",
     "Last Check": "2025-09-16",
@@ -140,6 +150,17 @@
     "Last Check": "2025-08-04",
     "Case# / Judge": "2384CR00526\nJudge: Ullmann, Hon. Robert L",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0ex84CriWNxhJF"
+  },
+  {
+    "id": "rec0fd51jJq1E4Lav",
+    "createdTime": "2025-09-24T21:03:19.000Z",
+    "Trial": "IN vs Sophie Igou/ingle mom 'trying to get her bearings' leaves 22-month-old to decompose in his crib before calling",
+    "State": "Indiana",
+    "Location": "Shelby Co",
+    "Trial Date": "2026-01-27",
+    "Last Check": "2025-09-25",
+    "Case# / Judge": "73D01-2509-F1-000004",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0fd51jJq1E4Lav"
   },
   {
     "id": "rec0hCkapfmjNfLtr",
@@ -210,7 +231,7 @@
     "Trial": "ME v Deven Young / Sunshine Stewart Paddleboard murder",
     "State": "Maine",
     "Location": "Knox County Superior Court",
-    "Last Check": "2025-09-08",
+    "Last Check": "2025-09-26",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0tudRAst3G5VyN"
   },
   {
@@ -219,7 +240,7 @@
     "Trial": "SC v Donnie Ray Birchfield, Jr. (Allegedly kept several people captive in his basement over 10-year time span)",
     "State": "South Carolina",
     "Location": "Lancaster County",
-    "Last Check": "2025-09-22",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "2025A2920300279 \n2025A2920300280\n2025A2920300281\n2025A2920300282\n2025A2920300296\n2025A2920300297\n2025A2920300298\n2025A2920300299\n2025A2920300322\n2025A2920300323\n2025A2920300324\n2025A2920300325\n2025A2920300326\n2025A2920300327\n2025A2920300339\n2025A2920300340",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0ytrLJgJterQC0"
   },
@@ -232,6 +253,16 @@
     "Last Check": "2025-07-10",
     "Case# / Judge": "2024CF39  ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec100RCT3BXwMpaX"
+  },
+  {
+    "id": "rec14wWgEOGObIIrU",
+    "createdTime": "2025-09-22T17:11:14.000Z",
+    "Trial": "OH v Travis Jackson / Neighbor allegedly shoots landscaper",
+    "State": "Ohio",
+    "Location": "Dayton",
+    "Last Check": "2025-09-26",
+    "Case# / Judge": "2025-CRA-003414",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec14wWgEOGObIIrU"
   },
   {
     "id": "rec15ZBkNehjRi8dU",
@@ -475,7 +506,7 @@
     "Trial": "FL v Mark Gibbon (Disney resort pool near drowning)",
     "State": "Florida",
     "Location": "Polk County",
-    "Last Check": "2025-09-03",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "Case #: 53-2025-CF-006905-A000-BA",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2tG6y4VbovNUnI"
   },
@@ -511,13 +542,23 @@
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec37CVy7Szshz6Y2"
   },
   {
+    "id": "rec3EDexH0D9Ui3cs",
+    "createdTime": "2025-09-18T14:43:52.000Z",
+    "Trial": "FL v Amanda Tenney/Woman showered, cleaned up scene after murdering boyfriend but opened the door with blood on face when cops showed up",
+    "State": "Florida",
+    "Location": "Pinellas Co",
+    "Last Check": "2025-09-25",
+    "Case# / Judge": "522025CF007664000APC",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec3EDexH0D9Ui3cs"
+  },
+  {
     "id": "rec3EoEKY8V8pl1aP",
     "createdTime": "2025-06-02T13:47:02.000Z",
     "Trial": "OH v Brian Michael Wilson / Deputy Killed/Prosecutor seeking death penalty for man charged with killing Morrow County sheriff's deputy",
     "State": "Ohio",
     "Location": "Morrow County",
     "Trial Date": "2026-06-08",
-    "Last Check": "2025-08-26",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "2025 CR 0063",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec3EoEKY8V8pl1aP"
   },
@@ -679,7 +720,7 @@
     "Trial": "MO v Brenda Deutsch (accused of offering to exchange her foster child for an exotic animal)",
     "State": "Missouri",
     "Location": "Lincoln County",
-    "Last Check": "2025-07-14",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "25L6-CR00255 - ST V BRENDA RUTH DEUTSCH (E-CASE)\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec4XtYc1ZfE34YfK"
   },
@@ -699,7 +740,7 @@
     "Trial": "Tahliah Barnett v Shia LaBeouf (Sex assault lawsuit)",
     "State": "California",
     "Location": "Los Angeles",
-    "Last Check": "2025-09-02",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "20STCV47437",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec4b9XG2N9AvVC71"
   },
@@ -822,7 +863,7 @@
     "Trial": "FL v Leah Scott (teacher accused of killing dad)",
     "State": "Florida",
     "Location": "Palm Beach County",
-    "Last Check": "2025-08-27",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Case Number: 50-2025-CF-006876-AXXX-MB\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5Axe1QnqJEWThA"
   },
@@ -985,7 +1026,7 @@
     "State": "Indiana",
     "Location": "Clark County",
     "Trial Date": "2026-01-20",
-    "Last Check": "2025-09-17",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "10C01-2502-MR-000001\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec6XI9T7tKlGI0Wt"
   },
@@ -1045,7 +1086,8 @@
     "Trial": "FL v George Pino (Boat crash fatality - students involved and will testify)",
     "State": "Florida",
     "Location": "Miami Dade",
-    "Last Check": "2025-08-15",
+    "Trial Date": "2026-06-01",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "TINKLER MENDEZ, MARISA\n\t13-2024-CF-022896-0001-01",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec6fsllSmUIX6oez"
   },
@@ -1178,7 +1220,7 @@
     "Trial": "MI v Deandre Booker /‘Telling God I want to kill someone’: The 9 Google searches from ex-boyfriend in Ashley Elkins case",
     "State": "Michigan",
     "Location": "Macomb County",
-    "Last Check": "2025-09-08",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "251258FY1",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7Dmd2RmJSQOZCo"
   },
@@ -1198,7 +1240,6 @@
     "Trial": "FL v Jose Antonio Soto-Escalera",
     "State": "Florida",
     "Location": "St. Lucie County",
-    "Trial Date": "2025-09-15",
     "Last Check": "2025-09-11",
     "Case# / Judge": "2018CF002614 A - STATE OF FLORIDA vs. SOTO-ESCALERA, JOSE ANTONIO\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7L4VSDezsVfnPx"
@@ -1253,6 +1294,17 @@
     "Last Check": "2025-09-25",
     "Case# / Judge": "2025CF000013 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7hGyS7KyQAkpU3"
+  },
+  {
+    "id": "rec7i9TYoiOv276JB",
+    "createdTime": "2024-08-05T17:53:25.000Z",
+    "Trial": "AZ v Christopher Scholtes (Toddler left in hot car to die while he played Playstation)  Livestream denied for hearing.  ",
+    "State": "Arizona",
+    "Location": "Pima County",
+    "Trial Date": "2025-10-27",
+    "Last Check": "2025-09-26",
+    "Case# / Judge": "CR20242725\nJudge: ORTIZ, KIMBERLY H. - Denied all use of a Live U at his last hearing.  Not even to feed back the video.  Megan.Butler@kold.com  michael.cooper@kold.com",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7i9TYoiOv276JB"
   },
   {
     "id": "rec7ifgZ8P9KXuBHn",
@@ -1436,6 +1488,16 @@
     "Last Check": "2025-09-19",
     "Case# / Judge": "23903770",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8UNRiw91ruebif"
+  },
+  {
+    "id": "rec8VN4HIVmz1gqzj",
+    "createdTime": "2025-09-22T14:06:43.000Z",
+    "Trial": "NJ v Ernest Heinz / Son says ‘Resident Evil' actor blinded his mother in road rage shooting",
+    "State": "New Jersey",
+    "Location": "Atlantic City",
+    "Last Check": "2025-09-25",
+    "Case# / Judge": "25004165\t",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8VN4HIVmz1gqzj"
   },
   {
     "id": "rec8f11Nao7X464YY",
@@ -1753,7 +1815,7 @@
     "State": "New Jersey",
     "Location": "Monmouth County",
     "Trial Date": "2026-01-05",
-    "Last Check": "2025-09-15",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Superior Court Judge Marc C. Lemieux \n\nIND/ACC \tNO     \t:\t \t190200283I\t \t \nCase number: 18004915",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBEFvDvxgV5wnS4"
   },
@@ -1866,7 +1928,7 @@
     "Trial": "NC v Omar Matthew Ibrahim Drabick (Wife's body found in a lake)",
     "State": "North Carolina",
     "Location": "Chatham County",
-    "Last Check": "2025-04-21",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "Case No. 23CR414497-180\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBo7yIbHTzXTmZv"
   },
@@ -1897,7 +1959,7 @@
     "State": "Georgia",
     "Location": "Liberty County",
     "Trial Date": "2025-10-15",
-    "Last Check": "2025-09-09",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Perry - SUR2024000293\nRobinson - SUR2024000293",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBwtfWS9PejUxz6"
   },
@@ -1960,8 +2022,8 @@
     "Trial": "WI v Anthony Brookshire and Derreanna Little ",
     "State": "Wisconsin",
     "Location": "Milwaukee County",
-    "Trial Date": "2025-10-27",
-    "Last Check": "2025-08-20",
+    "Trial Date": "2025-12-08",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Milwaukee County Case Number 2025CF000953 State of Wisconsin vs. Anthony L Brookshire\n\n\nMilwaukee County Case Number 2025CF000949 State of Wisconsin vs. Derreanna J Little\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCJBL9oGH0o58i2"
   },
@@ -2101,7 +2163,7 @@
     "State": "Colorado",
     "Location": "Pueblo County",
     "Trial Date": "2026-02-05",
-    "Last Check": "2025-08-22",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Case Number: 2025CR307\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCr7GqSx0A0W78E"
   },
@@ -2268,7 +2330,7 @@
     "Trial": "OH v Martina Esqueda/ An Ohio polygamist, her husband and her four lovers were thrown behind bars after they allegedly kidnapped and tortured a 26-year-old man held captive in a hotel room for a week ",
     "State": "Ohio",
     "Location": "Lucas County",
-    "Last Check": "2025-09-05",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "CR2025-00425 \n\n\nRelated Cases\nCR2025-00426 (Co-Defendants)\nCR2025-00427 (Co-Defendants)\nCR2025-00428 (Co-Defendants)\nCR2025-00429 (Co-Defendants)\nCR2025-00430 (Co-Defendants)",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDyNRMQkqTeGTlt"
   },
@@ -2394,16 +2456,6 @@
     "Last Check": "2025-09-04",
     "Case# / Judge": "Case #: 24-09460-FC\n\nNeed year of birth to search: 2000",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEt6WNlz68VRYSc"
-  },
-  {
-    "id": "recEuz8mv4Al8FVLs",
-    "createdTime": "2025-09-12T12:07:43.000Z",
-    "Trial": "IL v Alley Bardfield/Substitute teacher accused of 11-year-old student sex abuse",
-    "State": "Illinois",
-    "Location": "Macon County",
-    "Last Check": "2025-09-18",
-    "Case# / Judge": "2024CF590",
-    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEuz8mv4Al8FVLs"
   },
   {
     "id": "recF5sy6c2c2wvG7u",
@@ -2645,7 +2697,7 @@
     "State": "Georgia",
     "Location": "Clayton County",
     "Trial Date": "2025-10-06",
-    "Last Check": "2025-09-25",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "2023CR01550   ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recG6YB3uUkwOhBFF"
   },
@@ -2761,6 +2813,16 @@
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGazWkShU8z2IXz"
   },
   {
+    "id": "recGbUaJXLlw04Wzj",
+    "createdTime": "2025-09-15T12:45:44.000Z",
+    "Trial": "SC v Tiamo Mitchell-Drakeford / 'Targeted crime': Man arrested after two women found murdered and dumped in rural clearing, police say",
+    "State": "South Carolina",
+    "Location": "Sumter",
+    "Last Check": "2025-09-25",
+    "Case# / Judge": "2025A4310100926",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGbUaJXLlw04Wzj"
+  },
+  {
     "id": "recGe54WhftnreyvX",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "IA v Ali Younes (Student attempted murder/fled to Jordan before trial)",
@@ -2797,7 +2859,7 @@
     "Trial": "FL v Charles Ivy (Girlfriend stabbed/Arson/ DP case)",
     "State": "Florida",
     "Location": "Volusia County Orlando",
-    "Last Check": "2025-05-22",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "2023 305335 CFDB",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGrycUkFy9ZV60Q"
   },
@@ -2827,7 +2889,7 @@
     "Trial": "NC v Annemarie Flanigan / the owner of the boat, was taken into custody and taken to Moore County Jail. Flanigan is the girlfriend of Quinten Kight",
     "State": "North Carolina",
     "Location": "Chatham Co",
-    "Last Check": "2025-08-19",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "25CR004231-180",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recH2Jh2pkcTHdD2b"
   },
@@ -2881,7 +2943,7 @@
     "State": "Massachusetts",
     "Location": "Norfolk Superior Court",
     "Trial Date": "2025-10-20",
-    "Last Check": "2025-09-25",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "2382CR00091",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recHFRvMF0hNEWDiL"
   },
@@ -2960,16 +3022,6 @@
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recHc1vGZKbWiaGwx"
   },
   {
-    "id": "recHdrEhRK0JoQxK6",
-    "createdTime": "2025-07-31T16:39:23.000Z",
-    "Trial": "IN vs Keyshawn Pettis/Indy man killed his ex-girlfriend before shooting, wounding himself",
-    "State": "Indiana",
-    "Location": "Marion Superior Court 20",
-    "Last Check": "2025-09-12",
-    "Case# / Judge": "49D20-2308-MR-023330",
-    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recHdrEhRK0JoQxK6"
-  },
-  {
     "id": "recHgALei9KkomsAn",
     "createdTime": "2025-08-26T14:14:45.000Z",
     "Trial": "CA v Darin McFarlin / Cal Fire captain faces five felony counts, including murder, in deaths of girlfriend and her son",
@@ -2995,8 +3047,8 @@
     "Trial": "NV v Daniel \"Jazzlynn\" Roush Woman ‘force fed’ fentanyl to 68-year-old ex-roommate before stowing her dead body in a freezer in effort to ‘take over her life,’ DA says",
     "State": "Nevada",
     "Location": "Las Vegas",
-    "Trial Date": "2025-10-13",
-    "Last Check": "2025-08-08",
+    "Trial Date": "2026-06-15",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "C-25-388436-1 | State of Nevada vs Daniel Roush",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recHskSziVoNjkVtm"
   },
@@ -3241,7 +3293,7 @@
     "Trial": "MO v Tiffany Hedrick / Daycare worker indicted for murder of a child in her care.  ",
     "State": "Missouri",
     "Location": " St. Francois County ",
-    "Last Check": "2025-09-08",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "25SF-CR00958 - ST V TIFFANY HEDRICK ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recJqfN3gz7IAq3eT"
   },
@@ -3273,6 +3325,16 @@
     "Last Check": "2025-09-25",
     "Case# / Judge": "25PI00313 (pre-indictment)",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recK6eCr5TagiWrCx"
+  },
+  {
+    "id": "recK8oqdQdX5jjrOA",
+    "createdTime": "2025-09-17T12:57:07.000Z",
+    "Trial": "SC v Zachary Elias / attorney claimed that her client had an illegal drug called Psilocin in his system after the triple murder shooting.",
+    "State": "South Carolina",
+    "Location": "York Co",
+    "Last Check": "2025-09-25",
+    "Case# / Judge": "2024A4620302560",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recK8oqdQdX5jjrOA"
   },
   {
     "id": "recK8ploK7GP96AS6",
@@ -3494,7 +3556,7 @@
     "Trial": "CA V Cristino Paul Rocha/killed man in 2023",
     "State": "California",
     "Location": "Fresno County",
-    "Last Check": "2025-08-21",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "F23907478 | The People of the State of California vs. Cristino Paul Rocha\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recLcFnU01G5xngEv"
   },
@@ -3638,7 +3700,8 @@
     "Trial": "FL v Victoria Delisa Williams / Woman uses hair vitalizer jar, metal cane to murder stepfather who ‘never treated her fairly’ during fight over visiting mom",
     "State": "Florida",
     "Location": "Miami-Dade County",
-    "Last Check": "2025-07-17",
+    "Trial Date": "2025-12-08",
+    "Last Check": "2025-09-26",
     "Case# / Judge": " F-25-004521\nState Case No.:\t13-2025-CF-004521-0001-01",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMxbrCip5AhRkbm"
   },
@@ -3775,6 +3838,17 @@
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recNbDk7QVA8Z0XYk"
   },
   {
+    "id": "recNcIVe8avFVXB6o",
+    "createdTime": "2025-09-18T14:08:50.000Z",
+    "Trial": "NM v 20-year-old Tomas Rivas, 17-year-old Nathan Rivas, 17-year-old Gustavo Dominguez and 15-year-old Josiah Ontiveros / Car show shooting.  ",
+    "State": "New Mexico",
+    "Location": "Lac Cruces",
+    "Trial Date": "2026-02-09",
+    "Last Check": "2025-09-18",
+    "Case# / Judge": "T. Rivas: D-307-CR-202500304 \nDominguez: D-307-CR-202500307 \nOntiveros: D-307-CR-202500306\nN. Rivas: D-307-CR-202500305 ",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recNcIVe8avFVXB6o"
+  },
+  {
     "id": "recNfBlf9dml8IovA",
     "createdTime": "2025-08-26T18:12:23.000Z",
     "Trial": "FL v Hector Munoz-Ochoa (mom fatal stabbing)",
@@ -3860,7 +3934,7 @@
     "Trial": "VA v Juliana Peres Magalhaes (au pair accused of murder)",
     "State": "Virginia",
     "Location": "Fairfax County Circuit Court",
-    "Last Check": "2025-07-28",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "FE 2024 0000226",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recO4DJicuUKcFJ5I"
   },
@@ -4063,6 +4137,16 @@
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPESSb7XQlBELWl"
   },
   {
+    "id": "recPTUv1lERuVQ09q",
+    "createdTime": "2025-09-24T21:57:26.000Z",
+    "Trial": "FL vs Xavier Omar Rigby/drove nearly 8 blocks with woman’s body on windshield after hitting her",
+    "State": "Florida",
+    "Location": "Pinellas Co",
+    "Last Check": "2025-09-25",
+    "Case# / Judge": "522025CF008772000APC",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPTUv1lERuVQ09q"
+  },
+  {
     "id": "recPUciEJc5ucfh86",
     "createdTime": "2025-09-11T14:06:34.000Z",
     "Trial": "NC v Dexter Mills Jr.  / charged in fatal shooting of a former HS Principal.  ",
@@ -4259,6 +4343,16 @@
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQB8O9hb8CNiWY8"
   },
   {
+    "id": "recQCUqTnv3ptyP0b",
+    "createdTime": "2025-09-16T13:32:42.000Z",
+    "Trial": "HI v Frank Bright (tomahawk wife chopping death)",
+    "State": "Hawaii",
+    "Location": "Honolulu",
+    "Last Check": "2025-09-26",
+    "Case# / Judge": "1CPC-25-0001093",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQCUqTnv3ptyP0b"
+  },
+  {
     "id": "recQDe26LctOCfK9n",
     "createdTime": "2024-06-28T13:26:29.000Z",
     "Trial": "NC v Avantae Deven (Adoptive Mother / Two of the children missing for years)",
@@ -4317,7 +4411,7 @@
     "State": "Mississippi",
     "Location": "LaFayette County / More south of Memphis.  ",
     "Trial Date": "2025-12-01",
-    "Last Check": "2025-09-10",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "36CI1:23-cr-00137-1",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQS2SqkiKjwH6IW"
   },
@@ -4347,7 +4441,7 @@
     "State": "Florida",
     "Location": "Miami Dade",
     "Trial Date": "2025-10-06",
-    "Last Check": "2025-09-25",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "F-19-011600 / Judge Alberto Milian",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQZKe7jbYJqDLw7"
   },
@@ -4379,7 +4473,7 @@
     "Trial": "MN v Vance Boelter . Lawmakers shooting.  ",
     "State": "Minnesota",
     "Location": "Hennepin County",
-    "Last Check": "2025-07-18",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Federal:\nUnited States v. Boelter: \n0:25-cr-00272-JRT-DJF\nUS District Court for the District of Minnesota\n\nState:\nProsecutor File No. 25A06438\nCourt File No. 27-CR-25-14999",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQc0mPC8GpuM7uT"
   },
@@ -4389,7 +4483,7 @@
     "Trial": "Michael Tilleman v. Hildebrandt and Franke (racketeering & abuse scheme)",
     "State": "Utah",
     "Location": "Utah Federal Court",
-    "Last Check": "2025-06-26",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "2:25-cv-00049",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQiQ20hmbc1B7s4"
   },
@@ -4599,8 +4693,7 @@
     "Trial": "MI v  Julie Boxley (Murder and Arson)",
     "State": "Michigan",
     "Location": "Marquette County Circuit Court",
-    "Trial Date": "2025-10-28",
-    "Last Check": "2025-08-06",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "2024-0000063468-FC / KANGAS,ROGER W.,",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSDk2K88kskwGno"
   },
@@ -4620,7 +4713,7 @@
     "Trial": "WI v Azyia Zielinski and Charles Dupriest (6 kids, including newborn, locked in 'putrid' storage unit with only a bucket for a toilet)",
     "State": "Wisconsin",
     "Location": "Milwaukee",
-    "Last Check": "2025-09-22",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "2025CF004372 - Zielinski \n2025CF004371 - Dupriest",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSJ3SvoqmXZS5ul"
   },
@@ -5118,7 +5211,7 @@
     "Trial": "CO v Kimberlee Singler (2 kids murder arrest in UK)",
     "State": "Colorado",
     "Location": "El Paso County",
-    "Last Check": "2025-08-18",
+    "Last Check": "2025-09-29",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recVLi3GSRMSzwZ7Y"
   },
   {
@@ -5128,7 +5221,7 @@
     "State": "Illinois",
     "Location": "Madison County",
     "Trial Date": "2025-10-14",
-    "Last Check": "2025-09-08",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Shafer: 2025CF000213\nJohnson: 2025CF000212\nShaw: 2025CF000209",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recVQxUrlneaqVkvy"
   },
@@ -5162,6 +5255,16 @@
     "Last Check": "2025-04-25",
     "Case# / Judge": "24CR203383-420",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recVjJiM4FpHWz9Yr"
+  },
+  {
+    "id": "recVjyZHCGbNgUb3a",
+    "createdTime": "2025-09-22T12:52:49.000Z",
+    "Trial": "KY v Joshua Cottrell (mother and daughter found dead in home)",
+    "State": "Kentucky",
+    "Location": "Rowan County",
+    "Last Check": "2025-09-22",
+    "Case# / Judge": "• ROWAN : 25-F-00155",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recVjyZHCGbNgUb3a"
   },
   {
     "id": "recVnDeXuOVYMCgiy",
@@ -5250,7 +5353,7 @@
     "Trial": "NC v Quinten Gregory Kight / Boater with nearly 40 beer cans in vessel accused of killing a 10 year and injuring a woman. ",
     "State": "North Carolina",
     "Location": "Chatham County",
-    "Last Check": "2025-08-21",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "25CR377933-180",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recWGzHRj19t9x0X2"
   },
@@ -5379,7 +5482,7 @@
     "Trial": "CA v Luis Gomes Akay (Girlfriend murder on vacation / Body not found)",
     "State": "California",
     "Location": "Los Angeles",
-    "Last Check": "2025-08-04",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "SA107706-01 / GOMESAKAY, LUIS ANTONIO  ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXHK8iCAkekMArj"
   },
@@ -5529,7 +5632,7 @@
     "Trial": "AZ v Tyler Rey Nelson and Toni Marie Sierra (mom & son arrested for murder; stolen property dispute)",
     "State": "Arizona",
     "Location": "Mohave County",
-    "Last Check": "2025-09-11",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Nelson: \tS8015CR202500918\t\nSierra: \tS8015CR202500919\n\nJudge Doug Camacho",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYHTAWRLemMaAUR"
   },
@@ -5726,7 +5829,7 @@
     "Trial": "NC v Genevieve Springer (twin sons murder)",
     "State": "North Carolina",
     "Location": "Cherokee County",
-    "Last Check": "2025-03-31",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "24CR248249-190\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recZbv4OISF3bt3e8"
   },
@@ -5799,7 +5902,7 @@
     "Trial": "WA vs Alexander Lee Rogers/killed woman and injured her brother",
     "State": "Washington",
     "Location": "Cowlitz County",
-    "Last Check": "2025-09-23",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "25-1-00544-08 | STATE OF WASHINGTON vs ALEXANDER LEE ROGERS\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reca4VFzXrhAXem8R"
   },
@@ -6039,7 +6142,8 @@
     "Trial": "FL v Esther Thelus (Police say she intentionally started a fire that killed her infant son)",
     "State": "Florida",
     "Location": "Orange County, FL",
-    "Last Check": "2025-06-10",
+    "Trial Date": "2026-05-18",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Consolidated With\nComments: 2024-CF-011765-A-O\n\n2024-CF-014505-A-O : STATE OF FLORIDA - VS - THELUS, ESTHER\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbSkNuNHDa5A25l"
   },
@@ -6118,8 +6222,9 @@
     "Trial": "NJ v Marty Small Jr. and La’Quetta Small (Mayor and wife accused of abusing daughter)",
     "State": "New Jersey",
     "Location": "Atlantic County",
-    "Trial Date": "2025-11-10",
-    "Last Check": "2025-08-14",
+    "Trial Date": "2025-12-01",
+    "Last Check": "2025-09-26",
+    "Case# / Judge": "INDICTMENT NO.: 24-09-2951 &\n24-12-3927\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recc8lMHqiJY5u1Gb"
   },
   {
@@ -6178,7 +6283,7 @@
     "Trial": "FL v Wade Steven Wilson (Two women murdered / unrelated / DP case) ",
     "State": "Florida",
     "Location": "Lee County",
-    "Last Check": "2025-09-04",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "19-CF-000568 / Judge Nicholas R. Thompson",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reccOTYnfkYk9gzMa"
   },
@@ -6209,7 +6314,7 @@
     "Trial": "TX v My Tran (Husband killed with hammer)",
     "State": "Texas",
     "Location": "Tarrant County",
-    "Last Check": "2025-09-08",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "\t1781026 /  CDC2 - Criminal District Court No. 2",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recccII1e5fHlAoQy"
   },
@@ -6562,7 +6667,7 @@
     "Trial": "OH v Bionca Ellis (Child stabbed) No livestream!",
     "State": "Ohio",
     "Location": "Cleveland",
-    "Trial Date": "2025-10-01",
+    "Trial Date": "2025-10-06",
     "Last Check": "2025-09-25",
     "Case# / Judge": "\nCR-24-692604-A ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recegtJhZk891faeF"
@@ -6863,7 +6968,7 @@
     "State": "California",
     "Location": "Orange County",
     "Trial Date": "2025-10-06",
-    "Last Check": "2025-09-25",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "23ZF0002\nDONAHUE, PATRICK H.  \tFelony Panel \t11th floor\tDepartment C40 \t(657) 622–5240 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgsLNqF62PHbqmI"
   },
@@ -6945,7 +7050,7 @@
     "Trial": "FL v Daniel Loren Stearns / Missing woman’s burned remains found in ‘Compound",
     "State": "Florida",
     "Location": "Brevard County",
-    "Trial Date": "2025-09-24",
+    "Trial Date": "2025-09-26",
     "Last Check": "2025-09-22",
     "Case# / Judge": "05-2023-CF-018918-AXXX-XX",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rechVmwDStNZevlx9"
@@ -7101,7 +7206,7 @@
     "State": "Washington",
     "Location": "Kings County",
     "Trial Date": "2025-10-22",
-    "Last Check": "2025-09-02",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "24-1-00104-9 SEA - Philip / 24-1-00105-7 SEA - Christina",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recixzlIXr7U4f0dY"
   },
@@ -7122,8 +7227,8 @@
     "Trial": "MS v Cadarrius Pride \"Superstar Pride\" (Barber murder) ",
     "State": "Mississippi",
     "Location": "Panola County (Almost to Memphis near the state line)",
-    "Trial Date": "2025-10-06",
-    "Last Check": "2025-09-25",
+    "Trial Date": "2026-06-01",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "Seventeenth Circuit Court District (Panola Circuit Court - Batesville)\nCRIMINAL DOCKET FOR CASE #: 54CI2:23-cr-00119-1\nHave to call   662-563-6210\n\tKate Patterson <katepatterson1017@gmail.com>\nto:\tlacey@lawandcrime.com\ncc:\tJimmy McClure <jmcclure@panolacoms.com>,\nElizabeth Lentz <Elizabethcca@bellsouth.net",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recizZ7T9OFYdKITN"
   },
@@ -7287,7 +7392,7 @@
     "State": "Texas",
     "Location": "Harris County",
     "Trial Date": "2025-10-02",
-    "Last Check": "2025-09-23",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "192232301010- 3 \n192232401010- 3\n186371501010- 3\n184023601010- 3\n184027501010- 3\n179142901010- 3\n179143001010- 3",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjeGfKy3RJ9p4Gi"
   },
@@ -7307,7 +7412,8 @@
     "Trial": "IL v Christian Soto (4 fatally stabbed)",
     "State": "Illinois",
     "Location": "Winnebago County",
-    "Last Check": "2025-07-18",
+    "Trial Date": "2026-03-02",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "2024-CF-0000780",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjofxtLFldrkwkv"
   },
@@ -7444,7 +7550,7 @@
     "State": "Michigan",
     "Location": "Wayne County",
     "Trial Date": "2026-01-05",
-    "Last Check": "2025-07-11",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Circuit court case # Case No. 24716460-01\nhttps://cmspublic.3rdcc.org/default.aspx",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckg9jOeNfX2SQ0Q"
   },
@@ -7630,6 +7736,16 @@
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recm8Q0PQO3SQiscM"
   },
   {
+    "id": "recm907zVWC5BuzWf",
+    "createdTime": "2025-09-08T12:48:47.000Z",
+    "Trial": "SC v Joyanna Vansant (ex-husband shot and found in closet)",
+    "State": "South Carolina",
+    "Location": "Horry County",
+    "Last Check": "2025-09-26",
+    "Case# / Judge": "2025A2610201339",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recm907zVWC5BuzWf"
+  },
+  {
     "id": "recmEsmBleqmTiYF5",
     "createdTime": "2025-08-13T12:03:45.000Z",
     "Trial": "KY v Felicia Gross & Joshua Gross (10-year-old son found in shallow grave)",
@@ -7737,7 +7853,7 @@
     "Trial": "NV v Andrea Loving / the mother of a girl found dead in her Cold Springs home more than three months ago, was arrested on Monday",
     "State": "Nevada",
     "Location": "Washoe / Reno",
-    "Last Check": "2025-09-08",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "\tSIGURDSON, KATHLEEN\n CR25-0797B - STATE VS. ANDREA MARIE LOVING (D10)",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recn227BosZsWr9VK"
   },
@@ -7828,7 +7944,7 @@
     "Trial": "NJ v Jose Melo / Man Accused of Stabbing His Fiancée to Death 1 Day After He Shared Proposal Video",
     "State": "New Jersey",
     "Location": "Union County",
-    "Last Check": "2025-08-25",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "Indictment #:250400472I (Union Co)\t\nCase #: 25000190",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recndxh550JBjuIeb"
   },
@@ -7858,8 +7974,8 @@
     "Trial": "NV v Devyn Michaels (smoking headless body) ",
     "State": "Nevada",
     "Location": "Clark County ",
-    "Trial Date": "2025-11-17",
-    "Last Check": "2025-08-14",
+    "Trial Date": "2025-11-03",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "C-23-377239-1",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recnia2yZn3bGhZY0"
   },
@@ -8100,8 +8216,8 @@
     "Trial": "AZ v Sencere Hayes, Jared Demarcus Gray and Cudjoe Young  (woman tortured and burned alive) Mercedes Vega murder",
     "State": "Arizona",
     "Location": "Maricopa County",
-    "Last Check": "2025-07-28",
-    "Case# / Judge": "CR2024-008003-001 - Hayes\nCR2025-125505-001 - Gray\nYoung - ProSe ",
+    "Last Check": "2025-09-29",
+    "Case# / Judge": "CR2025-007308-002- Hayes\nCR2025-125505-001 - Gray\nCR2025-007308-003 - Young - ProSe ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recpAYKABFPI6kdQU"
   },
   {
@@ -8278,7 +8394,7 @@
     "Trial": "AZ v Chris Daniel Aguilar / High School stabbing",
     "State": "Arizona",
     "Location": "Maricopa County",
-    "Last Check": "2025-09-12",
+    "Last Check": "2025-09-26",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recq64NYHt6233tTa"
   },
   {
@@ -8350,6 +8466,16 @@
     "Last Check": "2025-09-12",
     "Case# / Judge": "His docket numbers are 25-CR-96 and 25-CR-231\n\n\nCourt Clerk Gayla Harris Miller\nCircuit & Criminal Court Clerk\nPhone: 423-728-7218\nTara.Miller@tncourts.gov\nTara will respond to your emails.  \n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recqe1C4Guk4rb9lA"
+  },
+  {
+    "id": "recqiGuFYOSosPp77",
+    "createdTime": "2025-09-26T20:43:36.000Z",
+    "Trial": "WI v Michael Maldonado / High School teacher's aide hired three students to kill her husband",
+    "State": "Wisconsin",
+    "Location": "Jefferson County",
+    "Last Check": "2025-09-26",
+    "Case# / Judge": " 1994CF000330",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recqiGuFYOSosPp77"
   },
   {
     "id": "recqiMVrZILkO6heB",
@@ -8560,7 +8686,7 @@
     "Trial": "NM vs Rainor Joiner & David Degroat/Duo arrested after decapitating roommate and confessing to their alleged crime",
     "State": "New Mexico",
     "Location": "Taos County",
-    "Last Check": "2025-09-16",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "Degroat: D-820-CR-2025-00120\nJoiner: D-820-CR-2025-00110\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recsJEVeaE3YzVqNk"
   },
@@ -8574,6 +8700,16 @@
     "Last Check": "2025-09-18",
     "Case# / Judge": "F-22-014137",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recsJXMqsthkvd5uX"
+  },
+  {
+    "id": "recsV1aITseoXXdyY",
+    "createdTime": "2025-09-24T21:41:22.000Z",
+    "Trial": "OH vs Carley Dials/3-year-old shoots, kills self with unsecured gun; Mother charged",
+    "State": "Ohio",
+    "Location": "Franklin",
+    "Last Check": "2025-09-25",
+    "Case# / Judge": "Case No. 2025 CR A 015802",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recsV1aITseoXXdyY"
   },
   {
     "id": "recsVK7a9tllXyzWC",
@@ -8724,7 +8860,7 @@
     "Trial": "OH v Rick Sheppard and James Rothenbusch / Pregnant woman found in a plastic tote.  Drugs involved.  ",
     "State": "Ohio",
     "Location": "Butler County",
-    "Last Check": "2025-09-24",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "CR 2025 08 1030 STATE OF OHIO VS SHEPPARD, RICKY JOE --SPAETH\n\nCR 2025 08 1056 STATE OF OHIO VS ROTHENBUSCH, JAMES R --SPAETH\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rectdSrZGlAlQau3x"
   },
@@ -8754,7 +8890,6 @@
     "Trial": "WA v McKenzy Hafer / ‘Intent to kill’: 19-year-old stabbed both her parents after dad wished her a ‘Happy Resurrection Day,’ police say.  Attempted Murder",
     "State": "Washington",
     "Location": "Clark County",
-    "Trial Date": "2025-10-06",
     "Last Check": "2025-09-25",
     "Case# / Judge": "Case No: 25-1-00932-06 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rectlUVZ5r6h82vPk"
@@ -8766,7 +8901,7 @@
     "State": "Massachusetts",
     "Location": "Suffolk County",
     "Trial Date": "2026-10-05",
-    "Last Check": "2025-08-08",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "2584CR00111 \n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recto2pNOMRGOqblx"
   },
@@ -8983,7 +9118,7 @@
     "Trial": "TX v Kaysone Sky Blossom (Teen stabbing)",
     "State": "Texas",
     "Location": "Harris County",
-    "Last Check": "2025-08-27",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "184785701010 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recuvUqALNWBzFywL"
   },
@@ -9153,7 +9288,7 @@
   {
     "id": "recwS7uN35FXvM0J2",
     "createdTime": "2025-01-10T21:21:17.000Z",
-    "Trial": "US v Murder for Hire plot (Sergio Pino case)",
+    "Trial": "US v Murder for Hire plot (Sergio Pino case)+",
     "State": "Florida",
     "Location": "Miami",
     "Trial Date": "2025-10-06",
@@ -9171,6 +9306,16 @@
     "Last Check": "2025-08-26",
     "Case# / Judge": "F-25-00154 | STATE OF TEXAS VS CONWAY, MARKIES\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwUaIbuH7GrngtP"
+  },
+  {
+    "id": "recwZWUU599QFlCQh",
+    "createdTime": "2025-09-24T21:11:14.000Z",
+    "Trial": "NY vs David Huff/ man accused of murdering girlfriend, son with shotgun",
+    "State": "New York",
+    "Location": "Onondaga County",
+    "Last Check": "2025-09-25",
+    "Case# / Judge": "IND-71637-25/001",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwZWUU599QFlCQh"
   },
   {
     "id": "recwaEUUFkcf163ou",
@@ -9199,7 +9344,7 @@
     "Trial": "FL v Delaila Pino Lasalle (Newborn starved)",
     "State": "Florida",
     "Location": "Palm Beach County",
-    "Last Check": "2025-09-19",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Judge:  ROWE, CYMONIE\n 50-2023-CF-000936-AXXX-MB",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwfbgxINtYeYGBK"
   },
@@ -9210,7 +9355,7 @@
     "State": "Wisconsin",
     "Location": "Milwaukee County ",
     "Trial Date": "2026-02-02",
-    "Last Check": "2025-08-29",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "2022CF004696 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwfu0HqJbC3TMYb"
   },
@@ -9333,7 +9478,7 @@
     "Trial": "CT v Kimberly Sullivan (son held captive 20 years)",
     "State": "Connecticut",
     "Location": "Waterbury JD9",
-    "Last Check": "2025-09-04",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "UWY -CR25-0513549-T",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxdtXyCSscybEVk"
   },
@@ -9468,7 +9613,7 @@
     "Trial": "MA v David Bradley Jerome (Road rage murder, self-defense or a gun nut on a rampage?)",
     "State": "Massachusetts",
     "Location": "Plymouth County Superior",
-    "Last Check": "2025-07-18",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "2583CR00038 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recyHq1QOW5zpyVLQ"
   },
@@ -9488,7 +9633,7 @@
     "Trial": "UT v Cashel Barnett (\"Love Island\" contestant domestic violence arrest)",
     "State": "Utah",
     "Location": "Salt Lake",
-    "Last Check": "2025-08-18",
+    "Last Check": "2025-09-29",
     "Case# / Judge": "Case # 251905666\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recyKD0FubtDoLraN"
   },
@@ -9498,8 +9643,8 @@
     "Trial": "IN v Daniel Flaherty",
     "State": "Indiana",
     "Location": "Gibson County",
-    "Trial Date": "2025-10-20",
-    "Last Check": "2025-08-22",
+    "Trial Date": "2026-06-15",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "Case Number\t26D01-2410-MR-001019",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recyPImbBi5E2cWc9"
   },
@@ -9519,7 +9664,8 @@
     "Trial": "Smokey Robinson civil complaint for sexual assault and hostile work environment.  His wife is named as well.  ",
     "State": "California",
     "Location": "Los Angeles",
-    "Last Check": "2025-09-12",
+    "Trial Date": "2027-10-11",
+    "Last Check": "2025-09-26",
     "Case# / Judge": "[25STCP01661] Petition : Petition COMPLAINT FOR DAMAGES 1. NEGLIGENCE; 2. SEXUAL BATTERY (Civ. Code 1708.5); 3. ASSAULT; 4. FALSE IMPRISONMENT; 5. INTENTIONAL INFLICTION OF EMOTIONAL DISTRESS; 6. NEGLIGENT INFLICTION OF EMOTIONAL DISTRESS; 7. GENDER VIOLENCE (Civ. Code (Pages 1-27)",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recyag72hv5W4B24T"
   },

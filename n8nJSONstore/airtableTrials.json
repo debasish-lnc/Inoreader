@@ -44,7 +44,7 @@
     "Trial": "NJ v Laura Caron / Elementary school teacher busted for having former student's child after victim's father noticed family resemblance: Cops",
     "State": "New Jersey",
     "Location": "Cape May County",
-    "Last Check": "2025-09-03",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "Indictment: 250600331I",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0FWjEltG4xH3An"
   },
@@ -1046,7 +1046,7 @@
     "Trial": "UT v Noah Lyman (15-year-old shoots mother and 8-year-old brother in head)",
     "State": "Utah",
     "Location": "Utah County",
-    "Last Check": "2025-09-10",
+    "Last Check": "2025-10-01",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec6bmQOhAQsay1i1"
   },
   {
@@ -1261,7 +1261,8 @@
     "Trial": "UT v Greg Kyle DeBoer",
     "State": "Utah",
     "Location": " Wasatch County",
-    "Last Check": "2025-09-17",
+    "Last Check": "2025-10-01",
+    "Case# / Judge": "241500345 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7Rukk1hcAp65ra"
   },
   {
@@ -1405,7 +1406,7 @@
     "Trial": "WI v Gavin Thompson",
     "State": "Wisconsin",
     "Location": "Iowa County",
-    "Last Check": "2025-09-24",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "2025CF000077 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec87lvw0zdct5exJ"
   },
@@ -1907,7 +1908,7 @@
     "State": "Nevada",
     "Location": "Clark County",
     "Trial Date": "2026-02-09",
-    "Last Check": "2025-09-24",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "C-23-377407-1",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBc5WRaMR8ZV0Nc"
   },
@@ -1957,8 +1958,7 @@
     "Trial": "GA v Shelly Perry and Brandon Robinson (6 y/o found dead)",
     "State": "Georgia",
     "Location": "Liberty County",
-    "Trial Date": "2025-10-15",
-    "Last Check": "2025-09-26",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "Perry - SUR2024000293\nRobinson - SUR2024000293",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBwtfWS9PejUxz6"
   },
@@ -2569,6 +2569,16 @@
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFbfeo3nOdfj3x3"
   },
   {
+    "id": "recFbnE0tPji2m9T3",
+    "createdTime": "2025-10-01T14:02:20.000Z",
+    "Trial": "CA v Antoine Watson / Elderly man attack and murder",
+    "State": "California",
+    "Location": "San Francisco",
+    "Last Check": "2025-10-01",
+    "Case# / Judge": " Judge Alexandra Robert Gordon\n CRI-21001136  ",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFbnE0tPji2m9T3"
+  },
+  {
     "id": "recFceVdB1utPKlcv",
     "createdTime": "2024-08-06T19:22:44.000Z",
     "Trial": "FL v Julie Sulpizio (Family lured Police to their home for an ambush / Anti-government)",
@@ -2942,7 +2952,7 @@
     "State": "Massachusetts",
     "Location": "Norfolk Superior Court",
     "Trial Date": "2025-10-20",
-    "Last Check": "2025-09-26",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "2382CR00091",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recHFRvMF0hNEWDiL"
   },
@@ -3607,7 +3617,7 @@
     "Trial": "FL v Donna Adelson (Dan Markel Murder)",
     "State": "Florida",
     "Location": "Leon County",
-    "Last Check": "2025-09-17",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "2023 CF 003226 A001 / Judge Everett\n\nJudge Everett's Zoom meeting information\n\nMeeting ID: 919 5121 5290\nno passcode\n\nPlease ensure that your camera is off and mute your microphone.",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recM27AMrHJjeqvbO"
   },
@@ -3669,7 +3679,7 @@
     "Trial": "SC v Gianna Helene Kistenmacher, Devan Raper, Hunter Matthew Kendall, Sydney Marissa Kearns and Corrinne Elizabeth Belviso (teen murder; 9 total arrests, no names yet on some)",
     "State": "South Carolina",
     "Location": "Florence County",
-    "Last Check": "2025-09-10",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "2025A2110100286 - Gianna\n2025A2110201116 - Devan\n2025A2110201314 - Kendall\n2025A2110201312- Belviso\n2025A2110201318 - Kearns\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMPl1J4KerNmGHS"
   },
@@ -3679,7 +3689,7 @@
     "Trial": "CA v Jossimar Cabrera Cornejo (wife killed; possibly caught on camera dragging body)",
     "State": "California",
     "Location": "Los Angeles",
-    "Last Check": "2025-09-24",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "25AVCF01441 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMRl9jRwbNY1B5X"
   },
@@ -4207,6 +4217,17 @@
     "Last Check": "2025-08-14",
     "Case# / Judge": "CR24002302-00\nThe Honorable Kimberly A. Irving \nTo Contact Judges' Chambers, call 703-792-6171. Catherine Carré is the staff attorney for the presiding judges in the 31st Judicial Circuit Court. ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPZQ9rMqAkPNZUp"
+  },
+  {
+    "id": "recPZlpHOzailuFbd",
+    "createdTime": "2024-12-03T20:14:41.000Z",
+    "Trial": "IN v Dominique M. Washington (bodies dumped in river)  Cameras???",
+    "State": "Indiana",
+    "Location": "Allen County",
+    "Trial Date": "2025-10-28",
+    "Last Check": "2025-10-01",
+    "Case# / Judge": "02D05-2409-MR-000030\n",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPZlpHOzailuFbd"
   },
   {
     "id": "recPgipW87qPU0mUu",
@@ -4844,7 +4865,7 @@
     "Trial": "NC v Shana Cloud / Woman Charged After Allegedly Murdering Ex-Green Beret Husband and Leaving His Body in a Rural Pond",
     "State": "North Carolina",
     "Location": "Cumberland County",
-    "Last Check": "2025-09-10",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "Case No. 25CR269256-250\n",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSp3iI8BH2ARBrl"
   },
@@ -4903,7 +4924,7 @@
     "Trial": "GA v Tracy White / Attempted murder shooting of her husband",
     "State": "Georgia",
     "Location": "Troup Co",
-    "Last Check": "2025-09-17",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "25-S-0858\nJudge Wesley Leonard",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTPFEGfTv0mqIEs"
   },
@@ -5867,7 +5888,7 @@
     "Trial": "NM vs Dorian Lamaal McCuller/fatally shot a man over a girl",
     "State": "New Mexico",
     "Location": "Bernalillo County",
-    "Last Check": "2025-09-24",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "D-202-CR-202402040",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recZrckGsib1bqRRD"
   },
@@ -6289,7 +6310,7 @@
     "Trial": "TX v Leo Moore and Haley Barber / couple accused of murdering man they shared a condo with",
     "State": "Texas",
     "Location": "Dallas County",
-    "Last Check": "2025-09-17",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "Barber: F-24-25852 - Pled guilty and was sentenced\nMoore: F-24-25853 ",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reccU9IOy3KgokuwO"
   },
@@ -6724,7 +6745,7 @@
     "Trial": "UT v Kevin Ellis (Osterloh)",
     "State": "Utah",
     "Location": "FOURTH JUDICIAL DISTRICT - AMERICAN FORK DIST",
-    "Last Check": "2025-09-10",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "241100884",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recf5NyRr1VBAwat5"
   },
@@ -6896,6 +6917,15 @@
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgJ79iy0atZI5WW"
   },
   {
+    "id": "recgJsSDJLBWMqUQ6",
+    "createdTime": "2025-09-29T19:31:25.000Z",
+    "Trial": "LAUREN MATTHIAS vs. CHRISTINA MACARTHUR / True Crime stalking case",
+    "State": "Utah",
+    "Location": "Provo",
+    "Last Check": "2025-10-01",
+    "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgJsSDJLBWMqUQ6"
+  },
+  {
     "id": "recgNBqVGg3K4Gnpj",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "KY v Shannon Gilday",
@@ -7015,7 +7045,7 @@
     "Trial": "NH v Eric Sweeney /  teen accused of killing his sister-in-law and his two nephews",
     "State": "New Hampshire",
     "Location": "Merrimack",
-    "Last Check": "2025-09-24",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "Case No. 217-2023-CR-00721\nLocation:\nMerrimack\nJudicial Officer:\nKissinger, John C, JR",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rech2OjwxWcQ7NBNF"
   },
@@ -7109,7 +7139,7 @@
     "State": "Arizona",
     "Location": "Maricopa County",
     "Trial Date": "2025-10-16",
-    "Last Check": "2025-09-29",
+    "Last Check": "2025-10-01",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reci6HYFm3RE2TsCH"
   },
   {
@@ -7256,7 +7286,7 @@
     "Trial": "SC v Mary Rebecca 'Becky' Hill (perjury charges)",
     "State": "South Carolina",
     "Location": "Colleton AND Richland County",
-    "Last Check": "2025-09-10",
+    "Last Check": "2025-10-01",
     "Case# / Judge": "2025A4010500113 - Richland County\n\n2025A1510100164 - Colleton County\t\n2025A1510100165 - Colleton County\t\t\n2025A1510100166 - Colleton County\t",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recj3wN80kWOzZw67"
   },
@@ -7609,8 +7639,8 @@
     "Trial": "GA v Jennifer Underwood / Husband Murder",
     "State": "Georgia",
     "Location": "Effingham County",
-    "Last Check": "2025-09-17",
-    "Case# / Judge": "SUWR2025000246 (I think this is preindictment)",
+    "Last Check": "2025-10-01",
+    "Case# / Judge": "SUCR2025000284",
     "Record URL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reclCH20CiNxjkKCn"
   },
   {

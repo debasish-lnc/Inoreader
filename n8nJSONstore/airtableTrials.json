@@ -861,6 +861,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec6nWNgZIgRwQjue"
   },
   {
+    "id": "rec6nXk3cPis88YfJ",
+    "createdTime": "2025-10-02T15:18:59.000Z",
+    "Trial": "OH v Connor Grubb / Former Officer charged in the death of a pregnant woman.  ",
+    "State": "Ohio",
+    "Location": "Franklin County / Columbus market",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec6nXk3cPis88YfJ"
+  },
+  {
     "id": "rec6oEM7hcZdr0WRo",
     "createdTime": "2025-05-05T13:55:13.000Z",
     "Trial": "OH v Rodney Hinton Jr. (allegedly ‘intentionally murdered’ deputy after son shot and killed by police)",
@@ -1153,6 +1161,7 @@
     "createdTime": "2025-07-29T22:11:48.000Z",
     "Trial": "TX v Carl Earl Redfield/Frm corrections ofcr--serial rapist",
     "State": "Texas",
+    "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8N3Hh5zoGWAX9n"
   },
   {
@@ -1273,6 +1282,14 @@
     "Trial": "TX v Fernando Machado / Man indicted for murder in deadly March shooting ",
     "State": "Texas",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9X6r57JMeiQfM4"
+  },
+  {
+    "id": "rec9ZHpq1ZpiaA8I7",
+    "createdTime": "2025-10-01T14:40:26.000Z",
+    "Trial": "CA vs Douglas Irwin Shaw/arrested after missing woman found murdered behind ‘secret wall’ in hoarder-style home",
+    "State": "California",
+    "Location": "Solano County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9ZHpq1ZpiaA8I7"
   },
   {
     "id": "rec9lcWFZLI5VnYwB",
@@ -1886,14 +1903,6 @@
     "State": "New Jersey",
     "Location": "Ocean County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEhM858DvC5WD1T"
-  },
-  {
-    "id": "recEizbp5k8eAjPUL",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "FL v Kodak Black (Rapper drug charges) Bill K. Kapri",
-    "State": "Florida",
-    "Location": "Broward",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEizbp5k8eAjPUL"
   },
   {
     "id": "recElWkvkIf0bsGGv",
@@ -3785,6 +3794,7 @@
     "createdTime": "2025-07-29T22:07:04.000Z",
     "Trial": "TX v Joshua Youngblood/gave daughter and friend fentanyl, daughter died, friend Od'd, he sex assaulted friend",
     "State": "Texas",
+    "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSXNoszcFt5Q27N"
   },
   {
@@ -4271,7 +4281,7 @@
     "createdTime": "2025-09-09T15:39:39.000Z",
     "Trial": "TX vs Kara Walker/accused of abusing her younger brother and he died. Walker's boyfriend was also charged",
     "State": "Texas",
-    "Location": "Hafrris Co",
+    "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recWr6n15NKv9zla2"
   },
   {
@@ -4365,7 +4375,7 @@
   {
     "id": "recXYrtVB73sTs2o0",
     "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "GA v Elwyn Crocker Sr., Mark Wright (pled guilty) and Kim Wright (pled guilty) (Teens buried in backyard)",
+    "Trial": "GA v Elwyn Crocker Sr., Mark Wright (pled guilty), Kim Wright (pled guilty), Candice Crocker (pled guilty) & Roy Prater (Teens buried in backyard)",
     "State": "Georgia",
     "Location": "Effingham County, Savannah Market",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXYrtVB73sTs2o0"
@@ -5049,6 +5059,14 @@
     "State": "Nevada",
     "Location": "Clark County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recdA1HJuosAOdVCb"
+  },
+  {
+    "id": "recdEhhu3LjCdao2V",
+    "createdTime": "2025-10-02T19:25:48.000Z",
+    "Trial": "OH v Michael \"Jason\" Meade / ",
+    "State": "Ohio",
+    "Location": "Franklin County / Columbus Market",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recdEhhu3LjCdao2V"
   },
   {
     "id": "recdFDzHOhBU79oMS",
@@ -6467,6 +6485,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recp7cSUsF0gVSJRQ"
   },
   {
+    "id": "recp7uuFHpHkya4JT",
+    "createdTime": "2025-10-02T15:22:30.000Z",
+    "Trial": "OH v Andrew Isaac Griffin / Double Murder case",
+    "State": "Ohio",
+    "Location": "Belmont County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recp7uuFHpHkya4JT"
+  },
+  {
     "id": "recpAYKABFPI6kdQU",
     "createdTime": "2024-11-29T14:51:01.000Z",
     "Trial": "AZ v Sencere Hayes, Jared Demarcus Gray and Cudjoe Young  (woman tortured and burned alive) Mercedes Vega murder",
@@ -7697,6 +7723,7 @@
     "createdTime": "2025-08-06T13:35:12.000Z",
     "Trial": "NV v Keneshia Dixon / accused of kidnapping a Las Vegas police officer after she and three teenagers were caught stealing from a Target ",
     "State": "Nevada",
+    "Location": "Clark County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recz5JoEANdFCtNb4"
   },
   {

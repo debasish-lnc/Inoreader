@@ -757,14 +757,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec68YJAxVBgxZcaG"
   },
   {
-    "id": "rec69P9JPGsDzAaRd",
-    "createdTime": "2024-06-20T20:57:25.000Z",
-    "Trial": "IA v Huston Danker (Allegedly killed Karina's husband)",
-    "State": "Iowa",
-    "Location": "Tama County (Cedar Rapids)",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec69P9JPGsDzAaRd"
-  },
-  {
     "id": "rec6HtGatZgGdwl11",
     "createdTime": "2025-03-05T14:14:14.000Z",
     "Trial": "WI v Nikita Casap (teen accuses in parents murder)",
@@ -1131,6 +1123,14 @@
     "State": "Texas",
     "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8CI1hsN1i7UHFL"
+  },
+  {
+    "id": "rec8DWOvF4OwnkKvM",
+    "createdTime": "2025-10-03T13:06:57.000Z",
+    "Trial": "TX Jerry Jones sex assault civil lawsuit",
+    "State": "Texas",
+    "Location": "Dallas County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8DWOvF4OwnkKvM"
   },
   {
     "id": "rec8DXLi1cJXhnBJB",
@@ -1863,6 +1863,14 @@
     "State": "Arkansas",
     "Location": "Benton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEDCbU4fHeSmIfO"
+  },
+  {
+    "id": "recEJ4VN928Pwzr2B",
+    "createdTime": "2025-10-03T14:10:22.000Z",
+    "Trial": "TX v Alfred Flores and Eleazar Alejandro Nathaniel Villalobos ",
+    "State": "Texas",
+    "Location": "Bexar / San Antonio",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEJ4VN928Pwzr2B"
   },
   {
     "id": "recELrNF9z5GxLpnq",
@@ -3558,6 +3566,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQmvlAKyuCA7BP7"
   },
   {
+    "id": "recQnGQJq5pmyE9T6",
+    "createdTime": "2025-10-03T14:12:45.000Z",
+    "Trial": "WI v Addison Bowell (teen accused in fatal DUI that killed well-known jogger)",
+    "State": "Wisconsin",
+    "Location": "Dunn County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQnGQJq5pmyE9T6"
+  },
+  {
     "id": "recQu1q58kCa1AvUQ",
     "createdTime": "2025-02-21T13:20:16.000Z",
     "Trial": "FL v Robert Hendrix / Mom went to stay with son to ride out hurricane and found his girlfriend’s body wrapped in tarp",
@@ -4038,14 +4054,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUfASUCKB5ewTnP"
   },
   {
-    "id": "recUfWWdUJfmXs4MF",
-    "createdTime": "2024-06-24T17:28:20.000Z",
-    "Trial": "TX v Elizabeth Wolf (child attempted drowning/poss. hate crime)",
-    "State": "Texas",
-    "Location": "Tarrant County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUfWWdUJfmXs4MF"
-  },
-  {
     "id": "recUnHocd4GOBWKY1",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "FL v Mathew Scott Flores (Lyft driver murder)",
@@ -4345,7 +4353,7 @@
     "createdTime": "2025-08-28T17:46:16.000Z",
     "Trial": "NV v Allysandra Blea (boyfriend killed; she was allegedly obsessed with guns)",
     "State": "Nevada",
-    "Location": "Clark County Justice Court (for now)",
+    "Location": "Clark County Court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXKVurdEdwJ6jaX"
   },
   {
@@ -5547,14 +5555,6 @@
     "State": "Texas",
     "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rech0YVcNFJSS18Kw"
-  },
-  {
-    "id": "rech2OjwxWcQ7NBNF",
-    "createdTime": "2025-07-15T12:22:47.000Z",
-    "Trial": "NH v Eric Sweeney /  teen accused of killing his sister-in-law and his two nephews",
-    "State": "New Hampshire",
-    "Location": "Merrimack",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rech2OjwxWcQ7NBNF"
   },
   {
     "id": "rech81tvSvogN1Goy",

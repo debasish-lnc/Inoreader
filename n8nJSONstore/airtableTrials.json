@@ -2289,6 +2289,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGibQkCtRtGOL57"
   },
   {
+    "id": "recGl9whOkviYVyZy",
+    "createdTime": "2025-10-09T21:42:12.000Z",
+    "Trial": "IN vs Nicholas Yates (son accused of killing missing mom)",
+    "State": "Indiana",
+    "Location": "Vermillion Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGl9whOkviYVyZy"
+  },
+  {
     "id": "recGmEyGK6fxaGmUv",
     "createdTime": "2025-05-21T12:11:20.000Z",
     "Trial": "UT v William Glines, Matthew Menard & Samuel Mitchell / Missing 15 year old Alisa Petrov",
@@ -3082,7 +3090,7 @@
   {
     "id": "recNbDk7QVA8Z0XYk",
     "createdTime": "2025-08-12T20:09:47.000Z",
-    "Trial": "SC v Lakesha Burnett, Alantis Thomas, Margaret Roberson,Darnell Dearmus(Death of 11 year old A'Kyri Bell)",
+    "Trial": "SC v Lakesha Burnett, Alantis Thomas, Margaret Roberson, Darnell Dearmus (Death of 11 year old A'Kyri Bell)",
     "State": "South Carolina",
     "Location": "Horry County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recNbDk7QVA8Z0XYk"
@@ -5610,14 +5618,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgwP0gPh0XlGVsU"
   },
   {
-    "id": "recgyl3AECz7HZpFp",
-    "createdTime": "2025-09-02T13:01:35.000Z",
-    "Trial": "TX v Leon Gonzalo Jr.  / Ding Dong Ditch shooting",
-    "State": "Texas",
-    "Location": "Harris County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgyl3AECz7HZpFp"
-  },
-  {
     "id": "rech0PC4Rr0H1ZLlM",
     "createdTime": "2025-08-05T14:08:08.000Z",
     "Trial": "FL v Trevor Lee (14-year-old accused in parents murder)",
@@ -6768,13 +6768,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recqJ4uKnVsri8JTX"
   },
   {
-    "id": "recqKWcmnZXpaLbhk",
-    "createdTime": "2025-07-29T22:05:16.000Z",
-    "Trial": "Harris Co, TX/ Frank Orenday/fatally shot man and injured woman in motel",
-    "State": "Texas",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recqKWcmnZXpaLbhk"
-  },
-  {
     "id": "recqMltpDLPDg6hoY",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "Dancers v Lizzo",
@@ -7386,14 +7379,6 @@
     "State": "Texas",
     "Location": "Atacosa County (South of San Antonio)",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recvgqzeH4NN5Wi8f"
-  },
-  {
-    "id": "recviUXiWNaIg4ht0",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "FL v Alyssa Blackburn, Lawrence Bonner Jr & Jacob Colville",
-    "State": "Florida",
-    "Location": "Escambia County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recviUXiWNaIg4ht0"
   },
   {
     "id": "recvsFxY2nBGB4z7V",

@@ -749,6 +749,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5vWtRevrxha7O3"
   },
   {
+    "id": "rec5yZzJsvrWFPNyx",
+    "createdTime": "2025-10-10T13:35:19.000Z",
+    "Trial": "FL v Waymore Gerhardt (14-year-old girl murder)",
+    "State": "Florida",
+    "Location": "Dixie County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5yZzJsvrWFPNyx"
+  },
+  {
     "id": "rec68YJAxVBgxZcaG",
     "createdTime": "2025-04-10T17:34:27.000Z",
     "Trial": "CA v Jillian Shriner (Lauren) (wife of Weezer bassist accused of attempted murder)",
@@ -973,14 +981,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7Jjo4eAIuVXO8b"
   },
   {
-    "id": "rec7L4VSDezsVfnPx",
-    "createdTime": "2025-09-04T18:07:01.000Z",
-    "Trial": "FL v Jose Antonio Soto-Escalera",
-    "State": "Florida",
-    "Location": "St. Lucie County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7L4VSDezsVfnPx"
-  },
-  {
     "id": "rec7RKKLV8z53MBWO",
     "createdTime": "2024-05-06T16:31:20.000Z",
     "Trial": "TX v Mary Ann Demetro and Jose Alvarez (Husband killed.  Claiming self-defense)",
@@ -1023,7 +1023,7 @@
   {
     "id": "rec7i9TYoiOv276JB",
     "createdTime": "2024-08-05T17:53:25.000Z",
-    "Trial": "AZ v Christopher Scholtes (Toddler left in hot car to die while he played Playstation)  Livestream denied for hearing.  ",
+    "Trial": "AZ v Christopher Scholtes (Toddler left in hot car to die while he played Playstation)  Livestream denied for hearing & trial.  ",
     "State": "Arizona",
     "Location": "Pima County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7i9TYoiOv276JB"
@@ -1267,6 +1267,14 @@
     "State": "Nevada",
     "Location": "Washoe County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9R7fiNHNLJcas4"
+  },
+  {
+    "id": "rec9Sfap6wba7rVKI",
+    "createdTime": "2025-10-09T22:23:49.000Z",
+    "Trial": "CA vs  Kenny Andrew Johnson & Alonzo J. Monk Jr/arrested after murder-for-hire plot leaves man dead",
+    "State": "California",
+    "Location": "Riverside",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9Sfap6wba7rVKI"
   },
   {
     "id": "rec9UREObDVD0CuMx",
@@ -1705,14 +1713,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCeAESICnDR3jkk"
   },
   {
-    "id": "recChj89asJC8UI6O",
-    "createdTime": "2025-07-21T15:54:35.000Z",
-    "Trial": "CO Joel Hollendorfer’s civil lawsuit in El Paso County",
-    "State": "Colorado",
-    "Location": "El Paso County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recChj89asJC8UI6O"
-  },
-  {
     "id": "recCkSR7IfGoSbQOY",
     "createdTime": "2024-08-16T18:46:43.000Z",
     "Trial": "TN v Timothy Blackdeer (child hot car death, forgot to drop off at babysitter)",
@@ -1759,14 +1759,6 @@
     "State": "California",
     "Location": "Los Angeles",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDSqdVYIGBSR0cC"
-  },
-  {
-    "id": "recDUQj7Vu6ko4OA7",
-    "createdTime": "2025-08-20T16:17:34.000Z",
-    "Trial": "MA v Joshua Hubert / accused of throwing a 7-year-old girl from a bridge into a lake six years ago is now facing multiple rape charges.",
-    "State": "Massachusetts",
-    "Location": "Worcester County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDUQj7Vu6ko4OA7"
   },
   {
     "id": "recDVQn2T35fcMFrf",
@@ -2055,14 +2047,6 @@
     "State": "Tennessee",
     "Location": "Greene county (An hour west of Knoxville toward NC)",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFbfeo3nOdfj3x3"
-  },
-  {
-    "id": "recFbnE0tPji2m9T3",
-    "createdTime": "2025-10-01T14:02:20.000Z",
-    "Trial": "CA v Antoine Watson / Elderly man attack and murder",
-    "State": "California",
-    "Location": "San Francisco",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFbnE0tPji2m9T3"
   },
   {
     "id": "recFceVdB1utPKlcv",
@@ -2822,14 +2806,6 @@
     "State": "Georgia",
     "Location": "Tift County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recLDYYuvPpNfq3wR"
-  },
-  {
-    "id": "recLDkfpP0tTqQn4x",
-    "createdTime": "2025-09-15T19:26:01.000Z",
-    "Trial": "TN v Brandon Isabelle / Murder of his girlfriend and newborn.  ",
-    "State": "Tennessee",
-    "Location": "Shelby County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recLDkfpP0tTqQn4x"
   },
   {
     "id": "recLI0joyBcUjcMbn",
@@ -4357,7 +4333,7 @@
   {
     "id": "recWX0Dlo3ozzZyJE",
     "createdTime": "2025-08-25T20:38:19.000Z",
-    "Trial": "SD v Drew Durand & Quinterius Chappelle",
+    "Trial": "SD v Drew Durand & Quinterius Chappelle / Chappelle is a member of the Air Force. Police said he murdered her on the base. Victim was native American.",
     "State": "South Dakota",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recWX0Dlo3ozzZyJE"
   },
@@ -4576,14 +4552,6 @@
     "State": "Florida",
     "Location": "Hillsborough County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYKIMlvDCBSleP8"
-  },
-  {
-    "id": "recYLd7SOZ9v5KIjQ",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "TX v Cynthia Ellen Ming (Neighbor Murder over a dog) Cameras?",
-    "State": "Texas",
-    "Location": "McLennan County 54th District",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYLd7SOZ9v5KIjQ"
   },
   {
     "id": "recYT3zUfBu61McXT",
@@ -5938,6 +5906,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjllIldyss3tWKw"
   },
   {
+    "id": "recjnEcEhQEnAUUnP",
+    "createdTime": "2025-10-10T16:06:44.000Z",
+    "Trial": "CA v Libby Adame / second-degree murder and practicing medicine without a certification after the death of Malibu actress Cindyana Santangelo",
+    "State": "California",
+    "Location": "Los Angeles",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjnEcEhQEnAUUnP"
+  },
+  {
     "id": "recjofxtLFldrkwkv",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "IL v Christian Soto (4 fatally stabbed)",
@@ -6792,14 +6768,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recqe1C4Guk4rb9lA"
   },
   {
-    "id": "recqiGuFYOSosPp77",
-    "createdTime": "2025-09-26T20:43:36.000Z",
-    "Trial": "WI v Michael Maldonado / High School teacher's aide hired three students to kill her husband",
-    "State": "Wisconsin",
-    "Location": "Jefferson County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recqiGuFYOSosPp77"
-  },
-  {
     "id": "recqiMVrZILkO6heB",
     "createdTime": "2025-09-10T14:57:50.000Z",
     "Trial": "FL v Ruben Whitworth / 16 year old charged with murder of another teen at a group home.  ",
@@ -6814,14 +6782,6 @@
     "State": "South Carolina",
     "Location": "Colleton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recqpg0xV9LdOlNeD"
-  },
-  {
-    "id": "recqsoGssv9bWC5VO",
-    "createdTime": "2025-07-30T15:54:57.000Z",
-    "Trial": "TX v Albert Casanova Jr/fatally shot woman at hotel",
-    "State": "Texas",
-    "Location": "Bexar County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recqsoGssv9bWC5VO"
   },
   {
     "id": "recqy5Szf6OG9fGta",

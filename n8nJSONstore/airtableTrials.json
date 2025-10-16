@@ -1350,7 +1350,7 @@
   {
     "id": "rec9zQdjgWr04yGnr",
     "createdTime": "2025-07-18T17:08:15.000Z",
-    "Trial": "CA v Jason Barker / arrested for murdering his girlfriend, 55-year-old Angela Kukawsk",
+    "Trial": "CA v Jason Barker / arrested for murdering his girlfriend, 55-year-old Angela Kukawsk (No cameras)",
     "State": "California",
     "Location": "Los Angeles",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9zQdjgWr04yGnr"
@@ -1497,6 +1497,14 @@
     "State": "Georgia",
     "Location": "Dekalb county",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBNEMq9LMhO37L4"
+  },
+  {
+    "id": "recBNu4S3ADGBsTLy",
+    "createdTime": "2025-10-15T12:10:32.000Z",
+    "Trial": "WI v Sierra Schoonover (pled guilty to mom's fatal stabbing)",
+    "State": "Wisconsin",
+    "Location": "Dane County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBNu4S3ADGBsTLy"
   },
   {
     "id": "recBPhrrKV5emzfVN",
@@ -3383,6 +3391,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPhJZ6gpfkCeZhP"
   },
   {
+    "id": "recPiMXZ5LuLKyqn4",
+    "createdTime": "2025-10-15T11:53:14.000Z",
+    "Trial": "FL v Sakiyna Thompson (found guilty in murder of romantic rival)",
+    "State": "Florida",
+    "Location": "Broward County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPiMXZ5LuLKyqn4"
+  },
+  {
     "id": "recPiubcDWRSeksfs",
     "createdTime": "2025-05-08T17:59:55.000Z",
     "Trial": "NM v Valerie and Melvin Cordell / Parents forced 7 kids to live in filthy ‘underground caves’ while they sexually abused the eldest, DA says",
@@ -3614,14 +3630,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQu1q58kCa1AvUQ"
   },
   {
-    "id": "recQyGYvBZocOTfgu",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "IL v Heather Unbehaun (girl kidnapped for 6 years)",
-    "State": "Illinois",
-    "Location": "Kane County Circuit Court",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQyGYvBZocOTfgu"
-  },
-  {
     "id": "recR9lzhvN0lJjeNi",
     "createdTime": "2025-08-11T13:58:35.000Z",
     "Trial": "CO v Daniel Nations / Man accused of road rage killing was investigated for 2 other murders, including the Delphi slayings: Police",
@@ -3708,6 +3716,14 @@
     "State": "Florida",
     "Location": "Hillsborough County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recRbfdqFCKh1VsRF"
+  },
+  {
+    "id": "recRleLPXgm3g0tKa",
+    "createdTime": "2025-09-11T14:03:48.000Z",
+    "Trial": "FL v Pedro Pablo Linares / Allegedly killed his sister.  Death Penalty?",
+    "State": "Florida",
+    "Location": "Miami-Dade",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recRleLPXgm3g0tKa"
   },
   {
     "id": "recRsEYMm0RDnbggg",
@@ -4245,9 +4261,9 @@
   {
     "id": "recWBSzXnUPjdU9JO",
     "createdTime": "2025-10-13T19:18:58.000Z",
-    "Trial": "CT v Karla Garcia (mother), Jacqueline Garcia (mother's sister) &, Jonaton Anita (Karla's BF) (12-year-old girl remains found)",
+    "Trial": "CT v Karla Garcia (mother), Jackelyn Garcia (mother's sister) &, Jonaton Nanita (Karla's BF) (12-year-old girl remains found)",
     "State": "Connecticut",
-    "Location": "New Britain JD?",
+    "Location": "Litchfield JD",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recWBSzXnUPjdU9JO"
   },
   {

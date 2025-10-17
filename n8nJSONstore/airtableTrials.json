@@ -3239,14 +3239,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recOtFXx4OapCGlf1"
   },
   {
-    "id": "recOxTILQS8VfzMD0",
-    "createdTime": "2025-07-11T14:25:33.000Z",
-    "Trial": "MN v Sarah Petersen (took a plea) & Samantha Petersen",
-    "State": "Minnesota",
-    "Location": "Fillmore County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recOxTILQS8VfzMD0"
-  },
-  {
     "id": "recOzGzXXOVj7AQGL",
     "createdTime": "2025-01-23T19:51:53.000Z",
     "Trial": "UT v Ariana Aguilar (Boyfriend killed, house party, called her teen daughter to help)",
@@ -4129,6 +4121,14 @@
     "State": "South Carolina",
     "Location": "Darlington County / Florence ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUqs506IyU4NrGF"
+  },
+  {
+    "id": "recUspxc2MiFCC0KE",
+    "createdTime": "2025-10-16T20:47:30.000Z",
+    "Trial": "GA v Necolette Pratt & Antonio Pearce (6-month-old baby, Nnakai Pratt, death)",
+    "State": "Georgia",
+    "Location": "Clayton County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUspxc2MiFCC0KE"
   },
   {
     "id": "recUxrOJaPPuw9Vk2",
@@ -5250,6 +5250,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receDu3pkzGYgiFFb"
   },
   {
+    "id": "receEFrNjwZaBUzYV",
+    "createdTime": "2025-10-16T19:03:49.000Z",
+    "Trial": "MI v Jalen Pendergrass and Charla Pendergrass (17-year-old London Thomas murder)",
+    "State": "Michigan",
+    "Location": "22nd District Ct in Inkster (for now) Wayne County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receEFrNjwZaBUzYV"
+  },
+  {
     "id": "receEmAbJLnzENq1h",
     "createdTime": "2025-04-22T17:33:23.000Z",
     "Trial": "FL v Roshawn Gatlin / Child stabbed over 20 times.  ",
@@ -5512,14 +5520,6 @@
     "State": "Ohio",
     "Location": "Hamilton County / Cincinnati",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgJ79iy0atZI5WW"
-  },
-  {
-    "id": "recgJsSDJLBWMqUQ6",
-    "createdTime": "2025-09-29T19:31:25.000Z",
-    "Trial": "LAUREN MATTHIAS vs. CHRISTINA MACARTHUR / True Crime stalking case",
-    "State": "Utah",
-    "Location": "Provo",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgJsSDJLBWMqUQ6"
   },
   {
     "id": "recgNBqVGg3K4Gnpj",

@@ -5848,5 +5848,15 @@
     "canonical_name": "New York v. David Huff",
     "searchUrl": "https://news.google.com/rss/search?q=new%20york%20v%20david%20huff%20Onondaga%20County%2C%20NY%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
     "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwZWUU599QFlCQh"
+  },
+  {
+    "canonical_name": "Georgia v. Necolette Pratt and Antonio Pearce",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUspxc2MiFCC0KE",
+    "searchUrl": "https://news.google.com/rss/search?q=georgia%20v.%20necolette%20pratt%20and%20antonio%20pearce%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "canonical_name": "Michigan v. Jalen Pendergrass and Charla Pendergrass",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receEFrNjwZaBUzYV",
+    "searchUrl": "https://news.google.com/rss/search?q=michigan%20v.%20jalen%20pendergrass%20and%20charla%20pendergrass%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
   }
 ]

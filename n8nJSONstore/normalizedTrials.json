@@ -5845,12 +5845,27 @@
   },
   {
     "canonical_name": "Georgia v. Necolette Pratt and Antonio Pearce",
-    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUspxc2MiFCC0KE",
-    "searchUrl": "https://news.google.com/rss/search?q=georgia%20v.%20necolette%20pratt%20and%20antonio%20pearce%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+    "searchUrl": "https://news.google.com/rss/search?q=georgia%20v.%20necolette%20pratt%20and%20antonio%20pearce%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUspxc2MiFCC0KE"
   },
   {
     "canonical_name": "Michigan v. Jalen Pendergrass and Charla Pendergrass",
-    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receEFrNjwZaBUzYV",
-    "searchUrl": "https://news.google.com/rss/search?q=michigan%20v.%20jalen%20pendergrass%20and%20charla%20pendergrass%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+    "searchUrl": "https://news.google.com/rss/search?q=michigan%20v.%20jalen%20pendergrass%20and%20charla%20pendergrass%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receEFrNjwZaBUzYV"
+  },
+  {
+    "canonical_name": "Texas v. Samuel Aquim Charon",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUlqEX6owfvxb4s",
+    "searchUrl": "https://news.google.com/rss/search?q=texas%20v.%20samuel%20aquim%20charon%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "canonical_name": "Michigan v. Adam Paul Beckerink",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXyyogRb6cD7u3F",
+    "searchUrl": "https://news.google.com/rss/search?q=michigan%20v.%20adam%20paul%20beckerink%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "canonical_name": "California v. Rockim Prowell",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbLPcRscX5UTvPq",
+    "searchUrl": "https://news.google.com/rss/search?q=california%20v.%20rockim%20prowell%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
   }
 ]

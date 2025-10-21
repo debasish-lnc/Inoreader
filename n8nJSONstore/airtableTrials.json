@@ -216,14 +216,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec15ZBkNehjRi8dU"
   },
   {
-    "id": "rec17oYM6DHAVaENb",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "WI v Erik Metzig (Parents killed)",
-    "State": "Wisconsin",
-    "Location": "Winnebago County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec17oYM6DHAVaENb"
-  },
-  {
     "id": "rec1A8LQNz6bmr5hp",
     "createdTime": "2025-03-28T17:27:47.000Z",
     "Trial": "IL v Matthew Herpstreith ",
@@ -339,7 +331,7 @@
     "createdTime": "2024-07-11T20:23:36.000Z",
     "Trial": "MS v Bricen Rivers (Ex-boyfriend stalking murder case of nursing student)",
     "State": "Mississippi",
-    "Location": " Harrison County",
+    "Location": " Forrest County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2aGxULurgruQvP"
   },
   {
@@ -1913,14 +1905,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recESWEnHTwJAT10z"
   },
   {
-    "id": "recEXNbmsrqBqBvVi",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "Grace O'Marcaigh vs Christian Combs (Diddy's son accused of sex assault lawsuit)",
-    "State": "California",
-    "Location": "Los Angeles County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEXNbmsrqBqBvVi"
-  },
-  {
     "id": "recEg2KHF5oMOvM19",
     "createdTime": "2025-07-15T17:41:51.000Z",
     "Trial": "IL v Christina Formella / Teacher with 52 charges in student sex case.  ",
@@ -2944,6 +2928,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMWVwwVkuEwKMHY"
   },
   {
+    "id": "recMsVHiAXB8c4e9k",
+    "createdTime": "2025-09-09T13:39:05.000Z",
+    "Trial": "FL v Ariely Alvarez-Cabrera (missing man murder)",
+    "State": "Florida",
+    "Location": "Miami-Dade",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMsVHiAXB8c4e9k"
+  },
+  {
     "id": "recMxbrCip5AhRkbm",
     "createdTime": "2025-03-06T13:42:12.000Z",
     "Trial": "FL v Victoria Delisa Williams / Woman uses hair vitalizer jar, metal cane to murder stepfather who ‘never treated her fairly’ during fight over visiting mom",
@@ -3261,6 +3253,14 @@
     "State": "California",
     "Location": "Los Angeles Superior",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recP4lVMYTlGiliUM"
+  },
+  {
+    "id": "recP7LnVIwcIBMrpt",
+    "createdTime": "2025-10-20T13:29:48.000Z",
+    "Trial": "NH v Dustin Duren / Wife killed, children Amber Alert.",
+    "State": "New Hampshire",
+    "Location": "1st Circuit - District Division - Berlin",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recP7LnVIwcIBMrpt"
   },
   {
     "id": "recP7uFH0QG1H64sP",
@@ -4338,6 +4338,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recWX0Dlo3ozzZyJE"
   },
   {
+    "id": "recWggqCs0hUf5BAU",
+    "createdTime": "2025-10-17T20:58:53.000Z",
+    "Trial": " NM vs Josiah Armijo/security guard charged with murder",
+    "State": "New Mexico",
+    "Location": "Albuquerque",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recWggqCs0hUf5BAU"
+  },
+  {
     "id": "recWnnNMThkAe9dvR",
     "createdTime": "2025-03-18T12:26:24.000Z",
     "Trial": "MO v Alyssa Wehmeyer / accused of leaving her 1-year-old baby alone for hours at a time and neglected to feed the child for 43 hours, reportedly because she “had a migraine.”",
@@ -5364,7 +5372,7 @@
   {
     "id": "recegtJhZk891faeF",
     "createdTime": "2024-06-10T20:44:09.000Z",
-    "Trial": "OH v Bionca Ellis (Child stabbed) No livestream!",
+    "Trial": "OH v Bionca Ellis (Child stabbed) ",
     "State": "Ohio",
     "Location": "Cleveland",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recegtJhZk891faeF"
@@ -7160,7 +7168,7 @@
   {
     "id": "recuC8FgR3edbEkqP",
     "createdTime": "2025-08-05T14:02:56.000Z",
-    "Trial": "KY v Harvey Gollahan",
+    "Trial": "KY v Harvey Gollahan / Baby Elena death",
     "State": "Kentucky",
     "Location": "Bell County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recuC8FgR3edbEkqP"
@@ -7865,7 +7873,7 @@
     "createdTime": "2024-07-26T21:58:17.000Z",
     "Trial": "WI v Logan Kruckenberg-Anderson / 16-year-old accused of shooting newborn daughter, leaving her in a tree",
     "State": "Wisconsin",
-    "Location": "Green",
+    "Location": "Green County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reczrzjDJBOi8RPP2"
   },
   {

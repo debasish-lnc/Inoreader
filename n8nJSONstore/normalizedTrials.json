@@ -144,12 +144,6 @@
     "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec15ZBkNehjRi8dU"
   },
   {
-    "id": "rec17oYM6DHAVaENb",
-    "canonical_name": "Wisconsin v. Erik Metzig",
-    "searchUrl": "https://news.google.com/rss/search?q=wisconsin%20v%20erik%20metzig%20Winnebago%20County%2C%20WI%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
-    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec17oYM6DHAVaENb"
-  },
-  {
     "id": "rec1A8LQNz6bmr5hp",
     "canonical_name": "Illinois v. Matthew Herpstreith",
     "searchUrl": "https://news.google.com/rss/search?q=illinois%20v%20matthew%20herpstreith%20Carroll%20County%2C%20IL%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
@@ -1366,12 +1360,6 @@
     "canonical_name": "California v. Mercedes Bette Rosales v. Micaela Van",
     "searchUrl": "https://news.google.com/rss/search?q=california%20v%20mercedes%20bette%20rosales%20v%20micaela%20van%20Santa%20Clara%20County%2C%20CA%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
     "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recESWEnHTwJAT10z"
-  },
-  {
-    "id": "recEXNbmsrqBqBvVi",
-    "canonical_name": "Grace O'Marcaigh v. Christian Combs",
-    "searchUrl": "https://news.google.com/rss/search?q=grace%20o'marcaigh%20v%20christian%20combs%20Los%20Angeles%20County%2C%20CA%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
-    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEXNbmsrqBqBvVi"
   },
   {
     "id": "recEg2KHF5oMOvM19",

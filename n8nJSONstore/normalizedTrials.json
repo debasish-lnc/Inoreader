@@ -5843,17 +5843,32 @@
   },
   {
     "canonical_name": "Texas v. Samuel Aquim Charon",
-    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUlqEX6owfvxb4s",
-    "searchUrl": "https://news.google.com/rss/search?q=texas%20v.%20samuel%20aquim%20charon%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+    "searchUrl": "https://news.google.com/rss/search?q=texas%20v.%20samuel%20aquim%20charon%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUlqEX6owfvxb4s"
   },
   {
     "canonical_name": "Michigan v. Adam Paul Beckerink",
-    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXyyogRb6cD7u3F",
-    "searchUrl": "https://news.google.com/rss/search?q=michigan%20v.%20adam%20paul%20beckerink%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+    "searchUrl": "https://news.google.com/rss/search?q=michigan%20v.%20adam%20paul%20beckerink%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXyyogRb6cD7u3F"
   },
   {
     "canonical_name": "California v. Rockim Prowell",
-    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbLPcRscX5UTvPq",
-    "searchUrl": "https://news.google.com/rss/search?q=california%20v.%20rockim%20prowell%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+    "searchUrl": "https://news.google.com/rss/search?q=california%20v.%20rockim%20prowell%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbLPcRscX5UTvPq"
+  },
+  {
+    "canonical_name": "Florida v. Ariely Alvarez-Cabrera",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMsVHiAXB8c4e9k",
+    "searchUrl": "https://news.google.com/rss/search?q=florida%20v.%20ariely%20alvarez-cabrera%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "canonical_name": "New Hampshire v. Dustin Duren",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recP7LnVIwcIBMrpt",
+    "searchUrl": "https://news.google.com/rss/search?q=new%20hampshire%20v.%20dustin%20duren%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+  },
+  {
+    "canonical_name": "New Mexico v. Josiah Armijo",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recWggqCs0hUf5BAU",
+    "searchUrl": "https://news.google.com/rss/search?q=new%20mexico%20v.%20josiah%20armijo%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
   }
 ]

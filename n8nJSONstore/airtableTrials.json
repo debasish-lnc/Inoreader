@@ -1077,14 +1077,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7s5K5UbeNgnv44"
   },
   {
-    "id": "rec7vQm3LCTTE5Buj",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "GA v Ariel Osbey (hot car child death)",
-    "State": "Georgia",
-    "Location": "Newton County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7vQm3LCTTE5Buj"
-  },
-  {
     "id": "rec858oYVEjNFh8mG",
     "createdTime": "2025-03-04T18:02:40.000Z",
     "Trial": "FL v Mordechai Brafman / Shot two people because he thought they were Palestinians",
@@ -1401,6 +1393,22 @@
     "State": "Kansas",
     "Location": "Saline County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recAMs9zdyJny9JZy"
+  },
+  {
+    "id": "recAS5aBMv4nijoEK",
+    "createdTime": "2025-10-09T21:49:33.000Z",
+    "Trial": "CT vs Javian Adams/accused of fatally shooting parents",
+    "State": "Connecticut",
+    "Location": "Waterbury",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recAS5aBMv4nijoEK"
+  },
+  {
+    "id": "recAa2uuFXZsTmUDz",
+    "createdTime": "2025-10-09T21:51:44.000Z",
+    "Trial": "NY vs Weisheng Chen/charged murdering mom-in-law and stabbing teen bro-in-law",
+    "State": "New York",
+    "Location": "Queens",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recAa2uuFXZsTmUDz"
   },
   {
     "id": "recAaTdXq6c2Q7gfd",
@@ -1883,7 +1891,7 @@
   {
     "id": "recEJ4VN928Pwzr2B",
     "createdTime": "2025-10-03T14:10:22.000Z",
-    "Trial": "TX v Alfred Flores and Eleazar Alejandro Nathaniel Villalobos ",
+    "Trial": "TX v Alfred Flores and Eleazar Alejandro & Nathaniel Villalobos ",
     "State": "Texas",
     "Location": "Bexar / San Antonio",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEJ4VN928Pwzr2B"
@@ -4770,14 +4778,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recaJGd3nlJF401e7"
   },
   {
-    "id": "recaJc2auA2syEuG0",
-    "createdTime": "2024-05-06T16:31:20.000Z",
-    "Trial": "TX v Sarah Jean Hartsfield (Husband suspicious illness death)",
-    "State": "Texas",
-    "Location": "Chambers County (Outside Houston)",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recaJc2auA2syEuG0"
-  },
-  {
     "id": "recaK9TYgXLYMaqHL",
     "createdTime": "2025-08-21T14:00:30.000Z",
     "Trial": "NV v Jason Kendall / Mystery death of an alleged sex worker in a Vegas hotel.  ",
@@ -6010,14 +6010,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckNEfRzOW2EzF46"
   },
   {
-    "id": "reckT4ra2LilHOWi4",
-    "createdTime": "2025-07-31T19:51:51.000Z",
-    "Trial": "KS v Kyle Bearden / Man accused of killing Wichita woman months after judge ruled he wasn't a threat",
-    "State": "Kansas",
-    "Location": "Sedgwick County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckT4ra2LilHOWi4"
-  },
-  {
     "id": "reckUCv1nhJ21XGmD",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "MI v Kiara Carpenter (woman run over during argument)",
@@ -6304,6 +6296,14 @@
     "State": "Illinois",
     "Location": "Jefferson Co",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recn96Ar5Tmsjxx6x"
+  },
+  {
+    "id": "recnEQZXgnvEX2VEx",
+    "createdTime": "2025-10-21T15:24:04.000Z",
+    "Trial": "FL v Jason Banegas / DP trial of man accused of 2021 murder of Hollywood Officer",
+    "State": "Florida",
+    "Location": "Broward County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recnEQZXgnvEX2VEx"
   },
   {
     "id": "recnFNw6vSe8ZMgd1",
@@ -7039,6 +7039,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rectBWrWvL8WGsd4i"
   },
   {
+    "id": "rectHtws6G6vQnO20",
+    "createdTime": "2025-10-21T16:59:04.000Z",
+    "Trial": "FL v Justine Eve Mroz /Mom (a teacher) 'snapped' after being struck by her 6-year-old son",
+    "State": "Florida",
+    "Location": "Pasco Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rectHtws6G6vQnO20"
+  },
+  {
     "id": "rectIoneezHvoSd6r",
     "createdTime": "2024-05-06T16:31:20.000Z",
     "Trial": "NV v Mashenka Reid (Teen claims she couldn't resist the urge to kill her father and brother)",
@@ -7381,6 +7389,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recw0zao8yOyFYEAU"
   },
   {
+    "id": "recw6vegSM21lpJZC",
+    "createdTime": "2025-10-21T21:31:50.000Z",
+    "Trial": "CA vs Brandon Padilla-Aguilera/Father arrested for murder after 2-year-old son was swept away by floodwaters",
+    "State": "California",
+    "Location": "San Bernardino ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recw6vegSM21lpJZC"
+  },
+  {
     "id": "recwIeDvEfluSC6bi",
     "createdTime": "2025-08-07T19:18:58.000Z",
     "Trial": "NH v Anna Barbara Hantz Marconi / Judge indicted on felony charges for allegedly trying to help her husband with a crime.  ",
@@ -7515,6 +7531,14 @@
     "State": "Florida",
     "Location": "Marion County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxDOupK7n3tbJ1b"
+  },
+  {
+    "id": "recxILhEERSvQLeve",
+    "createdTime": "2025-10-21T16:34:40.000Z",
+    "Trial": "UT v Hezekiah Plummer / teen has been charged as an adult with murder in the weekend killing of an Ogden teen, identified by authorities as his girlfriend.",
+    "State": "Utah",
+    "Location": "Weber County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxILhEERSvQLeve"
   },
   {
     "id": "recxNQcR6fJVY2AVm",

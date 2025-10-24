@@ -669,6 +669,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5Axe1QnqJEWThA"
   },
   {
+    "id": "rec5CvS6uibepZczT",
+    "createdTime": "2025-10-22T13:10:11.000Z",
+    "Trial": "WI v Charlotte Kurek and Devario Cruz / Death of 4 year old found outside a DairyQueen",
+    "State": "Wisconsin",
+    "Location": "Milwaukee County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5CvS6uibepZczT"
+  },
+  {
     "id": "rec5OrGOasgrXntkZ",
     "createdTime": "2024-11-22T14:43:55.000Z",
     "Trial": "FL v Deshawn \"Thorobread\" Davis (Murder of rapper Lowell \"Lo\" Grissom, Two defendants)",
@@ -2313,6 +2321,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recH2Jh2pkcTHdD2b"
   },
   {
+    "id": "recH3B2JVdPumsRCB",
+    "createdTime": "2025-10-22T17:10:11.000Z",
+    "Trial": "WI v Keionna McGowan / Neighbor shot",
+    "State": "Wisconsin",
+    "Location": "Milwaukee",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recH3B2JVdPumsRCB"
+  },
+  {
     "id": "recH66dt1lfHA5yLb",
     "createdTime": "2025-01-23T12:08:43.000Z",
     "Trial": "TX v Corey Pritchett Jr.  YouTuber who allegedly abducted 2 women and told them ‘I’m going to f— y’all and then kill y’all’ is back in US and behind bars after fleeing to Qatar",
@@ -2629,6 +2645,7 @@
     "createdTime": "2024-05-06T16:31:20.000Z",
     "Trial": "RUST Civil Case",
     "State": "New Mexico",
+    "Location": "Federal",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recK6D1rgBntVgGmm"
   },
   {
@@ -2710,6 +2727,14 @@
     "State": "Alaska",
     "Location": "Anchorage",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recKceIiJ3xEGk26E"
+  },
+  {
+    "id": "recKe7IkCAVNku83e",
+    "createdTime": "2025-10-07T21:44:47.000Z",
+    "Trial": "WI vs Rae'Jianna D. Hall/fatally stabbed cousin over Taco Bell job",
+    "State": "Wisconsin",
+    "Location": "Milwaukee",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recKe7IkCAVNku83e"
   },
   {
     "id": "recKv8HT8sqlTkiqU",
@@ -4610,6 +4635,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYd0QxwjwNJMUXZ"
   },
   {
+    "id": "recYfohQTAtuEbNtN",
+    "createdTime": "2025-10-21T13:41:42.000Z",
+    "Trial": "WI v Carter Green / DUI Crash fatal teen",
+    "State": "Wisconsin",
+    "Location": "Outagamie County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYfohQTAtuEbNtN"
+  },
+  {
     "id": "recYooiX8KfMuywBI",
     "createdTime": "2024-07-25T18:41:31.000Z",
     "Trial": "GA v Coledye Warnock (Social media beef leads to murder)",
@@ -4632,6 +4665,14 @@
     "State": "Arizona",
     "Location": "Maricopa County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recZ2734POrRzkSuP"
+  },
+  {
+    "id": "recZ6kEvkrBCH068v",
+    "createdTime": "2025-10-22T20:17:57.000Z",
+    "Trial": "WI v Shanton Jr. Lay, turns himself in, allegedly confesses to hit-and-run that killed woman celebrating birthday",
+    "State": "Wisconsin",
+    "Location": "Milwaukee County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recZ6kEvkrBCH068v"
   },
   {
     "id": "recZ9128jDCMrxQlf",
@@ -6598,7 +6639,7 @@
     "createdTime": "2025-08-13T19:14:48.000Z",
     "Trial": "MI v Keyvonte Deshawn Clark/Man accused of killing missing mom",
     "State": "Michigan",
-    "Location": "Wayne County",
+    "Location": "Wayne County - Third Judicial District",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recpNgW5ALjV0WQXQ"
   },
   {
@@ -7144,7 +7185,7 @@
   {
     "id": "recuBBibeBCIJBG2J",
     "createdTime": "2025-04-22T22:35:23.000Z",
-    "Trial": "VA v Katelynn Hipes",
+    "Trial": "VA v Katelynn Hipes (murder suspect arrested after manhunt)",
     "State": "Virginia",
     "Location": "NELSON COUNTY, Va",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recuBBibeBCIJBG2J"
@@ -7467,6 +7508,14 @@
     "State": "Tennessee",
     "Location": "Memphis",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwlQSx1ImqnVoEt"
+  },
+  {
+    "id": "recwqeiy5sMx1Ez1W",
+    "createdTime": "2024-05-03T16:47:55.000Z",
+    "Trial": "OH v William Brock (Uber Driver shot / He thought she was scamming him)",
+    "State": "Ohio",
+    "Location": "Clark County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwqeiy5sMx1Ez1W"
   },
   {
     "id": "recwtUbYTD9AL4Hds",

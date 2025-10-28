@@ -5891,7 +5891,12 @@
   },
   {
     "canonical_name": "Massachusetts v. Terrence Crosbie",
-    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEuknBgJz6T77GH",
-    "searchUrl": "https://news.google.com/rss/search?q=massachusetts%20v.%20terrence%20crosbie%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en"
+    "searchUrl": "https://news.google.com/rss/search?q=massachusetts%20v.%20terrence%20crosbie%20case%20updates%20when:1d&hl=en-US&gl=US&ceid=US:en",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEuknBgJz6T77GH"
+  },
+  {
+    "canonical_name": "Kentucky v. Michael Booth",
+    "airtable_record_url": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recaFP3bDtfF8cscZ",
+    "searchUrl": "https://news.google.com/rss/search?q=(%22Kentucky%20v.%20Michael%20Booth%22%20OR%20%22Commonwealth%20v.%20Michael%20Booth%22%20OR%20%22State%20v.%20Michael%20Booth%22%20OR%20%22Michael%20Booth%22)&hl=en-US&gl=US&ceid=US:en"
   }
 ]

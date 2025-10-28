@@ -1376,6 +1376,7 @@
     "createdTime": "2025-07-24T16:25:27.000Z",
     "Trial": "NC v Brian Reed Grant / Locksmith shot",
     "State": "North Carolina",
+    "Location": "Brunswick County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recAJ8b8Xu3R2PSwY"
   },
   {
@@ -1449,14 +1450,6 @@
     "State": "Georgia",
     "Location": "Gwinnett County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recAw0jUhuf1dVVM4"
-  },
-  {
-    "id": "recB2EW6OmeZwNvZE",
-    "createdTime": "2025-04-07T14:05:42.000Z",
-    "Trial": "OH v Blake Bates and Alyssa Smith (Parents charged with manslaughter after their pit bull killed their baby)",
-    "State": "Ohio",
-    "Location": "Marion County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recB2EW6OmeZwNvZE"
   },
   {
     "id": "recBEFvDvxgV5wnS4",
@@ -4803,6 +4796,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recaDLYYe77313oMd"
   },
   {
+    "id": "recaFP3bDtfF8cscZ",
+    "createdTime": "2025-10-27T15:19:00.000Z",
+    "Trial": "KY vs Michael Booth/Youtuber arrested for child porn charges",
+    "State": "Kentucky",
+    "Location": "Jefferson Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recaFP3bDtfF8cscZ"
+  },
+  {
     "id": "recaJGd3nlJF401e7",
     "createdTime": "2025-04-25T16:11:04.000Z",
     "Trial": "WA v Jeffrey Zizz / 82 year old woman found buried in concrete under a shed.  ",
@@ -5401,14 +5402,6 @@
     "State": "Wisconsin",
     "Location": "Outagamie County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receYiNxtZykrWZA1"
-  },
-  {
-    "id": "recegtJhZk891faeF",
-    "createdTime": "2024-06-10T20:44:09.000Z",
-    "Trial": "OH v Bionca Ellis (Child stabbed) ",
-    "State": "Ohio",
-    "Location": "Cleveland",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recegtJhZk891faeF"
   },
   {
     "id": "recehQIdXgnyhQZKO",

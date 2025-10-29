@@ -3764,7 +3764,7 @@
     "createdTime": "2025-08-20T17:09:55.000Z",
     "Trial": "FL vs Chloe Spencer & Daniel Spencer/mom and stepdad charged in connection to 5 yr old girl's death",
     "State": "Florida",
-    "Location": "Tallahassee",
+    "Location": "Leon County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recRvmIyg6hIGJaC6"
   },
   {
@@ -4548,6 +4548,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXxo3gNZ1FTqM93"
   },
   {
+    "id": "recXyyogRb6cD7u3F",
+    "createdTime": "2025-10-17T16:56:50.000Z",
+    "Trial": "IL v Adam Paul Beckerink",
+    "State": "Illinois",
+    "Location": "Cook County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXyyogRb6cD7u3F"
+  },
+  {
     "id": "recY2msjSCmFZ60Kd",
     "createdTime": "2024-07-08T11:57:21.000Z",
     "Trial": "FL v Sonja Ann Zsiga (Child killed)",
@@ -4642,6 +4650,14 @@
     "State": "Wisconsin",
     "Location": "Outagamie County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYfohQTAtuEbNtN"
+  },
+  {
+    "id": "recYmGKeubOKtEunj",
+    "createdTime": "2025-10-28T20:20:14.000Z",
+    "Trial": "NH v William Kelly / accused of killing his pregnant girlfriend",
+    "State": "New Hampshire",
+    "Location": "Carroll County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYmGKeubOKtEunj"
   },
   {
     "id": "recYooiX8KfMuywBI",
@@ -5340,6 +5356,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receIxleQVp1gl7a3"
   },
   {
+    "id": "receKFJTyol2a8RoK",
+    "createdTime": "2025-10-28T18:06:44.000Z",
+    "Trial": "NC vs Wellington Delano Dickens III/4 children found dead in trunk of car; father tells 911 he killed them",
+    "State": "North Carolina",
+    "Location": "Johnson County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receKFJTyol2a8RoK"
+  },
+  {
     "id": "receNfgH7uFabVy4u",
     "createdTime": "2024-09-26T20:42:02.000Z",
     "Trial": "MI v Jarvis Butts (Missing child victim)",
@@ -5674,6 +5698,14 @@
     "State": "North Carolina",
     "Location": "Mecklenburg County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rech9XeBQqESmInW4"
+  },
+  {
+    "id": "rechUhtVdMVOuDFd9",
+    "createdTime": "2025-10-28T21:51:36.000Z",
+    "Trial": "MI vs Samantha Rae Booth/grandfather killed by nanny while protecting his granddaughter",
+    "State": "Michigan",
+    "Location": "Oakland Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rechUhtVdMVOuDFd9"
   },
   {
     "id": "rechVmwDStNZevlx9",
@@ -6698,6 +6730,14 @@
     "State": "Illinois",
     "Location": "Cook County (Chicago)",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recplF1Eh1Gx5KOqD"
+  },
+  {
+    "id": "recplfNioHNtOkK0b",
+    "createdTime": "2025-10-28T19:40:51.000Z",
+    "Trial": "WV v Gavin Smith (granted new trial in family killing)",
+    "State": "West Virginia",
+    "Location": "Kanawha County Circuit Court ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recplfNioHNtOkK0b"
   },
   {
     "id": "recpoqkF4PSj4ht3P",

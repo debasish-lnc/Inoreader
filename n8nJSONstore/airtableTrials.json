@@ -146,7 +146,7 @@
   {
     "id": "rec0kzbtTVWxzG2E8",
     "createdTime": "2025-07-16T19:11:51.000Z",
-    "Trial": "SC v Nicole Ballew Callaham",
+    "Trial": "SC v Nicole Ballew Callaham (teacher accused inappropriate relationship with 14-year-old boy)",
     "State": "South Carolina",
     "Location": "Anderson and Greenville counties",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0kzbtTVWxzG2E8"
@@ -735,7 +735,7 @@
   {
     "id": "rec5tVHWbbD2ZhAzZ",
     "createdTime": "2025-06-13T18:09:22.000Z",
-    "Trial": "LA vs. Joseph Boatman/Left toddler in car, toddler died",
+    "Trial": "LA vs. Joseph Boatman/Left toddler in car, toddler died (No cameras)",
     "State": "Louisiana",
     "Location": "St Tammany Parish",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5tVHWbbD2ZhAzZ"
@@ -1163,6 +1163,14 @@
     "State": "Texas",
     "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8N3Hh5zoGWAX9n"
+  },
+  {
+    "id": "rec8RGgXzbgnMLC7c",
+    "createdTime": "2025-10-28T20:13:55.000Z",
+    "Trial": "FL v Leigha Mumby / Boyfriend dies after waking up from coma and revealing pregnant girlfriend's last words to him before 'intentionally' crashing Honda into tree, cops say",
+    "State": "Florida",
+    "Location": "Flagler County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8RGgXzbgnMLC7c"
   },
   {
     "id": "rec8UNRiw91ruebif",
@@ -2522,6 +2530,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recIwafV1vodwodSN"
   },
   {
+    "id": "recJ3MryGgJ9gJxgj",
+    "createdTime": "2025-10-30T13:26:35.000Z",
+    "Trial": "CO v Khayla Dawson (Uber driver stabbing death, took car for joy ride)",
+    "State": "Colorado",
+    "Location": "El Paso County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recJ3MryGgJ9gJxgj"
+  },
+  {
     "id": "recJBFrrdhTzWMOQk",
     "createdTime": "2025-03-20T11:48:00.000Z",
     "Trial": "SC v Amy Perez / Kidnapping her husband's GF and son allegedly",
@@ -2984,6 +3000,14 @@
     "State": "North Dakota",
     "Location": "Mountrail County / North Central Judicial",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recN9n4dU3ktIC4zx"
+  },
+  {
+    "id": "recNBAhLGfHYF6PXI",
+    "createdTime": "2025-10-30T13:48:36.000Z",
+    "Trial": "CA v Ray Mata and Graciela Bustamonte / 8-year-old Genesis Mata’s accused killers to go to trial",
+    "State": "California",
+    "Location": "Bakersfield / Kern County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recNBAhLGfHYF6PXI"
   },
   {
     "id": "recNDeRv10K2Azndh",
@@ -3946,7 +3970,7 @@
   {
     "id": "recT3mLbVAx2s3AgD",
     "createdTime": "2025-03-20T14:16:31.000Z",
-    "Trial": "Carlos Fernandez (12 yr old murdered by Mom's ex boyfriend)",
+    "Trial": "TX v Carlos Fernandez (12 yr old murdered by Mom's ex boyfriend)",
     "State": "Texas",
     "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recT3mLbVAx2s3AgD"
@@ -3958,11 +3982,6 @@
     "State": "North Carolina",
     "Location": "Dare District Court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTDjDSMEM1CRjXD"
-  },
-  {
-    "id": "recTHvvE0KOzRN8wU",
-    "createdTime": "2025-10-07T14:09:41.000Z",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTHvvE0KOzRN8wU"
   },
   {
     "id": "recTPFEGfTv0mqIEs",
@@ -4003,6 +4022,14 @@
     "State": "North Carolina",
     "Location": "Mecklenburg County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTY8rkgO7hZ0MNY"
+  },
+  {
+    "id": "recTcZHSNxfj3hLOg",
+    "createdTime": "2025-10-30T16:29:39.000Z",
+    "Trial": "CT v Sebastian Van Stockum / 20, ‘Bludgeoned’ Mother to Death Police say",
+    "State": "Connecticut",
+    "Location": "Stamford",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTcZHSNxfj3hLOg"
   },
   {
     "id": "recTiFuy9glUJHB5Y",
@@ -4996,6 +5023,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbaWhzeGdf5VuqI"
   },
   {
+    "id": "recbjxkh8hrCA6bgu",
+    "createdTime": "2025-10-30T18:46:23.000Z",
+    "Trial": "PA v Jessica Mauthe / deaths of four infants",
+    "State": "Pennsylvania",
+    "Location": "Armstrong County ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbjxkh8hrCA6bgu"
+  },
+  {
     "id": "recbkCJTcoV3bg1Vf",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "OK v Ivon Adams (4 year old killed)",
@@ -5618,6 +5653,14 @@
     "State": "Florida",
     "Location": "Miami-Dade",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgSnvHF0Z5he2KA"
+  },
+  {
+    "id": "recgTkOODQqx2SzDL",
+    "createdTime": "2025-10-30T15:20:57.000Z",
+    "Trial": "CO v Darin Thrailkill (child murder; suspect arrested 7 years later)",
+    "State": "Colorado",
+    "Location": "Mesa County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgTkOODQqx2SzDL"
   },
   {
     "id": "recgeIFLFD1LM9ltE",

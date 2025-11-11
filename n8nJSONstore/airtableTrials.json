@@ -274,7 +274,7 @@
   {
     "id": "rec1qoDCyxVmGkW4W",
     "createdTime": "2024-12-23T14:24:48.000Z",
-    "Trial": "AZ v Ian Mitcham (Allison Feldman murder case)",
+    "Trial": "AZ v Ian Mitcham (Allison Feldman murder case) ",
     "State": "Arizona",
     "Location": "Maricopa County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec1qoDCyxVmGkW4W"
@@ -977,7 +977,7 @@
     "createdTime": "2025-06-30T13:32:13.000Z",
     "Trial": "MA v Andrew Horsman (mother's boyfriend fatal stabbing)",
     "State": "Massachusetts",
-    "Location": " Wareham District Court (for now) - Will move to Plymouth Co.",
+    "Location": "Plymouth Co.",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec78lFYrD1jsx7tJ"
   },
   {
@@ -1500,6 +1500,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recAyge8zDaxCT67t"
   },
   {
+    "id": "recB0na6cyAs4SVNh",
+    "createdTime": "2025-11-10T19:27:13.000Z",
+    "Trial": "WI v Jamica Simone Mills (Pharmacy student friend death)",
+    "State": "Wisconsin",
+    "Location": "Milwaukee County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recB0na6cyAs4SVNh"
+  },
+  {
     "id": "recBEFvDvxgV5wnS4",
     "createdTime": "2024-05-06T16:31:20.000Z",
     "Trial": "NJ v Paul Caneiro (Mansion Murder)  ",
@@ -1682,6 +1690,14 @@
     "State": "Florida",
     "Location": "Panama City / Bay County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCJNf3gCh8zSTN0"
+  },
+  {
+    "id": "recCJkNjKeRtn1Sc0",
+    "createdTime": "2025-11-10T14:47:16.000Z",
+    "Trial": "FL v John Henry Walston, Jr (2 children killed after assaulting 1, home set on fire)",
+    "State": "Florida",
+    "Location": "Escambia County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCJkNjKeRtn1Sc0"
   },
   {
     "id": "recCJojsvhf3InWDP",
@@ -2968,14 +2984,6 @@
     "State": "Kentucky",
     "Location": "Cumberland",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMBgGaz3WOkVWAn"
-  },
-  {
-    "id": "recMFSGbyRVRO47PC",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "GA v Lulwa Almouslli, Zeina Alostwani and Soriana Briceno (Daycare abuse)",
-    "State": "Georgia",
-    "Location": "Fulton County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMFSGbyRVRO47PC"
   },
   {
     "id": "recMJ51FFMJFb8Jj6",

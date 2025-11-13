@@ -1743,7 +1743,7 @@
     "createdTime": "2025-08-05T14:36:43.000Z",
     "Trial": "MS v Jeffrey Dean Spence, Karen Spence and Caitlin Spence",
     "State": "Mississippi",
-    "Location": "Tippah County (trial moved to Pontotoc County)",
+    "Location": "Tippah County (re-trial moved to Calhoun County)",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCSziGx9QwudjUC"
   },
   {
@@ -1792,6 +1792,14 @@
     "State": "Colorado",
     "Location": "Pueblo County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCr7GqSx0A0W78E"
+  },
+  {
+    "id": "recD3hMJpDhy5hoHS",
+    "createdTime": "2025-11-12T14:16:32.000Z",
+    "Trial": "FL v Brennan Wakey (boyfriend murder at hotel)",
+    "State": "Florida",
+    "Location": "Sarasota County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recD3hMJpDhy5hoHS"
   },
   {
     "id": "recD5u8G5VVeqvyQv",
@@ -1872,6 +1880,14 @@
     "State": "Wisconsin",
     "Location": "Shawano County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDogjN4OTerQibK"
+  },
+  {
+    "id": "recDqHvSg2KX4RoMm",
+    "createdTime": "2025-11-07T13:25:56.000Z",
+    "Trial": "FL v Antonio Brown (Ex-NFL star Miami shooting)",
+    "State": "Florida",
+    "Location": "Miami-Dade",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDqHvSg2KX4RoMm"
   },
   {
     "id": "recDqtaSeLZ8eHUiR",
@@ -2008,6 +2024,14 @@
     "State": "Massachusetts",
     "Location": "Boston",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEuknBgJz6T77GH"
+  },
+  {
+    "id": "recEyJKAFXKZzfLVY",
+    "createdTime": "2025-11-12T19:02:06.000Z",
+    "Trial": "ASAP Relli (Terrell Ephron) suing ASAP Rockey (Rakim Mayers) for defamation",
+    "State": "California",
+    "Location": "Los Angeles",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEyJKAFXKZzfLVY"
   },
   {
     "id": "recF5sy6c2c2wvG7u",
@@ -5015,14 +5039,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recb5LTCl1OtOQZhf"
   },
   {
-    "id": "recbBri9RrdqllAa1",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "WI v Matthew Pahl (Took a year to arrest him / Girlfriend's body found in construction site)",
-    "State": "Wisconsin",
-    "Location": "Waukesha County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbBri9RrdqllAa1"
-  },
-  {
     "id": "recbC9i0WRnDcph5q",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "GA v Jova'a Marie Jackson (Officer wife charged with husband's murder)",
@@ -5349,6 +5365,14 @@
     "State": "Kentucky",
     "Location": "Jefferson County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recdH8StfCCOpR72F"
+  },
+  {
+    "id": "recdIb9rx16aQPHce",
+    "createdTime": "2025-11-12T13:30:48.000Z",
+    "Trial": "FL v Natalia Munoz-Paulino (child murder drugs involved)",
+    "State": "Florida",
+    "Location": "Miami-Dade ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recdIb9rx16aQPHce"
   },
   {
     "id": "recdLaMrSBMqHN9FB",

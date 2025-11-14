@@ -327,14 +327,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2PoPaJ8sAbkprr"
   },
   {
-    "id": "rec2QtRBIyzhZ4CAR",
-    "createdTime": "2025-04-04T11:48:44.000Z",
-    "Trial": "KY v Elena Bardin (Teacher Allegedly Sexually Abused a Boy, Then Solicited Him to Kill Her Husband)",
-    "State": "Kentucky",
-    "Location": "Adair County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2QtRBIyzhZ4CAR"
-  },
-  {
     "id": "rec2Ts9HVCydBz3HN",
     "createdTime": "2024-12-12T13:46:53.000Z",
     "Trial": "SC v Victoria Tippett (helped hide body)",
@@ -2090,6 +2082,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFUL1TyqnpcPfXY"
   },
   {
+    "id": "recFUi0i8F1zVwzPm",
+    "createdTime": "2025-11-13T19:53:38.000Z",
+    "Trial": "MI vs Desmond Burks/accused killing a dr and killing someone else in an unrelated road rage incident",
+    "State": "Michigan",
+    "Location": "Wayne Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFUi0i8F1zVwzPm"
+  },
+  {
     "id": "recFXiVab3v4nNq13",
     "createdTime": "2025-07-16T19:09:39.000Z",
     "Trial": "FL v Henry Jonathan Valencia",
@@ -2552,6 +2552,14 @@
     "State": "Missouri",
     "Location": "Greene County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recI9RIEy9zo9YYHM"
+  },
+  {
+    "id": "recIGb2QaxEyk6l3F",
+    "createdTime": "2025-11-13T18:56:03.000Z",
+    "Trial": "MI v John Skelton (father of missing Skelton brothers, charged with murder)",
+    "State": "Michigan",
+    "Location": "Lenawee County - 2A District Court",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recIGb2QaxEyk6l3F"
   },
   {
     "id": "recIKFdGYn1ZrOt91",
@@ -3928,6 +3936,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSE2De21iNeEjGY"
   },
   {
+    "id": "recSIlaAFAseAPi4o",
+    "createdTime": "2025-11-13T14:35:11.000Z",
+    "Trial": "FL v Justin Golden (Dad ran over 8-month-old after leaving him in intersection, per police)",
+    "State": "Florida",
+    "Location": "Duval County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSIlaAFAseAPi4o"
+  },
+  {
     "id": "recSJ3SvoqmXZS5ul",
     "createdTime": "2025-09-22T17:46:10.000Z",
     "Trial": "WI v Azyia Zielinski and Charles Dupriest (6 kids, including newborn, locked in 'putrid' storage unit with only a bucket for a toilet)",
@@ -5057,7 +5073,7 @@
   {
     "id": "recbGxBJmyYdM2rRq",
     "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "MO v Derek Politte (Victim sent dying text message to his Mom)",
+    "Trial": "MO v Derek Politte (Victim sent dying text message to his Mom) CAMERAS DENIED",
     "State": "Missouri",
     "Location": "Washington",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbGxBJmyYdM2rRq"
@@ -5369,7 +5385,7 @@
   {
     "id": "recdIb9rx16aQPHce",
     "createdTime": "2025-11-12T13:30:48.000Z",
-    "Trial": "FL v Natalia Munoz-Paulino (child murder drugs involved)",
+    "Trial": "FL v Natalia Munoz-Paulino (child dies with eggshells and feathers in his stomach: Cops)",
     "State": "Florida",
     "Location": "Miami-Dade ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recdIb9rx16aQPHce"
@@ -5413,6 +5429,14 @@
     "State": "Texas",
     "Location": "Houston",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recdVef9UnGqVg1B2"
+  },
+  {
+    "id": "recdb3gsxRakADw9u",
+    "createdTime": "2025-08-20T12:55:09.000Z",
+    "Trial": "EMANI ELLIS VS BELCALIS MARLENIS ALMANZAR, ET AL. (rapper Cardi B security guard alleged assault)",
+    "State": "California",
+    "Location": "Los Angeles",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recdb3gsxRakADw9u"
   },
   {
     "id": "recdb4aWxtO2uO9hF",
@@ -6255,6 +6279,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckbWk3sFDm0RFQM"
   },
   {
+    "id": "reckeryFd5fATMGn9",
+    "createdTime": "2025-11-13T21:47:45.000Z",
+    "Trial": "MI vs John Skelton/father of 3 brothers who went missing in 2010, charged w/their murders. Bodies not found",
+    "State": "Michigan",
+    "Location": "Lenawee Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckeryFd5fATMGn9"
+  },
+  {
     "id": "reckfti9DvGPuuz24",
     "createdTime": "2025-08-13T13:36:52.000Z",
     "Trial": "TX v Ethan Nieneker / Suspect in Austin Target shooting killed 3 people, assaulted others and destroyed multiple vehicles within less than 1 hour",
@@ -6669,14 +6701,6 @@
     "State": "Utah",
     "Location": "Salt LaKE Co",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reco5oQNcrr3ZEVi2"
-  },
-  {
-    "id": "reco69VydWnMbPmKY",
-    "createdTime": "2025-02-28T15:32:49.000Z",
-    "Trial": "AZ v Adam Joseph Montoya / Father killed 1-year-old daughter ‘in front of the child’s mother’ using AR-15",
-    "State": "Arizona",
-    "Location": "Navajo County ",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reco69VydWnMbPmKY"
   },
   {
     "id": "reco6rhCWp1unR5MN",
@@ -7896,14 +7920,6 @@
     "State": "New Mexico",
     "Location": "Bernalillo County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recy5WbNgD55akWBU"
-  },
-  {
-    "id": "recy641d8Q19WI4N7",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "IL v Sarah Safranek (7-year-old son murder) ",
-    "State": "Illinois",
-    "Location": "Ogle County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recy641d8Q19WI4N7"
   },
   {
     "id": "recy994mJ3TnHYOgQ",

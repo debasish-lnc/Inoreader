@@ -304,6 +304,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2AxoTICEB0xCzu"
   },
   {
+    "id": "rec2KUpIas2b93BL2",
+    "createdTime": "2025-11-17T20:54:27.000Z",
+    "Trial": "VA v Ebony Parker / Principal charged in school shooting.  ",
+    "State": "Virginia",
+    "Location": "Newport News",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2KUpIas2b93BL2"
+  },
+  {
     "id": "rec2NSr5GaergxrBw",
     "createdTime": "2025-07-14T15:12:46.000Z",
     "Trial": "FL v Anthawn Ragan/ Man charged in 10-year-old boy's killing",
@@ -1291,14 +1299,6 @@
     "State": "Texas",
     "Location": "Smith County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9PS6n6WLcejRsG"
-  },
-  {
-    "id": "rec9R7fiNHNLJcas4",
-    "createdTime": "2025-07-14T13:10:08.000Z",
-    "Trial": "NV v Taylour Sierra Dickinson (baby dumping case)",
-    "State": "Nevada",
-    "Location": "Washoe County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9R7fiNHNLJcas4"
   },
   {
     "id": "rec9Sfap6wba7rVKI",
@@ -2826,14 +2826,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recKWxdV3RF9mAeOx"
   },
   {
-    "id": "recKceIiJ3xEGk26E",
-    "createdTime": "2024-11-06T18:02:20.000Z",
-    "Trial": "AK v Kayden McIntosh (Catfishing scheme murder sentencing)",
-    "State": "Alaska",
-    "Location": "Anchorage",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recKceIiJ3xEGk26E"
-  },
-  {
     "id": "recKe7IkCAVNku83e",
     "createdTime": "2025-10-07T21:44:47.000Z",
     "Trial": "WI v Rae'Jianna D. Hall/fatally stabbed cousin over Taco Bell job",
@@ -3427,7 +3419,7 @@
   {
     "id": "recPNzpTLM1ae3htg",
     "createdTime": "2025-10-08T20:20:54.000Z",
-    "Trial": "NM v Isaac Apodaca",
+    "Trial": "NM v Isaac Apodaca / Love triangle murder",
     "State": "New Mexico",
     "Location": "Santa Fe",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPNzpTLM1ae3htg"
@@ -3638,6 +3630,14 @@
     "State": "North Carolina",
     "Location": "Fayetteville / Cumberland County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQDe26LctOCfK9n"
+  },
+  {
+    "id": "recQJaEeqb9bqM7SK",
+    "createdTime": "2025-11-17T18:43:31.000Z",
+    "Trial": "IN v Jeremiah Dill (teen \"fighting demons\" allegedly murdered father and great uncle)",
+    "State": "Indiana",
+    "Location": "Owen County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQJaEeqb9bqM7SK"
   },
   {
     "id": "recQJosXPTUeEVFj2",
@@ -4747,7 +4747,7 @@
     "createdTime": "2025-07-17T16:51:57.000Z",
     "Trial": "MI v Daniel Canales / 16 year old in chase that allegedly killed an uber driver.  ",
     "State": "Michigan",
-    "Location": "Warren County Circuit (41B District Court - Clinton Township for now)",
+    "Location": "Macomb County 16th Judicial Circuit court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYTKARpsxGfYDEI"
   },
   {
@@ -6587,7 +6587,7 @@
     "createdTime": "2025-07-25T15:46:11.000Z",
     "Trial": "MI v Afeni Badu Muhammad/allegedly killed manager at McDonald's",
     "State": "Michigan",
-    "Location": "38th District Court - Eastpointe (for now)",
+    "Location": "16th Judicial Circuit Court Macomb Court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recncTpX9VXJ1FYh8"
   },
   {
@@ -6711,14 +6711,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recoErK6BIIoRUki9"
   },
   {
-    "id": "recoF2jL6EqPBEaZj",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "IA v Dakota Van Patten (Apple watch testimony / Two men charged)",
-    "State": "Iowa",
-    "Location": "Linn County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recoF2jL6EqPBEaZj"
-  },
-  {
     "id": "recoNGoPp2hT4XUnZ",
     "createdTime": "2025-08-29T20:52:32.000Z",
     "Trial": "FL v Justin Dale Mullins/Road rage shooting suspect",
@@ -6803,7 +6795,7 @@
     "createdTime": "2025-03-26T12:44:31.000Z",
     "Trial": "MA v Aimee Cotton",
     "State": "Massachusetts",
-    "Location": "Falmouth District Court",
+    "Location": "Dukes County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recp7bNOjs879sofP"
   },
   {
@@ -7147,6 +7139,14 @@
     "State": "Georgia",
     "Location": "DeKalb County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recs5ylOq0MWaTCH9"
+  },
+  {
+    "id": "recs7vDLBhzGEIGYQ",
+    "createdTime": "2025-11-17T21:56:15.000Z",
+    "Trial": "IL vs Arnold Rivera/charged w/murdering 14 yr old girl",
+    "State": "Illinois",
+    "Location": "Fayette",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recs7vDLBhzGEIGYQ"
   },
   {
     "id": "recsDhzGgzJQKlR2k",
@@ -7778,14 +7778,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recx9tKChZDpI9lHk"
   },
   {
-    "id": "recxDOupK7n3tbJ1b",
-    "createdTime": "2025-09-22T12:18:07.000Z",
-    "Trial": "FL v Leslie Boileau / Former Deputy arrested after admitting he shot his girlfriend while playing with firearms.  ",
-    "State": "Florida",
-    "Location": "Marion County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxDOupK7n3tbJ1b"
-  },
-  {
     "id": "recxILhEERSvQLeve",
     "createdTime": "2025-10-21T16:34:40.000Z",
     "Trial": "UT v Hezekiah Plummer / teen has been charged as an adult with murder in the weekend killing of an Ogden teen, identified by authorities as his girlfriend.",
@@ -7896,6 +7888,14 @@
     "State": "New Mexico",
     "Location": "Bernalillo County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recy5WbNgD55akWBU"
+  },
+  {
+    "id": "recy7WdWqieOwpftM",
+    "createdTime": "2025-11-17T18:34:37.000Z",
+    "Trial": "WI v Dakota Bilderback (told police “I had to shoot my children’s father. To protect my children.\")",
+    "State": "Wisconsin",
+    "Location": "Eau Claire County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recy7WdWqieOwpftM"
   },
   {
     "id": "recy994mJ3TnHYOgQ",

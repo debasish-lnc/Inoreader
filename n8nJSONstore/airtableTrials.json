@@ -152,14 +152,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0kzbtTVWxzG2E8"
   },
   {
-    "id": "rec0nIFZunkhFUNmn",
-    "createdTime": "2024-08-06T14:00:09.000Z",
-    "Trial": "MS v Daniel Callihan (Kidnapping and murder of two young girls)  See Victoria Cox / FEDERAL CASE",
-    "State": "Mississippi",
-    "Location": "Hinds County (Jackson)",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0nIFZunkhFUNmn"
-  },
-  {
     "id": "rec0s5gliTk9CYdqP",
     "createdTime": "2024-09-06T12:43:59.000Z",
     "Trial": "GA v Colin Gray (high school mass shooting dad)",
@@ -198,6 +190,14 @@
     "State": "Illinois",
     "Location": "Edwards County, IL",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec100RCT3BXwMpaX"
+  },
+  {
+    "id": "rec135QXUhjL6Vqy0",
+    "createdTime": "2024-09-13T15:30:48.000Z",
+    "Trial": "WI v Madison Bergmann (teacher accused of assaulting 11-year-old)",
+    "State": "Wisconsin",
+    "Location": "St Croix County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec135QXUhjL6Vqy0"
   },
   {
     "id": "rec14wWgEOGObIIrU",
@@ -589,14 +589,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec4b48AFiFfTcyx0"
   },
   {
-    "id": "rec4iLUUnFAytAiw4",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "FL v Earleen Tucker (mom murder/heart cut out)",
-    "State": "Florida",
-    "Location": "Leon County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec4iLUUnFAytAiw4"
-  },
-  {
     "id": "rec4jA7vVrJXGeSl3",
     "createdTime": "2025-11-05T14:27:15.000Z",
     "Trial": "Charlie Adelson appeal",
@@ -699,6 +691,14 @@
     "State": "Wisconsin",
     "Location": "Milwaukee County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5CvS6uibepZczT"
+  },
+  {
+    "id": "rec5OCM0HUxNVVElr",
+    "createdTime": "2025-11-19T13:23:37.000Z",
+    "Trial": "Karen Read civil lawsuit alleging police cover-up in death of John O’Keefe",
+    "State": "Massachusetts",
+    "Location": "Taunton’s Bristol Superior Court",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5OCM0HUxNVVElr"
   },
   {
     "id": "rec5OrGOasgrXntkZ",
@@ -2072,14 +2072,6 @@
     "State": "Utah",
     "Location": "FOURTH JUDICIAL DISTRICT - AMERICAN FORK DIST",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFIW7GBqTtnOMLJ"
-  },
-  {
-    "id": "recFUL1TyqnpcPfXY",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "FL v Christian Ketchup and Rachel DeRise (Bar fight shooting)",
-    "State": "Florida",
-    "Location": "Escambia County / Pensacola",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFUL1TyqnpcPfXY"
   },
   {
     "id": "recFUi0i8F1zVwzPm",
@@ -4877,6 +4869,14 @@
     "State": "Georgia",
     "Location": "Rockdale County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recZWgGpucSy7HbVu"
+  },
+  {
+    "id": "recZbTU4fcc0mexWt",
+    "createdTime": "2025-11-19T16:32:27.000Z",
+    "Trial": "WI v Katrina Kitzman (accused of running over Appleton officer had .218% BAC)",
+    "State": "Wisconsin",
+    "Location": "Outagamie County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recZbTU4fcc0mexWt"
   },
   {
     "id": "recZbv4OISF3bt3e8",

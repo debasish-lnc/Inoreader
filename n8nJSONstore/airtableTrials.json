@@ -311,6 +311,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2NSr5GaergxrBw"
   },
   {
+    "id": "rec2OJJC3kIdwRlR9",
+    "createdTime": "2025-11-21T14:27:15.000Z",
+    "Trial": "Anna Kemper Cruise Ship Mystery / Custodial hearing",
+    "State": "Florida",
+    "Location": "Brevard County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2OJJC3kIdwRlR9"
+  },
+  {
     "id": "rec2Owz4ts9IEXAtu",
     "createdTime": "2024-11-04T18:44:36.000Z",
     "Trial": "MA v Dejan D. Belnavis and Karel Mangual / In a courtroom watched over by gang unit police officers, Belnavis, 27, pleaded not guilty after smirking in the direction of a full gallery that reeled with tension from the moment his name was called by court officers.",
@@ -1664,7 +1672,7 @@
     "createdTime": "2025-08-20T13:23:08.000Z",
     "Trial": "MA v Gregory Groom (pregnant girlfriend murder) ",
     "State": "Massachusetts",
-    "Location": "Taunton District Court (for now)",
+    "Location": "Bristol County ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCFsuQ4HE6gofWp"
   },
   {
@@ -6111,6 +6119,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recje6IhUOOjilTTJ"
   },
   {
+    "id": "recjkE4UqjjF09ZRS",
+    "createdTime": "2025-11-21T16:10:47.000Z",
+    "Trial": "NY vs Kacy Corso & Victor Panebianco (new bf)/ accused of killing Kacy's ex bf",
+    "State": "New York",
+    "Location": "Suffolk Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjkE4UqjjF09ZRS"
+  },
+  {
     "id": "recjllIldyss3tWKw",
     "createdTime": "2024-05-06T16:31:20.000Z",
     "Trial": "CO v Lauren Marie Dooley (Tinder date gone wrong)",
@@ -6157,6 +6173,14 @@
     "State": "Texas",
     "Location": "Bexar County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reck1cFyXWl9QusM1"
+  },
+  {
+    "id": "reck51tiKtMYuujRa",
+    "createdTime": "2025-10-27T18:09:30.000Z",
+    "Trial": "WI v Lauren Spors / Milwaukee woman’s homicide followed week of police encounters with daughter",
+    "State": "Wisconsin",
+    "Location": "Milwaukee County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reck51tiKtMYuujRa"
   },
   {
     "id": "reck82aOqPqtPPIZj",
@@ -7029,6 +7053,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recrM4Y95h5MkTbL8"
   },
   {
+    "id": "recrOU0e9yp5Vfgfm",
+    "createdTime": "2025-11-17T13:01:21.000Z",
+    "Trial": "AZ v Emilio Rivera (teen accused of killing ex-girlfriend, trying to kill her mother)",
+    "State": "Arizona",
+    "Location": "Avondale",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recrOU0e9yp5Vfgfm"
+  },
+  {
     "id": "recrUlZS4Fh35T9hN",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "AK v Zarrius Hildabrand (National Guard / Wife killed)",
@@ -7121,6 +7153,7 @@
     "createdTime": "2025-08-19T17:53:52.000Z",
     "Trial": "CO v Jesse Gladney/fatally shot his ex girlfriend, she was a mother of 5",
     "State": "Colorado",
+    "Location": "Adams County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recsDhzGgzJQKlR2k"
   },
   {
@@ -7864,14 +7897,6 @@
     "State": "Wisconsin",
     "Location": "Eau Claire County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recy7WdWqieOwpftM"
-  },
-  {
-    "id": "recy994mJ3TnHYOgQ",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "WI v Martha Brown (Says the deceased sexually assaulted her and another man)",
-    "State": "Wisconsin",
-    "Location": "Waukesha County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recy994mJ3TnHYOgQ"
   },
   {
     "id": "recy9fdU2CrB6FjVL",

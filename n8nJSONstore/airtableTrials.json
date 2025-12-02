@@ -3142,7 +3142,7 @@
     "createdTime": "2025-11-26T17:14:38.000Z",
     "Trial": "MI v Richard Falor & Kimberly Park (Fiancé & sister of missing woman in custody after body found in Manistee National Forest)",
     "State": "Michigan",
-    "Location": "Wexford County",
+    "Location": "Wexford County/84th District Court ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recNaAxf54razX6EW"
   },
   {
@@ -3505,14 +3505,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPhJZ6gpfkCeZhP"
   },
   {
-    "id": "recPiMXZ5LuLKyqn4",
-    "createdTime": "2025-10-15T11:53:14.000Z",
-    "Trial": "FL v Sakiyna Thompson (found guilty in murder of romantic rival)",
-    "State": "Florida",
-    "Location": "Broward County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPiMXZ5LuLKyqn4"
-  },
-  {
     "id": "recPiubcDWRSeksfs",
     "createdTime": "2025-05-08T17:59:55.000Z",
     "Trial": "NM v Valerie and Melvin Cordell / Parents forced 7 kids to live in filthy ‘underground caves’ while they sexually abused the eldest, DA says",
@@ -3547,7 +3539,7 @@
   {
     "id": "recPo1sKZc5tg7L5O",
     "createdTime": "2024-06-17T13:54:59.000Z",
-    "Trial": "IN v Toni McClure, Tammy Halsey and Ryan Smith (Death of 5 year old Kinsleigh)  ",
+    "Trial": "IN v Toni McClure, Tammy Halsey and Ryan Smith (Death of 5 year old Kinsleigh)  (NO CAMERAS FOR TAMMY & RYAN)",
     "State": "Indiana",
     "Location": "Marion Superior Court 32",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPo1sKZc5tg7L5O"
@@ -3694,6 +3686,14 @@
     "State": "Wisconsin",
     "Location": "Milwaukee County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQZjnZC0PqFFfOz"
+  },
+  {
+    "id": "recQbMrL2I2B68YcR",
+    "createdTime": "2025-12-01T21:20:45.000Z",
+    "Trial": "MI v Irene Whitehead / child suffocated by her Mother.  ",
+    "State": "Michigan",
+    "Location": "Kent County /  63rd District Court",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQbMrL2I2B68YcR"
   },
   {
     "id": "recQbsEX0BZnrYczv",
@@ -5169,7 +5169,7 @@
   {
     "id": "recc8lMHqiJY5u1Gb",
     "createdTime": "2024-11-15T18:45:59.000Z",
-    "Trial": "NJ v Marty Small Jr. and La’Quetta Small (Mayor and wife accused of abusing daughter)",
+    "Trial": "NJ v Marty Small Jr. and La’Quetta Small (Mayor and wife accused of abusing daughter) NO CAMERAS",
     "State": "New Jersey",
     "Location": "Atlantic County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recc8lMHqiJY5u1Gb"
@@ -7057,7 +7057,7 @@
     "createdTime": "2025-11-17T13:01:21.000Z",
     "Trial": "AZ v Emilio Rivera (teen accused of killing ex-girlfriend, trying to kill her mother)",
     "State": "Arizona",
-    "Location": "Avondale",
+    "Location": "Maricopa County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recrOU0e9yp5Vfgfm"
   },
   {
@@ -7438,7 +7438,7 @@
   {
     "id": "recuOgYJXsnjLRmXr",
     "createdTime": "2025-03-04T17:29:36.000Z",
-    "Trial": "WI v Gordon Laakso / Wife murder, tried to hid the body.  ",
+    "Trial": "WI v Gordon Laakso / Wife murder, tried to hid the body.  NO CAMERAS FOR SENTENCING",
     "State": "Wisconsin",
     "Location": "St Croix County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recuOgYJXsnjLRmXr"

@@ -725,6 +725,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5XFsVGebhEq1PK"
   },
   {
+    "id": "rec5Zq2ALNoqY9n8R",
+    "createdTime": "2025-12-01T17:04:50.000Z",
+    "Trial": "CO v Weston Owen, Sarah Bess and Kellar Weisgerber / 'Teach John a lesson': Trio beat man with flashlight until they heard his skull crack, then dumped his body in desert",
+    "State": "Colorado",
+    "Location": "Mesa County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5Zq2ALNoqY9n8R"
+  },
+  {
     "id": "rec5Zz5AgPLBFTSmj",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "FL v Robert Tyrone Hayes",
@@ -1464,7 +1472,7 @@
     "createdTime": "2025-01-28T21:32:21.000Z",
     "Trial": "MI v Roconda Singleton / 10-year-old says mom should be ‘locked up for life’ for allegedly setting fire that killed her 12-year-old sister",
     "State": "Michigan",
-    "Location": "Grand Rapids 61st District Court",
+    "Location": "Kent County 17th Circuit Court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recAb1s58gAi6bjBE"
   },
   {
@@ -2036,7 +2044,7 @@
   {
     "id": "recF5sy6c2c2wvG7u",
     "createdTime": "2025-01-23T19:43:49.000Z",
-    "Trial": "UT v Raona Dorothy Mora (Mother accused of murder in the death of her 4 month old) ",
+    "Trial": "UT v Raona Dorothy Mora & Jose Miguel Mora Rodriguez (Mother accused of murder in the death of her 4 month old) ",
     "State": "Utah",
     "Location": "Utah County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recF5sy6c2c2wvG7u"
@@ -2152,14 +2160,6 @@
     "State": "New Mexico",
     "Location": "Bernalillo County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFl1HiPVm5ZSOeS"
-  },
-  {
-    "id": "recFlnRjjWQB0dnvi",
-    "createdTime": "2025-04-02T19:23:30.000Z",
-    "Trial": "GA v Heather Nicole McCall (claims accidentally shot boyfriend)",
-    "State": "Georgia",
-    "Location": "Athens-Clarke County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFlnRjjWQB0dnvi"
   },
   {
     "id": "recFp78gpFNUyKnoQ",
@@ -3140,7 +3140,7 @@
   {
     "id": "recNaAxf54razX6EW",
     "createdTime": "2025-11-26T17:14:38.000Z",
-    "Trial": "MI v Richard Falor & Kimberly Park (Fiancé & sister of missing woman in custody after body found in Manistee National Forest)",
+    "Trial": "MI v Richard Falor & Kimberly Park (Fiancé & sister) Bradly Bartholomew & Cortney Bartholomew (mom and step-dad of missing woman in custody after body found in Manistee National Forest)",
     "State": "Michigan",
     "Location": "Wexford County/84th District Court ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recNaAxf54razX6EW"
@@ -3343,6 +3343,14 @@
     "State": "Florida",
     "Location": "Palm Beach County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recOpnr1wW7A7WZhU"
+  },
+  {
+    "id": "recOrXdVEmAQ4bGqu",
+    "createdTime": "2025-12-01T17:02:56.000Z",
+    "Trial": "FL v Eric Patterson / 'The bullet also struck her unborn baby': Florida man shot 8 months pregnant girlfriend as she slept",
+    "State": "Florida",
+    "Location": "Hillsborough County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recOrXdVEmAQ4bGqu"
   },
   {
     "id": "recOsgvpyuaOPDF1u",
@@ -4679,6 +4687,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recY2msjSCmFZ60Kd"
   },
   {
+    "id": "recYCCPER9wwo0UHw",
+    "createdTime": "2025-12-01T13:34:32.000Z",
+    "Trial": "UT v Micah Smith / Child torture on a hike",
+    "State": "Utah",
+    "Location": "Salt Lake County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYCCPER9wwo0UHw"
+  },
+  {
     "id": "recYH5tSDilf8IqDr",
     "createdTime": "2025-03-24T19:08:22.000Z",
     "Trial": "CA v Michaela Rylaarsdam (OnlyFans victim dies during fetish encounter)",
@@ -5133,6 +5149,14 @@
     "State": "Michigan",
     "Location": "Shelby Township",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbnTwPcgSXLleYA"
+  },
+  {
+    "id": "recbpsLlyf16WNSl5",
+    "createdTime": "2025-12-01T17:03:59.000Z",
+    "Trial": "MI v Sherry Leak / Adoptive mom sat on misbehaving 11-year-old daughter until she died: Police",
+    "State": "Michigan",
+    "Location": "Muskegon County / 60th District Court",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbpsLlyf16WNSl5"
   },
   {
     "id": "recbqP04SVC0QHf4D",
@@ -6245,6 +6269,14 @@
     "State": "Wisconsin",
     "Location": "Madison / Dane County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckbWk3sFDm0RFQM"
+  },
+  {
+    "id": "reckd02LfVxrdDsrX",
+    "createdTime": "2025-12-02T00:44:15.000Z",
+    "Trial": "GA v Susan Embert / Retrial for husband's murder.  She told authorities he had taken his own life.  ",
+    "State": "Georgia",
+    "Location": "Dougherty County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckd02LfVxrdDsrX"
   },
   {
     "id": "reckfti9DvGPuuz24",
@@ -7428,6 +7460,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recuCJ4z6VeRe0OhV"
   },
   {
+    "id": "recuFD4kubp9tSJHF",
+    "createdTime": "2025-12-02T15:31:11.000Z",
+    "Trial": "GA v Matthew Lanz (Fulton County case)",
+    "State": "Georgia",
+    "Location": "Fulton County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recuFD4kubp9tSJHF"
+  },
+  {
     "id": "recuLNyhQPUTLqIXo",
     "createdTime": "2025-08-07T13:26:59.000Z",
     "Trial": "MN v Isaac Arndt / accused of killing 14-year-old Jaelyn Walker ",
@@ -7857,6 +7897,14 @@
     "State": "Florida",
     "Location": "MIAMI",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxpkG8FtqW52Ora"
+  },
+  {
+    "id": "recxrPdcUAqnaZ9kj",
+    "createdTime": "2025-12-02T13:13:56.000Z",
+    "Trial": "Bilaal Salaam (a.k.a. Brother Bilaal) v Jada Pinkett Smith",
+    "State": "California",
+    "Location": "Los Angeles",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxrPdcUAqnaZ9kj"
   },
   {
     "id": "recxsh6PVwGmrwDHc",

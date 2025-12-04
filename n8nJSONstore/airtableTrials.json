@@ -689,7 +689,7 @@
     "createdTime": "2025-11-19T13:23:37.000Z",
     "Trial": "Karen Read civil lawsuit alleging police cover-up in death of John O’Keefe",
     "State": "Massachusetts",
-    "Location": "Taunton’s Bristol Superior Court",
+    "Location": "District Court, D. Massachusetts",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5OCM0HUxNVVElr"
   },
   {
@@ -1596,6 +1596,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBc5WRaMR8ZV0Nc"
   },
   {
+    "id": "recBclmXK8Pj09T6F",
+    "createdTime": "2025-12-03T13:07:20.000Z",
+    "Trial": "KY v Jeffrey Young (alleged murder for hire plot against wife)",
+    "State": "Kentucky",
+    "Location": "Warren Circuit Court",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBclmXK8Pj09T6F"
+  },
+  {
     "id": "recBdIwpVKheEhzZb",
     "createdTime": "2025-09-22T17:56:50.000Z",
     "Trial": "Karen Read wrongful death lawsuit",
@@ -1658,14 +1666,6 @@
     "State": "Connecticut",
     "Location": "Stamford",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recC4RrewgvN5xWjc"
-  },
-  {
-    "id": "recC954FU8OgdiuHJ",
-    "createdTime": "2025-02-04T20:04:22.000Z",
-    "Trial": "KS v Crystina Schroer and Joseph Schroer (Adopted daughter Kennedy.   6-year-old daughter and buried her in a 2-foot grave in their backyard where she remained for 4 years",
-    "State": "Kansas",
-    "Location": "Butler County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recC954FU8OgdiuHJ"
   },
   {
     "id": "recCBZgrBG2YWKcBa",
@@ -3012,7 +3012,7 @@
   {
     "id": "recMPl1J4KerNmGHS",
     "createdTime": "2025-07-01T16:24:43.000Z",
-    "Trial": "SC v Gianna Helene Kistenmacher, Devan Raper, Hunter Matthew Kendall, Sydney Marissa Kearns and Corrinne Elizabeth Belviso (teen murder; 9 total arrests, no names yet on some)",
+    "Trial": "SC v Gianna Helene Kistenmacher, Devan Raper, Hunter Matthew Kendall, Sydney Marissa Kearns and Corrinne Elizabeth Belviso (Trey Wright teen murder; 9 total arrests, no names yet on some)",
     "State": "South Carolina",
     "Location": "Florence County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMPl1J4KerNmGHS"
@@ -3140,7 +3140,7 @@
   {
     "id": "recNaAxf54razX6EW",
     "createdTime": "2025-11-26T17:14:38.000Z",
-    "Trial": "MI v Richard Falor & Kimberly Park (Fiancé & sister) Bradly Bartholomew & Cortney Bartholomew (mom and step-dad of missing woman in custody after body found in Manistee National Forest)",
+    "Trial": "MI v Richard Falor & Kimberly Park (Fiancé & sister) Bradley Bartholomew & Cortney Bartholomew (mom and step-dad of missing woman in custody after body found in Manistee National Forest)",
     "State": "Michigan",
     "Location": "Wexford County/84th District Court ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recNaAxf54razX6EW"
@@ -3664,14 +3664,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQQp3J0Cs3tvDFW"
   },
   {
-    "id": "recQS2SqkiKjwH6IW",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "MS v Sheldon \"Timothy\" Herrington Jr / Death of Jimmy \"Jay\" Lee.  ",
-    "State": "Mississippi",
-    "Location": "LaFayette County / More south of Memphis.  ",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQS2SqkiKjwH6IW"
-  },
-  {
     "id": "recQTycXO7CkW9L6v",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "FL v Jellisa Amoya Baxter (Her 3 year old killed)",
@@ -3990,6 +3982,14 @@
     "State": "Missouri",
     "Location": "City of St. Louis",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSaCvRN1hgkYBSX"
+  },
+  {
+    "id": "recSd6ejqaofZPhj1",
+    "createdTime": "2025-12-03T12:56:00.000Z",
+    "Trial": "IN v Brittany Medina (drowning deaths of 2 children to 'send to heaven')",
+    "State": "Indiana",
+    "Location": "Lawrence Superior Court 1",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSd6ejqaofZPhj1"
   },
   {
     "id": "recSgzqnzJFTvGLwd",
@@ -5857,7 +5857,7 @@
   {
     "id": "rechVmwDStNZevlx9",
     "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "FL v Daniel Loren Stearns / Missing woman’s burned remains found in ‘Compound",
+    "Trial": "FL v Daniel Loren Stearns / Missing woman’s burned remains found in ‘Compound'",
     "State": "Florida",
     "Location": "Brevard County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rechVmwDStNZevlx9"

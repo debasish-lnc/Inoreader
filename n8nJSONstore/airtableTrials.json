@@ -510,14 +510,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec3mUdkf1X6hxbga"
   },
   {
-    "id": "rec3wrTZtfI56JrN0",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "GA v Antonio Brown",
-    "State": "Georgia",
-    "Location": "Fulton County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec3wrTZtfI56JrN0"
-  },
-  {
     "id": "rec40xuo4LpLCg7G5",
     "createdTime": "2025-11-06T13:16:04.000Z",
     "Trial": "MI v Randall Grinwis (confessed to killing his girlfriend)",
@@ -1285,6 +1277,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8iYODWLeoAR9f4"
   },
   {
+    "id": "rec8lJHTeErDPNhtu",
+    "createdTime": "2025-12-08T15:01:35.000Z",
+    "Trial": "FL v Angelo Theodosiou / Husband was drunk behind the wheel of golf cart when his wife fell out and suffered fatal head injury, police say",
+    "State": "Florida",
+    "Location": "St. Johns County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8lJHTeErDPNhtu"
+  },
+  {
     "id": "rec8nTKjnVOyERdYG",
     "createdTime": "2024-05-06T16:31:20.000Z",
     "Trial": "NV v Daniel Rodimer (Suspicious accident at a Vegas Resort / defendant is an interesting character)",
@@ -1804,7 +1804,7 @@
   {
     "id": "recCkSR7IfGoSbQOY",
     "createdTime": "2024-08-16T18:46:43.000Z",
-    "Trial": "TN v Timothy Blackdeer (child hot car death, forgot to drop off at babysitter)",
+    "Trial": "TN v Timothy Blackdeer & Catelin Blackdeer(child hot car death, forgot to drop off at babysitter)",
     "State": "Tennessee",
     "Location": "Hamilton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCkSR7IfGoSbQOY"
@@ -3238,7 +3238,7 @@
     "createdTime": "2025-10-07T20:35:31.000Z",
     "Trial": "MI v Melissa Ragen (husband shot and killed)",
     "State": "Michigan",
-    "Location": "Iosco County",
+    "Location": "23rd Circuit Court - Iosco",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recNyyL4YU8ofjDCv"
   },
   {
@@ -3878,6 +3878,14 @@
     "State": "Florida",
     "Location": "Leon County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recRvmIyg6hIGJaC6"
+  },
+  {
+    "id": "recS0WNOIiWLzTM1K",
+    "createdTime": "2025-12-09T13:28:01.000Z",
+    "Trial": "WI v Daunte Riley / Crash and fight leads to stabbing murder",
+    "State": "Wisconsin",
+    "Location": "Winnebago County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recS0WNOIiWLzTM1K"
   },
   {
     "id": "recS6XgDUk1cvg5BZ",
@@ -5047,6 +5055,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recasDLmn3IjFVkq6"
   },
   {
+    "id": "recay53XNOWWEnpjQ",
+    "createdTime": "2025-12-09T17:51:47.000Z",
+    "Trial": "FL v Ian Baunach / Missing ex-wife.  Remains found on the burn pile",
+    "State": "Florida",
+    "Location": "Hendry County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recay53XNOWWEnpjQ"
+  },
+  {
     "id": "recb5LTCl1OtOQZhf",
     "createdTime": "2024-05-06T16:31:20.000Z",
     "Trial": "FL v Shirlene Alcime (child neglect deaths/allegedly planned deaths)",
@@ -5285,6 +5301,14 @@
     "State": "Texas",
     "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reccmOK6TL82G3liQ"
+  },
+  {
+    "id": "reccmWg2zM0DGCyxX",
+    "createdTime": "2024-05-03T16:47:55.000Z",
+    "Trial": "OH v Frederick Reer (Missing GF from 2017. Body found in 2023) ",
+    "State": "Ohio",
+    "Location": "Huron County Court of Common Pleas",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reccmWg2zM0DGCyxX"
   },
   {
     "id": "reccrYZ2j2aZgn5Dk",
@@ -5991,6 +6015,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reciV4JV0X4ehuLSW"
   },
   {
+    "id": "reciXriZSBLc0q9Tx",
+    "createdTime": "2025-12-09T16:00:05.000Z",
+    "Trial": "TX v Chelsea Berg and Christopher Alexander / Mother charged in toddler's death allegedly at the hands of her boyfriend.  ",
+    "State": "Texas",
+    "Location": "Collin County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reciXriZSBLc0q9Tx"
+  },
+  {
     "id": "reciYZT25tLJoCKGD",
     "createdTime": "2025-11-04T18:30:05.000Z",
     "Trial": "IN v Mason Peterson (15-year-old accused of shooting teen girl in the head point blank in bed)",
@@ -6053,14 +6085,6 @@
     "State": "Nevada",
     "Location": "Clark County / 8th Judicial",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recj3WBVD8UmjEqW9"
-  },
-  {
-    "id": "recj3wN80kWOzZw67",
-    "createdTime": "2025-05-14T12:15:48.000Z",
-    "Trial": "SC v Mary Rebecca 'Becky' Hill (perjury charges)",
-    "State": "South Carolina",
-    "Location": "Colleton AND Richland County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recj3wN80kWOzZw67"
   },
   {
     "id": "recj6JlCMcMuUzeG6",

@@ -773,14 +773,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5hT2iIFmIGJtjQ"
   },
   {
-    "id": "rec5pbygwwuxMLnrG",
-    "createdTime": "2025-02-21T20:39:14.000Z",
-    "Trial": "WV v Izak Surface (woman beaten to death with vase)",
-    "State": "West Virginia",
-    "Location": "Kanawha County ",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5pbygwwuxMLnrG"
-  },
-  {
     "id": "rec5vWtRevrxha7O3",
     "createdTime": "2024-08-06T21:48:03.000Z",
     "Trial": "CO v Jorge Meza Alarcon Jr. (Thought he was being set up by a Snapchat sex date)",
@@ -2088,6 +2080,14 @@
     "State": "Nevada",
     "Location": "Clark Co NV",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recF9QSFhXqIu7bh6"
+  },
+  {
+    "id": "recF9eJ1oW2X0mYuD",
+    "createdTime": "2025-12-11T17:48:01.000Z",
+    "Trial": "NJ v Anthony Knox Jr. and Anthony Knox Sr. (wrestling star son and dad wrestling tournament altercation)",
+    "State": "New Jersey",
+    "Location": "Collingswood Municipal Court ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recF9eJ1oW2X0mYuD"
   },
   {
     "id": "recFIW7GBqTtnOMLJ",
@@ -3399,14 +3399,6 @@
     "State": "California",
     "Location": "Los Angeles Superior",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recP4lVMYTlGiliUM"
-  },
-  {
-    "id": "recP7LnVIwcIBMrpt",
-    "createdTime": "2025-10-20T13:29:48.000Z",
-    "Trial": "NH v Dustin Duren / Wife killed, children Amber Alert.",
-    "State": "New Hampshire",
-    "Location": "1st Circuit - District Division - Berlin",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recP7LnVIwcIBMrpt"
   },
   {
     "id": "recP7uFH0QG1H64sP",
@@ -4807,6 +4799,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYooiX8KfMuywBI"
   },
   {
+    "id": "recYt2Yd2fGjQ7XkX",
+    "createdTime": "2025-12-11T13:59:10.000Z",
+    "Trial": "GA v Shannen Grimes / The girl had been stabbed at least four times and was found cleaned and propped in a living room recliner with a blanket and Bible devotional placed in her lap",
+    "State": "Georgia",
+    "Location": "Fulton county",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYt2Yd2fGjQ7XkX"
+  },
+  {
     "id": "recYuUWhYA54qzAjs",
     "createdTime": "2024-11-29T15:01:15.000Z",
     "Trial": "AZ v Alan Ashcroft (teen accused of murdering mom; said she was kidnapped)",
@@ -4849,9 +4849,9 @@
   {
     "id": "recZFp5DKlsBCCBXQ",
     "createdTime": "2024-05-06T16:31:20.000Z",
-    "Trial": "IN v Dejaune L. Anderson (Son found in a suitcase)",
+    "Trial": "KY v Dejaune L. Anderson (Son found in a suitcase)",
     "State": "Indiana",
-    "Location": "Washington County Circuit Court",
+    "Location": "Jefferson County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recZFp5DKlsBCCBXQ"
   },
   {
@@ -5189,6 +5189,14 @@
     "State": "Texas",
     "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbzuC5523tvNLbx"
+  },
+  {
+    "id": "recc0nwXolQUS1sDD",
+    "createdTime": "2025-12-11T16:14:54.000Z",
+    "Trial": "WI v Peyton Carnot and Tylor Birch / Teens charged with reckless homicide for allegedly pushing their friend into the lake.  ",
+    "State": "Wisconsin",
+    "Location": "Marinette County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recc0nwXolQUS1sDD"
   },
   {
     "id": "recc5ue15Zq8Iy57F",

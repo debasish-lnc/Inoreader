@@ -272,6 +272,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec1sr7TDgZAmJ4fb"
   },
   {
+    "id": "rec1vzp2xeGCdabcp",
+    "createdTime": "2025-12-15T21:12:48.000Z",
+    "Trial": "CA v Shane Killian (charged with killing 5 family members in Alameda home)",
+    "State": "California",
+    "Location": "Alameda",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec1vzp2xeGCdabcp"
+  },
+  {
     "id": "rec212aDlY0Lyj4EN",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "SC v Billy Mclean Head III (Tik Tok Mom murder)",
@@ -1337,6 +1345,7 @@
     "createdTime": "2025-07-07T12:29:18.000Z",
     "Trial": "TX v Fernando Machado / Man indicted for murder in deadly March shooting ",
     "State": "Texas",
+    "Location": "Webb County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9X6r57JMeiQfM4"
   },
   {
@@ -2040,14 +2049,6 @@
     "State": "California",
     "Location": "Los Angeles",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEyJKAFXKZzfLVY"
-  },
-  {
-    "id": "recF5sy6c2c2wvG7u",
-    "createdTime": "2025-01-23T19:43:49.000Z",
-    "Trial": "UT v Raona Dorothy Mora & Jose Miguel Mora Rodriguez (Mother accused of murder in the death of her 4 month old) ",
-    "State": "Utah",
-    "Location": "Utah County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recF5sy6c2c2wvG7u"
   },
   {
     "id": "recF6FfZBpkcl0do9",
@@ -3547,7 +3548,7 @@
   {
     "id": "recPo1sKZc5tg7L5O",
     "createdTime": "2024-06-17T13:54:59.000Z",
-    "Trial": "IN v Toni McClure, Tammy Halsey and Ryan Smith (Death of 5 year old Kinsleigh)  (NO CAMERAS FOR TAMMY & RYAN)",
+    "Trial": "IN v Toni McClure, Tammy Halsey and Ryan Smith (Death of 5 year old Kinsleigh)  ",
     "State": "Indiana",
     "Location": "Marion Superior Court 32",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recPo1sKZc5tg7L5O"
@@ -7283,14 +7284,6 @@
     "State": "California",
     "Location": "Los Angeles County ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recsWOcoFeqkj3DXG"
-  },
-  {
-    "id": "recsgf56jFX7j1STj",
-    "createdTime": "2025-05-30T12:48:24.000Z",
-    "Trial": "OH v Ashley Fagan / charged in connection with the death of her 6-year-old daughter.",
-    "State": "Ohio",
-    "Location": "Franklin County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recsgf56jFX7j1STj"
   },
   {
     "id": "recsmNV5UoMl6Ties",

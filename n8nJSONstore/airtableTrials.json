@@ -1397,14 +1397,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9tb5luFK3d9Oaf"
   },
   {
-    "id": "rec9vbcq0jP3xpGrC",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "SC v Daniel Gabriel Harmon (Ex-Girlfriend murder)",
-    "State": "South Carolina",
-    "Location": "Aiken County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9vbcq0jP3xpGrC"
-  },
-  {
     "id": "recA17j50PlEb9PRJ",
     "createdTime": "2024-05-10T17:13:33.000Z",
     "Trial": "TX v Kaitlin Armstrong (Murder of professional cyclist Moriah Wilson)",
@@ -2489,14 +2481,6 @@
     "State": "Oklahoma",
     "Location": "Texas County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recHEjaPdlWrRssoj"
-  },
-  {
-    "id": "recHFRvMF0hNEWDiL",
-    "createdTime": "2024-05-06T16:31:20.000Z",
-    "Trial": "MA v Brian Walshe",
-    "State": "Massachusetts",
-    "Location": "Norfolk Superior Court",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recHFRvMF0hNEWDiL"
   },
   {
     "id": "recHHewK2XWvQQJ6y",
@@ -3983,14 +3967,6 @@
     "State": "Florida",
     "Location": "Orange County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSE2De21iNeEjGY"
-  },
-  {
-    "id": "recSIlaAFAseAPi4o",
-    "createdTime": "2025-11-13T14:35:11.000Z",
-    "Trial": "FL v Justin Golden (Dad ran over 8-month-old after leaving him in intersection, per police)",
-    "State": "Florida",
-    "Location": "Duval County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSIlaAFAseAPi4o"
   },
   {
     "id": "recSJ3SvoqmXZS5ul",
@@ -5640,14 +5616,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receNfgH7uFabVy4u"
   },
   {
-    "id": "receOVXqx3MLb5QPp",
-    "createdTime": "2024-05-10T17:13:33.000Z",
-    "Trial": "FL v Steven Lorenzo",
-    "State": "Florida",
-    "Location": "Hillsborough County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receOVXqx3MLb5QPp"
-  },
-  {
     "id": "receOZBHYAA8Vghwf",
     "createdTime": "2025-11-21T20:37:09.000Z",
     "Trial": "IN v Curt Andersen / Man charged for shooting cleaner at wrong home through front door under 'exceptionally unusual' circumstances invokes stand your ground law",
@@ -6128,14 +6096,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reciiIpGAqTk4o0X9"
   },
   {
-    "id": "recik843eQdZfJ2fY",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "IN v Larry Richmond Sr / No cameras",
-    "State": "Indiana",
-    "Location": "Vanderburgh County Superior Court ",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recik843eQdZfJ2fY"
-  },
-  {
     "id": "recis6WZ6kSYxiZaM",
     "createdTime": "2024-12-27T16:50:40.000Z",
     "Trial": "MI v Nancy Gerwatowski (Woman arrested 30 years later after baby found in a campground toilet)",
@@ -6166,14 +6126,6 @@
     "State": "Mississippi",
     "Location": "Panola County (Almost to Memphis near the state line)",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recizZ7T9OFYdKITN"
-  },
-  {
-    "id": "recj0Yo0ETjrhI6AL",
-    "createdTime": "2024-06-21T13:15:33.000Z",
-    "Trial": "UT v Mia Bailey (Transwoman allegedly killed her family)",
-    "State": "Utah",
-    "Location": "Washington County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recj0Yo0ETjrhI6AL"
   },
   {
     "id": "recj3WBVD8UmjEqW9",
@@ -7958,7 +7910,7 @@
   {
     "id": "recxVWhm6AwodPdgm",
     "createdTime": "2025-09-05T15:55:14.000Z",
-    "Trial": "GA v William Almond",
+    "Trial": "GA v William Almond / accused of killing wife, niece indicted on dozens of charges",
     "State": "Georgia",
     "Location": "DeKalb County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxVWhm6AwodPdgm"

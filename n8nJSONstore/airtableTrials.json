@@ -192,14 +192,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec100RCT3BXwMpaX"
   },
   {
-    "id": "rec135QXUhjL6Vqy0",
-    "createdTime": "2024-09-13T15:30:48.000Z",
-    "Trial": "WI v Madison Bergmann (teacher accused of assaulting 11-year-old)",
-    "State": "Wisconsin",
-    "Location": "St Croix County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec135QXUhjL6Vqy0"
-  },
-  {
     "id": "rec14wWgEOGObIIrU",
     "createdTime": "2025-09-22T17:11:14.000Z",
     "Trial": "OH v Travis Jackson / Neighbor allegedly shoots landscaper",
@@ -381,6 +373,14 @@
     "State": "Wisconsin",
     "Location": "Outagamie County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2hUtOonVngljMr"
+  },
+  {
+    "id": "rec2iS1im74HmYL3d",
+    "createdTime": "2025-12-18T14:04:20.000Z",
+    "Trial": "FL v Susan Avalon / Woman charged with murdering 2 ex-husbands ",
+    "State": "Florida",
+    "Location": "Manatee County ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2iS1im74HmYL3d"
   },
   {
     "id": "rec2igjkNfJBYNNPd",
@@ -2443,6 +2443,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGxNURc1qIxjG9O"
   },
   {
+    "id": "recGyjBnOfmhdV46w",
+    "createdTime": "2025-12-23T16:25:03.000Z",
+    "Trial": "TX v Jody Johnston (arrested for husband's murder 22 years later)",
+    "State": "Texas",
+    "Location": "Fort Bend County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGyjBnOfmhdV46w"
+  },
+  {
     "id": "recH1Uyjgd1Xq5HQv",
     "createdTime": "2024-12-16T17:06:57.000Z",
     "Trial": "CA v Samuel Davalos Pasillas / SoCal pastor accused in murder-for-hire plot that targeted man dating his daughter",
@@ -2657,6 +2665,14 @@
     "State": "Michigan",
     "Location": "Muskegon County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recInvHuKjPPZHjY7"
+  },
+  {
+    "id": "recIshKcQT1fOIVZd",
+    "createdTime": "2025-11-20T17:13:49.000Z",
+    "Trial": "CA v Ashlee Buzzard / Missing daughter Melodee Buzzard",
+    "State": "California",
+    "Location": "Santa Barbara County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recIshKcQT1fOIVZd"
   },
   {
     "id": "recIwafV1vodwodSN",
@@ -6214,6 +6230,14 @@
     "State": "Georgia",
     "Location": "Fulton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjIjTQkn5jeuI6u"
+  },
+  {
+    "id": "recjNsh62e4h9ta88",
+    "createdTime": "2025-12-23T18:57:22.000Z",
+    "Trial": "NJ v Rebecca Sayegh",
+    "State": "New Jersey",
+    "Location": "Ocean County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjNsh62e4h9ta88"
   },
   {
     "id": "recjRQRqhLnHL0bsd",

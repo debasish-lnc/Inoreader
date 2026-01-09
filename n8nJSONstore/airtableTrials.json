@@ -443,7 +443,7 @@
     "createdTime": "2025-07-29T13:59:32.000Z",
     "Trial": "NV v Taylour Sierra Dickinson / Baby left in a dumpster and survived.  ",
     "State": "Nevada",
-    "Location": "Washoe / Reno",
+    "Location": "Washoe County District",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec37CVy7Szshz6Y2"
   },
   {
@@ -891,14 +891,6 @@
     "State": "Utah",
     "Location": "Utah County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec6bmQOhAQsay1i1"
-  },
-  {
-    "id": "rec6cknh8b8aYmVbv",
-    "createdTime": "2024-11-29T15:22:18.000Z",
-    "Trial": "VA v Gennevieve McGhee (murder for hire plot)",
-    "State": "Virginia",
-    "Location": "Henry Circuit Court ",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec6cknh8b8aYmVbv"
   },
   {
     "id": "rec6dY7ZgsxREAChA",
@@ -4169,14 +4161,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTY2Izb0NhJKBDk"
   },
   {
-    "id": "recTY8rkgO7hZ0MNY",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "NC v Miguel Gonzalez-Rasalas (Murder victim surrounded by crosses and salt)",
-    "State": "North Carolina",
-    "Location": "Mecklenburg County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTY8rkgO7hZ0MNY"
-  },
-  {
     "id": "recTcZHSNxfj3hLOg",
     "createdTime": "2025-10-30T16:29:39.000Z",
     "Trial": "CT v Sebastian Van Stockum / 20, ‘Bludgeoned’ Mother to Death Police say",
@@ -5079,6 +5063,14 @@
     "State": "Georgia",
     "Location": "Gwinnett County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recadsQr1O2UMcWA8"
+  },
+  {
+    "id": "recaleO39eCLFW7X9",
+    "createdTime": "2026-01-06T13:22:29.000Z",
+    "Trial": "GA v Tyler Edward Linn / Dispute over a Target parking spot leads to a man's death",
+    "State": "Georgia",
+    "Location": "Chatham County / Savannah",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recaleO39eCLFW7X9"
   },
   {
     "id": "recardIm1PgpRsqNI",
@@ -6409,6 +6401,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckyTxy5MCwf08xB"
   },
   {
+    "id": "recl2qguMEQCZTs5W",
+    "createdTime": "2025-12-18T19:23:01.000Z",
+    "Trial": "NM v Darren Munoz and Julio Zamora / Teen allegedly hired buddy to kill his parents so they could split inheritance money",
+    "State": "New Mexico",
+    "Location": "Clovis",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recl2qguMEQCZTs5W"
+  },
+  {
     "id": "recl5SyeAQJBkzS4b",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "MA v Matthew Nilo (Serial unsolved rape charges)",
@@ -6727,14 +6727,6 @@
     "State": "Georgia",
     "Location": "Fulton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recnhRfIPEx8Z6ANe"
-  },
-  {
-    "id": "recnia2yZn3bGhZY0",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "NV v Devyn Michaels (smoking headless body) ",
-    "State": "Nevada",
-    "Location": "Clark County ",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recnia2yZn3bGhZY0"
   },
   {
     "id": "recnk0JAuZKZwy5p0",

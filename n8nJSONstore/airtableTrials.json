@@ -2179,14 +2179,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFhlyzU7Bhiij1M"
   },
   {
-    "id": "recFl1HiPVm5ZSOeS",
-    "createdTime": "2025-08-11T14:04:43.000Z",
-    "Trial": "NM v Sheliky Sanchez / Teen accused of random shooting of an Uber driver.",
-    "State": "New Mexico",
-    "Location": "Bernalillo County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFl1HiPVm5ZSOeS"
-  },
-  {
     "id": "recFp78gpFNUyKnoQ",
     "createdTime": "2025-03-10T13:54:46.000Z",
     "Trial": "NJ v Gustavo Juarez-Perez",
@@ -2377,6 +2369,14 @@
     "State": "South Carolina",
     "Location": "Sumter",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGbUaJXLlw04Wzj"
+  },
+  {
+    "id": "recGce0UWgakXmVj7",
+    "createdTime": "2025-11-21T21:02:55.000Z",
+    "Trial": "OH v Maxwell Anatra / Parents killed",
+    "State": "Ohio",
+    "Location": "Crawford County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGce0UWgakXmVj7"
   },
   {
     "id": "recGeR3oessdIRHmf",
@@ -3105,6 +3105,14 @@
     "State": "Florida",
     "Location": "Miami-Dade",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMWVwwVkuEwKMHY"
+  },
+  {
+    "id": "recMq3a9s60OwdSnw",
+    "createdTime": "2026-01-06T14:11:00.000Z",
+    "Trial": "OH v Robert Palermo / Roommate murder on NYD.  ",
+    "State": "Ohio",
+    "Location": "Ashland County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recMq3a9s60OwdSnw"
   },
   {
     "id": "recMsVHiAXB8c4e9k",
@@ -4255,6 +4263,14 @@
     "State": "Arizona",
     "Location": "Maricopa County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUQdb8AuYp8Fqt3"
+  },
+  {
+    "id": "recUSV2880nK7Fq3F",
+    "createdTime": "2026-01-06T13:49:25.000Z",
+    "Trial": "WI v Dayveon Lathrop / Death of his 8 year old adopted sister.  ",
+    "State": "Wisconsin",
+    "Location": "Rock County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUSV2880nK7Fq3F"
   },
   {
     "id": "recUaPtHP5qLrZhAf",
@@ -5833,6 +5849,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgGCludnxILrU2C"
   },
   {
+    "id": "recgMSL7mO0MitATS",
+    "createdTime": "2025-10-02T17:15:27.000Z",
+    "Trial": "MI vs Jeffery Smerer/father accused of shooting 3 of his children ordered to stand trial\n",
+    "State": "Michigan",
+    "Location": "St. Clair County - 31ST CIRCUIT COURT\nST CLAIR COUNTY",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgMSL7mO0MitATS"
+  },
+  {
     "id": "recgNBqVGg3K4Gnpj",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "KY v Shannon Gilday",
@@ -7194,7 +7218,7 @@
     "id": "recrUlZS4Fh35T9hN",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "AK v Zarrius Hildabrand (National Guard / Wife killed)",
-    "State": "Alaksa",
+    "State": "Alaska",
     "Location": "Anchorage ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recrUlZS4Fh35T9hN"
   },
@@ -7359,6 +7383,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recsmNV5UoMl6Ties"
   },
   {
+    "id": "recsrlR1ZUIVD9TC7",
+    "createdTime": "2026-01-06T14:17:30.000Z",
+    "Trial": "IN v Cecil Mains / Wife killed days after filing a protective order. ",
+    "State": "Indiana",
+    "Location": "Marion Superior Court ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recsrlR1ZUIVD9TC7"
+  },
+  {
     "id": "recstT3eUvYtxKLQV",
     "createdTime": "2025-08-20T14:34:01.000Z",
     "Trial": "FL v Jaden Alexander Harris/charter captain murdered over ‘minor traffic issue’",
@@ -7413,6 +7445,14 @@
     "State": "Nevada",
     "Location": "Washoe County Justice Court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rectIoneezHvoSd6r"
+  },
+  {
+    "id": "rectP0VBGymNuxPLl",
+    "createdTime": "2026-01-08T16:58:36.000Z",
+    "Trial": "WI v Kevin Lychwick / Had a hit list for his neighbors",
+    "State": "Wisconsin",
+    "Location": "Waukesha County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rectP0VBGymNuxPLl"
   },
   {
     "id": "rectWmBi6y6mUib4B",

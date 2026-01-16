@@ -234,7 +234,7 @@
   {
     "id": "rec1q2MbveKhxx041",
     "createdTime": "2025-02-05T19:40:04.000Z",
-    "Trial": "SC v Kimberly Maggert",
+    "Trial": "SC v Kimberly Maggert (NYE shooting of boyfriend)",
     "State": "South Carolina",
     "Location": "Horry County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec1q2MbveKhxx041"
@@ -637,14 +637,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec4wA97JixzoyuSl"
   },
   {
-    "id": "rec53bCOEPjwzaCF1",
-    "createdTime": "2024-08-15T18:22:21.000Z",
-    "Trial": "CA v  SALVADOR PLASENCIA & Jasveen Sangha (Matthew Perry death Federal)",
-    "State": "California",
-    "Location": "UNITED STATES DISTRICT COURT FOR THE CENTRAL DISTRICT OF CALIFORNIA",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec53bCOEPjwzaCF1"
-  },
-  {
     "id": "rec56N37RlCQfzx4I",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "SC v Curtis \"Eddie\" Smith (Murdaugh)",
@@ -739,6 +731,14 @@
     "State": "Florida",
     "Location": "Miami Dade",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5OrGOasgrXntkZ"
+  },
+  {
+    "id": "rec5QHJmrd2JdukTU",
+    "createdTime": "2024-05-14T17:41:49.000Z",
+    "Trial": "GA v Edrick Lamont Faust (UGA Cold Case murder of Tara Baker)",
+    "State": "Georgia",
+    "Location": "Athens",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5QHJmrd2JdukTU"
   },
   {
     "id": "rec5SQTMFH6ud5AkJ",
@@ -907,14 +907,6 @@
     "State": "Florida",
     "Location": "Miami-Dade",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec6dY7ZgsxREAChA"
-  },
-  {
-    "id": "rec6eJ9wtD77UA860",
-    "createdTime": "2025-10-27T20:04:20.000Z",
-    "Trial": "VA v Katelynn Hipes",
-    "State": "Virginia",
-    "Location": "Nelson Co ",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec6eJ9wtD77UA860"
   },
   {
     "id": "rec6f35QqdMvvWL3f",
@@ -1551,7 +1543,7 @@
   {
     "id": "recBEs5wmTV1EGWGz",
     "createdTime": "2025-12-15T17:44:42.000Z",
-    "Trial": "CT v Kristen Hogan / Allegedly tried to poison her husband with anti-freeze / 2nd arrest perjury for allegedly trying to falsify paternity results.  ",
+    "Trial": "CT v Kristen Hogan / Allegedly tried to poison her husband  2nd arrest perjury for allegedly trying to falsify paternity results.  ",
     "State": "Connecticut",
     "Location": "Danbury ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBEs5wmTV1EGWGz"
@@ -1631,7 +1623,7 @@
   {
     "id": "recBclmXK8Pj09T6F",
     "createdTime": "2025-12-03T13:07:20.000Z",
-    "Trial": "KY v Jeffrey Young (alleged murder for hire plot against wife)",
+    "Trial": "KY v Jeffery Young (alleged murder for hire plot against wife)",
     "State": "Kentucky",
     "Location": "Warren Circuit Court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBclmXK8Pj09T6F"
@@ -1671,7 +1663,7 @@
   {
     "id": "recBvo9Xrvl1KKi0k",
     "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "GA v Kianna Aiesha Renee Davis (Teacher accused of 2 year old killed in 2020)",
+    "Trial": "GA v Kianna Aiesha Renee Davis & Kiyon Devoy Benton (Teacher accused of 2 year old killed in 2020)",
     "State": "Georgia",
     "Location": "Houston County / Warner Robbins",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recBvo9Xrvl1KKi0k"
@@ -1770,6 +1762,14 @@
     "Trial": "MN v Jordan Collins, Sr/Father accused of killing son and dropping his body in a dumpster",
     "State": "Minnesota",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCO4iVgfl1P92a0"
+  },
+  {
+    "id": "recCOgDizkgCOxRGv",
+    "createdTime": "2026-01-15T17:37:57.000Z",
+    "Trial": "NJ v Priyatharsini Natarajan (dad came home from work to find 2 young sons murdered)",
+    "State": "New Jersey",
+    "Location": "Somerset County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCOgDizkgCOxRGv"
   },
   {
     "id": "recCPeiXfOqwdOJFb",
@@ -2257,6 +2257,14 @@
     "State": "Georgia",
     "Location": "Clayton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recG6YB3uUkwOhBFF"
+  },
+  {
+    "id": "recGCvci3KjZF7ldw",
+    "createdTime": "2026-01-15T12:30:15.000Z",
+    "Trial": "NM vs Madeline Daly/accused of fatally shooting son during a standoff",
+    "State": "New Mexico",
+    "Location": "GRANT COUNTY",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGCvci3KjZF7ldw"
   },
   {
     "id": "recGEo3aRdSQRcfJU",
@@ -4217,14 +4225,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTjfOAUfQ2ByZ25"
   },
   {
-    "id": "recTq0k2Y33cdDhEa",
-    "createdTime": "2025-12-17T13:22:50.000Z",
-    "Trial": "OH v Jason Meade / Former Deputy retrial in the alleged murder of Casey Goodson Jr.  ",
-    "State": "Ohio",
-    "Location": "Franklin County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTq0k2Y33cdDhEa"
-  },
-  {
     "id": "recTqhkbbLe13abW4",
     "createdTime": "2024-11-08T22:21:52.000Z",
     "Trial": "FL v Gisselle Victoria-Gonzalez (DOB 03/30/1982) / Florida woman charged with murder of roommate arrested in Hartford",
@@ -4695,6 +4695,14 @@
     "State": "New Jersey",
     "Location": "Middlesex County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXbSCOq89mcPhck"
+  },
+  {
+    "id": "recXbSjO2zG12waJV",
+    "createdTime": "2026-01-15T21:21:00.000Z",
+    "Trial": "NM v Timothy Busfield (actor child abuse charges)",
+    "State": "New Mexico",
+    "Location": "Bernalillo County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXbSjO2zG12waJV"
   },
   {
     "id": "recXeiRKAHfMPGu69",
@@ -5419,7 +5427,7 @@
   {
     "id": "recdEhhu3LjCdao2V",
     "createdTime": "2025-10-02T19:25:48.000Z",
-    "Trial": "OH v Michael \"Jason\" Meade / ",
+    "Trial": "OH v Jason Meade / Former Deputy retrial in the alleged murder of Casey Goodson Jr.  ",
     "State": "Ohio",
     "Location": "Franklin County / Columbus Market",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recdEhhu3LjCdao2V"
@@ -7461,6 +7469,14 @@
     "State": "California",
     "Location": "Los Angeles",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rectYcw4NKmMyWfGP"
+  },
+  {
+    "id": "recta6vAH209o8Iy6",
+    "createdTime": "2024-05-03T16:47:55.000Z",
+    "Trial": "MI v Dale Warner (Wife missing // Body found later)",
+    "State": "Michigan",
+    "Location": "Lenawee County Circuit Court",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recta6vAH209o8Iy6"
   },
   {
     "id": "rectbC6tHmFPJFTag",

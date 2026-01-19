@@ -319,6 +319,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2Owz4ts9IEXAtu"
   },
   {
+    "id": "rec2PeFvYFq1EsUXP",
+    "createdTime": "2025-10-28T20:06:17.000Z",
+    "Trial": "TX v Shiateek D. Wilson / Man hid in ex-girlfriend's closet to 'surprise' her with flowers, then killed the new boyfriend she came home with",
+    "State": "Texas",
+    "Location": "Bexar County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2PeFvYFq1EsUXP"
+  },
+  {
     "id": "rec2PoPaJ8sAbkprr",
     "createdTime": "2025-11-05T19:28:23.000Z",
     "Trial": "IL vs Robyn Polston/woman and minor confirmed as baby’s parents in sex assault case",
@@ -532,6 +540,14 @@
     "State": "Florida",
     "Location": "Duval County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec3mUdkf1X6hxbga"
+  },
+  {
+    "id": "rec3xHd9Hxptd0hZq",
+    "createdTime": "2026-01-02T22:46:18.000Z",
+    "Trial": "OR vs Angelina Minor/mom accused in DUII crash which killed 4-year-old son",
+    "State": "Oregon",
+    "Location": "Multnomah",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec3xHd9Hxptd0hZq"
   },
   {
     "id": "rec40xuo4LpLCg7G5",
@@ -1843,14 +1859,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recD3hMJpDhy5hoHS"
   },
   {
-    "id": "recD5u8G5VVeqvyQv",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "NC v Keylee Turnipseed (Teen charged with boyfriend's murder)",
-    "State": "North Carolina",
-    "Location": "Guilford County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recD5u8G5VVeqvyQv"
-  },
-  {
     "id": "recD7sZxt1WCaHbX8",
     "createdTime": "2025-12-08T14:58:53.000Z",
     "Trial": "OH v Hassan-James Abbas / allegedly used his estranged wife’s information to order abortion drugs for his girlfriend, then forced her to ingest them against her will.",
@@ -1865,6 +1873,14 @@
     "State": "Georgia",
     "Location": "Fulton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDB8YNxHhhVxeaP"
+  },
+  {
+    "id": "recDQuNxag27QvN3a",
+    "createdTime": "2026-01-02T13:01:18.000Z",
+    "Trial": "TX v James Brennand / 2022 shooting of teenager Erik Cantu outside a McDonald’s restaurant",
+    "State": "Texas",
+    "Location": "Bexar County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDQuNxag27QvN3a"
   },
   {
     "id": "recDSqdVYIGBSR0cC",
@@ -2025,6 +2041,14 @@
     "State": "Texas",
     "Location": "Denton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recELrNF9z5GxLpnq"
+  },
+  {
+    "id": "recENKyPVaKKKM5JP",
+    "createdTime": "2025-12-19T14:22:58.000Z",
+    "Trial": "WA v Trinity Morley / Teen Arrested After Parents Allegedly Find Journal with Plans to Kill Ex — and Ex's Father Sees Masked Face Staring into Ring Camera",
+    "State": "Washington",
+    "Location": "Kings County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recENKyPVaKKKM5JP"
   },
   {
     "id": "recESWEnHTwJAT10z",
@@ -2667,6 +2691,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recIhXTj2fdPBu0Da"
   },
   {
+    "id": "recIiwQNsKECB2xNc",
+    "createdTime": "2026-01-02T12:57:48.000Z",
+    "Trial": "TX v Reyes Gallegos (wife murder, no body)",
+    "State": "Texas",
+    "Location": "Bexar County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recIiwQNsKECB2xNc"
+  },
+  {
     "id": "recIlLrOVV6cQbbr1",
     "createdTime": "2024-08-19T11:53:45.000Z",
     "Trial": "SC v James Douglas Drayton (5 killed after meth usage)",
@@ -2835,6 +2867,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recJqfN3gz7IAq3eT"
   },
   {
+    "id": "recK0tEL5GD6MbuJM",
+    "createdTime": "2026-01-16T15:13:46.000Z",
+    "Trial": "MI v Efrain Medina / River Rouge murder case heads to third trial after 5 years",
+    "State": "Michigan",
+    "Location": "Wayne County Third Circuit Court",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recK0tEL5GD6MbuJM"
+  },
+  {
     "id": "recK6D1rgBntVgGmm",
     "createdTime": "2024-05-06T16:31:20.000Z",
     "Trial": "RUST Civil Case",
@@ -2897,14 +2937,6 @@
     "State": "Tennessee",
     "Location": "Shelby County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recKOaK0lIIKD2r9g"
-  },
-  {
-    "id": "recKUm5fVBjBQtn9z",
-    "createdTime": "2025-02-11T13:38:48.000Z",
-    "Trial": "FL v Andrew Ridgeway / Boyfriend arrested for ‘savage’ murder after story about Jamaica trip blows up in his face",
-    "State": "Florida",
-    "Location": "Polk County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recKUm5fVBjBQtn9z"
   },
   {
     "id": "recKWxdV3RF9mAeOx",
@@ -3849,6 +3881,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recQu1q58kCa1AvUQ"
   },
   {
+    "id": "recR2wFFZwipMToax",
+    "createdTime": "2025-10-22T18:33:37.000Z",
+    "Trial": "CA v William \"Billy\" Rodriguez / Below Deck guest charged with Murder and Hit&Run",
+    "State": "California",
+    "Location": "Riverside County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recR2wFFZwipMToax"
+  },
+  {
     "id": "recR9lzhvN0lJjeNi",
     "createdTime": "2025-08-11T13:58:35.000Z",
     "Trial": "CO v Daniel Nations / Man accused of road rage killing was investigated for 2 other murders, including the Delphi slayings: Police",
@@ -4131,7 +4171,7 @@
   {
     "id": "recSs6fhn0FkZ5Qig",
     "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "TX v Devin Kieth Grantom (Wife/MIL killed - FIL survived)",
+    "Trial": "TX v Devin Kieth Grantom (Wife/Mother killed)",
     "State": "Texas",
     "Location": "Harris Counnty",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSs6fhn0FkZ5Qig"
@@ -4193,6 +4233,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTY2Izb0NhJKBDk"
   },
   {
+    "id": "recTZomdmX2MneUFS",
+    "createdTime": "2025-10-02T17:20:50.000Z",
+    "Trial": "TX vs Raul Franco/arrested after three people were shot multiple times, including an 8-year-old girl / Motive???",
+    "State": "Texas",
+    "Location": "Williamson County ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTZomdmX2MneUFS"
+  },
+  {
     "id": "recTcZHSNxfj3hLOg",
     "createdTime": "2025-10-30T16:29:39.000Z",
     "Trial": "CT v Sebastian Van Stockum / 20, ‘Bludgeoned’ Mother to Death Police say",
@@ -4239,6 +4287,14 @@
     "State": "Georgia",
     "Location": "Hall County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recTyJXw6u066QvXw"
+  },
+  {
+    "id": "recU4ahejRU3CYNlT",
+    "createdTime": "2026-01-16T16:21:18.000Z",
+    "Trial": "TX v Jonathan Ross Mata / 'Oh we were looking for our kidnapped daughter': Man shoots driver on Christmas Day in fatal case of mistaken identity, police say",
+    "State": "Texas",
+    "Location": "Houston",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recU4ahejRU3CYNlT"
   },
   {
     "id": "recU5CMsqxw6aPdyZ",
@@ -4455,6 +4511,14 @@
     "State": "Florida",
     "Location": "Leon County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recVf8AGOjmu713ZH"
+  },
+  {
+    "id": "recVgjJPs6rJ7VblZ",
+    "createdTime": "2025-11-07T14:59:52.000Z",
+    "Trial": "MI v Samantha Booth / Grandfather allegedly killed by granddaughter's nanny during welfare check ",
+    "State": "Michigan",
+    "Location": "Oakland County / Royal Oak / 44th District Court",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recVgjJPs6rJ7VblZ"
   },
   {
     "id": "recVjJiM4FpHWz9Yr",
@@ -5135,6 +5199,14 @@
     "State": "Tennessee",
     "Location": "Giles County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recasDLmn3IjFVkq6"
+  },
+  {
+    "id": "recaulUJfPcSq9aN2",
+    "createdTime": "2025-10-21T12:00:43.000Z",
+    "Trial": "Michelle Ritter v Eric Schmidt / Civil stalking case ",
+    "State": "California",
+    "Location": "Los Angeles",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recaulUJfPcSq9aN2"
   },
   {
     "id": "recay53XNOWWEnpjQ",
@@ -5857,6 +5929,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgGCludnxILrU2C"
   },
   {
+    "id": "recgIopxsEKtExd8K",
+    "createdTime": "2026-01-02T13:00:57.000Z",
+    "Trial": "TX v Stephen Clare (death penalty trial for allegedly attacking his ex-wife and two daughters, resulting in the death of his 11-month-old child.)",
+    "State": "Texas",
+    "Location": "Bexar County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgIopxsEKtExd8K"
+  },
+  {
     "id": "recgMSL7mO0MitATS",
     "createdTime": "2025-10-02T17:15:27.000Z",
     "Trial": "MI vs Jeffery Smerer/father accused of shooting 3 of his children ordered to stand trial\n",
@@ -5935,6 +6015,14 @@
     "State": "Texas",
     "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rech0YVcNFJSS18Kw"
+  },
+  {
+    "id": "rech2By5b2tNGyhO3",
+    "createdTime": "2025-10-24T18:47:54.000Z",
+    "Trial": "TX v Jessica Quintana / Mother accused of attempting to drown her children",
+    "State": "Texas",
+    "Location": "Liberty County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rech2By5b2tNGyhO3"
   },
   {
     "id": "rech81tvSvogN1Goy",
@@ -6193,14 +6281,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjIjTQkn5jeuI6u"
   },
   {
-    "id": "recjNsh62e4h9ta88",
-    "createdTime": "2025-12-23T18:57:22.000Z",
-    "Trial": "NJ v Rebecca Sayegh",
-    "State": "New Jersey",
-    "Location": "Ocean County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjNsh62e4h9ta88"
-  },
-  {
     "id": "recjRQRqhLnHL0bsd",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "NC v Brandi Sturdivant (3 kids killed in house fire)",
@@ -6223,6 +6303,14 @@
     "State": "Michigan",
     "Location": "Livingston County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjSAPiPsD0Y0ZnQ"
+  },
+  {
+    "id": "recjWnl3kEBHmJyzv",
+    "createdTime": "2026-01-16T16:10:21.000Z",
+    "Trial": "WI v Cameron Washington / A Milwaukee man has been charged with arson in his pregnant girlfriend's death",
+    "State": "Wisconsin",
+    "Location": "Milwaukee Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recjWnl3kEBHmJyzv"
   },
   {
     "id": "recjckMMUwEWrJlUl",
@@ -6335,6 +6423,14 @@
     "State": "Indiana",
     "Location": "Bloomington / Monroe County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckBYWJVCNczH7Qu"
+  },
+  {
+    "id": "reckMHb83emMVR5SG",
+    "createdTime": "2025-12-01T13:21:34.000Z",
+    "Trial": "NV v  Jose Gutierrez / Accused of intentionally causing a crash that killed 2 people including his pregnant girlfriend.  ",
+    "State": "Nevada",
+    "Location": "Clark county",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reckMHb83emMVR5SG"
   },
   {
     "id": "reckNEfRzOW2EzF46",
@@ -6463,6 +6559,14 @@
     "State": "Virginia",
     "Location": "Mathews County ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reclDwl4dCVmQUxCO"
+  },
+  {
+    "id": "reclFuEnDEZUkCZME",
+    "createdTime": "2026-01-02T12:59:51.000Z",
+    "Trial": "TX v Sigfredo Ceja Alvarez / accused in the death of actor Jonathan Joss following an alleged neighborhood dispute,",
+    "State": "Texas",
+    "Location": "Bexar County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reclFuEnDEZUkCZME"
   },
   {
     "id": "reclOZsos8JrEfDew",
@@ -6663,6 +6767,22 @@
     "State": "Nevada",
     "Location": "Washoe / Reno",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recn227BosZsWr9VK"
+  },
+  {
+    "id": "recn3l7US6O8wzKgw",
+    "createdTime": "2025-11-13T14:08:20.000Z",
+    "Trial": "TX v Lamarcus Oneal Smith / Arrested 18 months after his wife's death.  ",
+    "State": "Texas",
+    "Location": "Ft Bend",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recn3l7US6O8wzKgw"
+  },
+  {
+    "id": "recn4XZOqeUzWCcHm",
+    "createdTime": "2025-10-22T13:19:36.000Z",
+    "Trial": "TX v Brandon Ashley / accused of killing teacher wife",
+    "State": "Texas",
+    "Location": "Johnson County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recn4XZOqeUzWCcHm"
   },
   {
     "id": "recn96Ar5Tmsjxx6x",
@@ -7742,6 +7862,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recvSvuTOVOQGARzv"
   },
   {
+    "id": "recvcrEE6uFum3mI3",
+    "createdTime": "2026-01-15T22:34:31.000Z",
+    "Trial": "MN vs Theah Russell/ day care worker arrested for suffocating baby to death",
+    "State": "Minnesota",
+    "Location": "Scott County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recvcrEE6uFum3mI3"
+  },
+  {
     "id": "recveEjmzuFKtvGYZ",
     "createdTime": "2025-05-01T13:53:25.000Z",
     "Trial": "NY v Felipe Hoyos-Foronda",
@@ -7918,14 +8046,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwuyYIqKYGTBpoY"
   },
   {
-    "id": "recwxeF8c3HTBnGXc",
-    "createdTime": "2024-05-06T16:31:20.000Z",
-    "Trial": "FL v Derek Rosa (Mother allegedly stabbed by 13 year old son)",
-    "State": "Florida",
-    "Location": "Miami-Dade",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwxeF8c3HTBnGXc"
-  },
-  {
     "id": "recx9tKChZDpI9lHk",
     "createdTime": "2024-11-15T18:39:47.000Z",
     "Trial": "NJ v Sean M. Higgins (NHL star and brother fatal crash) Court Livestream available???",
@@ -7980,6 +8100,14 @@
     "State": "Florida",
     "Location": "Miami-Dade",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxgk3vYBgjNp31r"
+  },
+  {
+    "id": "recxjY1WtlP3WHAWj",
+    "createdTime": "2025-10-28T19:21:24.000Z",
+    "Trial": "SC v Jackson Arnold / 'Hyper-obsessed' ex-boyfriend hid in woman's shower with knife and her underwear on his face like a mask after sneaking into her house as part of 'prank",
+    "State": "South Carolina",
+    "Location": "Charleston County ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxjY1WtlP3WHAWj"
   },
   {
     "id": "recxklgmvTRoxBynK",
@@ -8086,6 +8214,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recyIq9WIgrmgIkLC"
   },
   {
+    "id": "recyIwKr9XO3s0YiF",
+    "createdTime": "2025-09-03T12:14:44.000Z",
+    "Trial": "TX v Christopher Wayne Hicks Jr.  / Targeted shooting of his 16 year old girlfriend and her Father",
+    "State": "Texas",
+    "Location": "Gregg County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recyIwKr9XO3s0YiF"
+  },
+  {
     "id": "recyKD0FubtDoLraN",
     "createdTime": "2025-05-14T19:10:51.000Z",
     "Trial": "UT v Cashel Barnett (\"Love Island\" contestant domestic violence arrest)",
@@ -8100,6 +8236,14 @@
     "State": "Indiana",
     "Location": "Gibson County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recyPImbBi5E2cWc9"
+  },
+  {
+    "id": "recyR4jk5Dwa3KLhB",
+    "createdTime": "2026-01-06T13:51:47.000Z",
+    "Trial": "WI v Oliver McSorley / Teen road rage.  Tracking more for assets. ",
+    "State": "Wisconsin",
+    "Location": "Waukesha Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recyR4jk5Dwa3KLhB"
   },
   {
     "id": "recySWDx8oOq4tC3p",

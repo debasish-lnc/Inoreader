@@ -1041,7 +1041,7 @@
     "createdTime": "2025-08-11T13:51:33.000Z",
     "Trial": "MI v Deandre Booker /‘Telling God I want to kill someone’: The 9 Google searches from ex-boyfriend in Ashley Elkins case",
     "State": "Michigan",
-    "Location": "Macomb County",
+    "Location": "Macomb County Circuit Court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7Dmd2RmJSQOZCo"
   },
   {
@@ -1415,7 +1415,7 @@
   {
     "id": "rec9tb5luFK3d9Oaf",
     "createdTime": "2025-11-18T15:26:41.000Z",
-    "Trial": "MN vs David B Delong/allegedly smahshed co-worker with a sledgehammer",
+    "Trial": "MN vs David B Delong/allegedly smashed co-worker with a sledgehammer",
     "State": "Minnesota",
     "Location": "Wright Co",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9tb5luFK3d9Oaf"
@@ -8076,6 +8076,14 @@
     "State": "Connecticut",
     "Location": "Waterbury JD9",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxdtXyCSscybEVk"
+  },
+  {
+    "id": "recxgXGG3RhNXjJRv",
+    "createdTime": "2024-05-03T16:47:55.000Z",
+    "Trial": "FL v Thomas Mosley (Toddler found in alligator's mouth)",
+    "State": "Florida",
+    "Location": "Pinellas County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recxgXGG3RhNXjJRv"
   },
   {
     "id": "recxgk3vYBgjNp31r",

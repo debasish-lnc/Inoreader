@@ -463,14 +463,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec31zj5Ib0iYQXQ9"
   },
   {
-    "id": "rec32MIs0l576dlUb",
-    "createdTime": "2024-05-13T22:43:22.000Z",
-    "Trial": "IL v John P. Shadbar (Shot neighbor and charged with a hate crime)",
-    "State": "Illinois",
-    "Location": "Will County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec32MIs0l576dlUb"
-  },
-  {
     "id": "rec346DEzVASIGIWO",
     "createdTime": "2024-05-10T17:13:33.000Z",
     "Trial": "FL v Timothy Ferriter (adopted son left in a garage)",
@@ -1852,6 +1844,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCW82xF2KRNDbQT"
   },
   {
+    "id": "recCYIrzRaAJ58n2l",
+    "createdTime": "2026-01-29T19:12:47.000Z",
+    "Trial": "IL v Nedas Revuckas (teen accused in pregnant woman murder who allegedly suffered 70 stab wound)",
+    "State": "Illinois",
+    "Location": "DuPage County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCYIrzRaAJ58n2l"
+  },
+  {
     "id": "recCbgW43XutO0JKT",
     "createdTime": "2024-09-04T11:13:13.000Z",
     "Trial": "FL v Jerry Dorisme",
@@ -2185,14 +2185,6 @@
     "State": "Nevada",
     "Location": "Clark Co NV",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recF9QSFhXqIu7bh6"
-  },
-  {
-    "id": "recF9eJ1oW2X0mYuD",
-    "createdTime": "2025-12-11T17:48:01.000Z",
-    "Trial": "NJ v Anthony Knox Jr. and Anthony Knox Sr. (wrestling star son and dad wrestling tournament altercation)",
-    "State": "New Jersey",
-    "Location": "Collingswood Municipal Court ",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recF9eJ1oW2X0mYuD"
   },
   {
     "id": "recFIW7GBqTtnOMLJ",
@@ -4249,6 +4241,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSiVIVLJ3Fpu49f"
   },
   {
+    "id": "recSicsSgXvLPCwVl",
+    "createdTime": "2025-08-08T13:39:54.000Z",
+    "Trial": "MS v Tanya Lindell Saucier / Allegedly shot her estranged husband outside the courthouse.  ",
+    "State": "Mississippi",
+    "Location": "Pearl River County ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSicsSgXvLPCwVl"
+  },
+  {
     "id": "recSp3iI8BH2ARBrl",
     "createdTime": "2025-03-31T13:15:17.000Z",
     "Trial": "NC v Shana Cloud / Woman Charged After Allegedly Murdering Ex-Green Beret Husband and Leaving His Body in a Rural Pond",
@@ -5651,7 +5651,7 @@
   {
     "id": "recdjJCfJLUfddSu1",
     "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "CT v Iris Rivera-Santos / Mother Arrested Month After Toddler Son Found Slain and Buried in Plastic Bag at Connecticut Park",
+    "Trial": "CT v Iris Rivera-Santos & Edgar Ismalej-Gomez  / Mother Arrested Month After Toddler Son Found Slain and Buried in Plastic Bag at Connecticut Park",
     "State": "Connecticut",
     "Location": "Stamford Superior Court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recdjJCfJLUfddSu1"
@@ -6505,6 +6505,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reck82aOqPqtPPIZj"
   },
   {
+    "id": "reck8gqkpP06qgkA8",
+    "createdTime": "2026-01-29T19:21:18.000Z",
+    "Trial": "CA v Alyssa Marie Lira (woman accused of killing and decapitating boyfriend arrested in Mexico)",
+    "State": "California",
+    "Location": "Orange County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reck8gqkpP06qgkA8"
+  },
+  {
     "id": "reckArBrCBmgSxPuT",
     "createdTime": "2024-06-20T15:24:25.000Z",
     "Trial": "FL v Sean Bigwood (Man tried to murder elderly father over property dispute)",
@@ -6913,6 +6921,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recnKcu6l6huvRVXM"
   },
   {
+    "id": "recnTYc8UUEvyiPZm",
+    "createdTime": "2026-01-29T18:38:58.000Z",
+    "Trial": "MI v Charles Broomfield (admitted to triple murder)",
+    "State": "Michigan",
+    "Location": "Kent County - 62A District Court for now",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recnTYc8UUEvyiPZm"
+  },
+  {
     "id": "recnVQ5B8s0rE4LVx",
     "createdTime": "2025-02-05T18:27:04.000Z",
     "Trial": "MI v Brandee Katrice Pierce",
@@ -7061,7 +7077,7 @@
     "createdTime": "2025-09-15T21:48:38.000Z",
     "Trial": "BRIGITTE KRUSE, ET AL. VS NAVARONE GARCIA",
     "State": "California",
-    "Location": "California Superior Court",
+    "Location": "LA Civil ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recoV30jARwYDtG5t"
   },
   {

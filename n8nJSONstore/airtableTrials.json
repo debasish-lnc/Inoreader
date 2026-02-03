@@ -112,6 +112,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0bzRiEBcC5trhw"
   },
   {
+    "id": "rec0dzQKP73xCQy2U",
+    "createdTime": "2026-02-02T16:24:50.000Z",
+    "Trial": "MI v Willie James Jr.  / Missing Man, body not found.  ",
+    "State": "Michigan",
+    "Location": "Lansing",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0dzQKP73xCQy2U"
+  },
+  {
     "id": "rec0ex84CriWNxhJF",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "MA v Alyssa Partsch (Stabbing over social media posts)",
@@ -302,14 +310,6 @@
     "State": "North Carolina",
     "Location": "Mecklenburg County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2AxoTICEB0xCzu"
-  },
-  {
-    "id": "rec2IlQry7QTUbDiX",
-    "createdTime": "2025-12-05T18:52:27.000Z",
-    "Trial": "UT v Kelley Marie Wolf (charged with two misdemeanors for harassment of actor Scott Wolf and posting his personal phone number on social media)",
-    "State": "Utah",
-    "Location": "Summit County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2IlQry7QTUbDiX"
   },
   {
     "id": "rec2KUpIas2b93BL2",
@@ -1977,6 +1977,14 @@
     "State": "Florida",
     "Location": "Santa Rosa County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDcdTxUXNFyYbw9"
+  },
+  {
+    "id": "recDedxRuKY6tcY6Z",
+    "createdTime": "2026-02-02T14:04:06.000Z",
+    "Trial": "OH v Tyler Thomas / Disappearance of Hailey Buzbee",
+    "State": "Ohio",
+    "Location": "Franklin County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDedxRuKY6tcY6Z"
   },
   {
     "id": "recDfhqaPY5Ahv0m6",
@@ -5733,7 +5741,7 @@
     "createdTime": "2025-10-16T19:03:49.000Z",
     "Trial": "MI v Jalen Pendergrass and Charla Pendergrass (17-year-old London Thomas murder; mom & son arrested)",
     "State": "Michigan",
-    "Location": "22nd District Ct in Inkster (for now) Wayne County",
+    "Location": "Third Judicial Circuit of Michigan ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/receEFrNjwZaBUzYV"
   },
   {
@@ -7719,6 +7727,13 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rectP0VBGymNuxPLl"
   },
   {
+    "id": "rectWTYpFjEwsxyTu",
+    "createdTime": "2026-02-02T14:58:03.000Z",
+    "Trial": "US v Alexander Brothers / Alon and Oren Alexander",
+    "State": "New York",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rectWTYpFjEwsxyTu"
+  },
+  {
     "id": "rectWmBi6y6mUib4B",
     "createdTime": "2025-12-30T18:31:01.000Z",
     "Trial": "UT v Kouri Richins / Fraud charges",
@@ -8636,14 +8651,6 @@
     "State": "Michigan",
     "Location": "Genesee County (7th Circuit Court)",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recztMDdm2PpWwOxo"
-  },
-  {
-    "id": "recztrrVPDqEV0ut5",
-    "createdTime": "2024-09-11T17:28:53.000Z",
-    "Trial": "Wade Wilson alleged accomplices - Hitchman & Wiggins",
-    "State": "Florida",
-    "Location": "Lee County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recztrrVPDqEV0ut5"
   },
   {
     "id": "recztw8Y5O7glqoUL",

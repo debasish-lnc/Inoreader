@@ -112,14 +112,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0bzRiEBcC5trhw"
   },
   {
-    "id": "rec0dzQKP73xCQy2U",
-    "createdTime": "2026-02-02T16:24:50.000Z",
-    "Trial": "MI v Willie James Jr.  / Missing Man, body not found.  ",
-    "State": "Michigan",
-    "Location": "Lansing",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0dzQKP73xCQy2U"
-  },
-  {
     "id": "rec0ex84CriWNxhJF",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "MA v Alyssa Partsch (Stabbing over social media posts)",
@@ -304,14 +296,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec212aDlY0Lyj4EN"
   },
   {
-    "id": "rec2AxoTICEB0xCzu",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "NC v Kimberly Mackey",
-    "State": "North Carolina",
-    "Location": "Mecklenburg County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2AxoTICEB0xCzu"
-  },
-  {
     "id": "rec2KUpIas2b93BL2",
     "createdTime": "2025-11-17T20:54:27.000Z",
     "Trial": "VA v Ebony Parker / Principal charged in school shooting.  ",
@@ -324,6 +308,7 @@
     "createdTime": "2025-07-14T15:12:46.000Z",
     "Trial": "FL v Anthawn Ragan/ Man charged in 10-year-old boy's killing",
     "State": "Florida",
+    "Location": "Miami Dade",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec2NSr5GaergxrBw"
   },
   {
@@ -843,14 +828,6 @@
     "State": "Florida",
     "Location": "Palm Beach County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5Zz5AgPLBFTSmj"
-  },
-  {
-    "id": "rec5cijmrcIxjss0l",
-    "createdTime": "2025-12-19T14:04:02.000Z",
-    "Trial": "TX v Adrian Gonzales /  former officer charged in failed response to Uvalde school shooting",
-    "State": "Texas",
-    "Location": "Uvalde County Trial to be held in Corpus Christi / Nueces County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5cijmrcIxjss0l"
   },
   {
     "id": "rec5hT2iIFmIGJtjQ",
@@ -1852,14 +1829,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCUMNcr5BcAn4pi"
   },
   {
-    "id": "recCW82xF2KRNDbQT",
-    "createdTime": "2024-06-20T12:50:31.000Z",
-    "Trial": "WI v William C. bunch (Pregnant Girlfriend killed)",
-    "State": "Wisconsin",
-    "Location": "Racine",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCW82xF2KRNDbQT"
-  },
-  {
     "id": "recCYIrzRaAJ58n2l",
     "createdTime": "2026-01-29T19:12:47.000Z",
     "Trial": "IL v Nedas Revuckas (teen accused in pregnant woman murder who allegedly suffered 70 stab wound)",
@@ -2251,14 +2220,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFbfeo3nOdfj3x3"
   },
   {
-    "id": "recFceVdB1utPKlcv",
-    "createdTime": "2024-08-06T19:22:44.000Z",
-    "Trial": "FL v Julie Sulpizio (Family lured Police to their home for an ambush / Anti-government)",
-    "State": "Florida",
-    "Location": "Lake County (Orlando Market)",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFceVdB1utPKlcv"
-  },
-  {
     "id": "recFgLgakzlT8TQ49",
     "createdTime": "2025-04-28T21:44:07.000Z",
     "Trial": "FL v Rashaun Jones (shooting of Miami Hurricane teammate Bryan Pata)",
@@ -2321,14 +2282,6 @@
     "State": "South Carolina",
     "Location": "Colleton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFzr0fOynUrZnaX"
-  },
-  {
-    "id": "recG3eLGbjMqdDn4S",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "AZ v Anthony Milan Ross (Vegan Chef / Ex-wife and children killed)",
-    "State": "Arizona",
-    "Location": "Arizona - Maricopa County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recG3eLGbjMqdDn4S"
   },
   {
     "id": "recG6GcZqTMMXDrfz",
@@ -2857,14 +2810,6 @@
     "State": "Texas",
     "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recJQUCxxwHWmUAoX"
-  },
-  {
-    "id": "recJQUnHX1kNrvFHX",
-    "createdTime": "2025-05-02T15:58:35.000Z",
-    "Trial": "FL v Karly Anderson and Elizabeth Hill-Brodigan / Case against Florida teacher charged in alcohol-fueled house party involving 100 teens moves forward",
-    "State": "Florida",
-    "Location": "Brevard County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recJQUnHX1kNrvFHX"
   },
   {
     "id": "recJQVAHHXK8dEkL5",
@@ -4281,14 +4226,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSpAbnQN6Il3Id5"
   },
   {
-    "id": "recSs6fhn0FkZ5Qig",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "TX v Devin Keith Grantom (Wife/Mother killed)",
-    "State": "Texas",
-    "Location": "Harris Counnty",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recSs6fhn0FkZ5Qig"
-  },
-  {
     "id": "recT3mLbVAx2s3AgD",
     "createdTime": "2025-03-20T14:16:31.000Z",
     "Trial": "TX v Carlos Fernandez (12 yr old murdered by Mom's ex boyfriend)",
@@ -5009,28 +4946,12 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYY42x2GUziCFWx"
   },
   {
-    "id": "recYd0QxwjwNJMUXZ",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "AZ v SAMUEL RAPPYLEE BATEMAN   ",
-    "State": "Arizona",
-    "Location": "Coconino County Superior",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYd0QxwjwNJMUXZ"
-  },
-  {
     "id": "recYfohQTAtuEbNtN",
     "createdTime": "2025-10-21T13:41:42.000Z",
     "Trial": "WI v Carter Green / DUI Crash fatal teen",
     "State": "Wisconsin",
     "Location": "Outagamie County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYfohQTAtuEbNtN"
-  },
-  {
-    "id": "recYkklMncu5IAmF6",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "NC v Issiah Mehki Ross",
-    "State": "North Carolina",
-    "Location": "Orange County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYkklMncu5IAmF6"
   },
   {
     "id": "recYmGKeubOKtEunj",
@@ -5359,14 +5280,6 @@
     "State": "Florida",
     "Location": "Highlands County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbPn2HVTFH8MQQv"
-  },
-  {
-    "id": "recbRdtwJYy0TW8HG",
-    "createdTime": "2025-07-29T22:01:33.000Z",
-    "Trial": "TX v James Lewis Spencer III/man targeted, killed sex offender",
-    "State": "Texas",
-    "Location": "Harris County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recbRdtwJYy0TW8HG"
   },
   {
     "id": "recbRmzJk3ujz9zSk",
@@ -5963,7 +5876,7 @@
   {
     "id": "recfRNjbVGMF1XdTQ",
     "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "FL v Jamell \"YNW Melly\" Demons ",
+    "Trial": "FL v Jamell \"YNW Melly\" Demons / Murder case",
     "State": "Florida",
     "Location": "Broward County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recfRNjbVGMF1XdTQ"
@@ -6143,6 +6056,14 @@
     "State": "Wisconsin",
     "Location": "Milwaukee County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rech81tvSvogN1Goy"
+  },
+  {
+    "id": "rechFuscGhc3MlHo6",
+    "createdTime": "2026-02-03T22:08:14.000Z",
+    "Trial": "WI v Michael Vandenbergh / Attempted Murder and Arson charges.  Motive unclear",
+    "State": "Wisconsin",
+    "Location": "Wood County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rechFuscGhc3MlHo6"
   },
   {
     "id": "rechUhtVdMVOuDFd9",
@@ -8187,14 +8108,6 @@
     "State": "Tennessee",
     "Location": "Memphis",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwlQSx1ImqnVoEt"
-  },
-  {
-    "id": "recwqeiy5sMx1Ez1W",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "OH v William Brock (Uber Driver shot / He thought she was scamming him)",
-    "State": "Ohio",
-    "Location": "Clark County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwqeiy5sMx1Ez1W"
   },
   {
     "id": "recwtUbYTD9AL4Hds",

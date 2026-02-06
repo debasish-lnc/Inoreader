@@ -1454,6 +1454,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recAF8GNIcDE7x8go"
   },
   {
+    "id": "recAIC8qi3qIAx1xQ",
+    "createdTime": "2026-02-05T20:27:38.000Z",
+    "Trial": "OK v Jesse Butler (high school convicted rapist)",
+    "State": "Oklahoma",
+    "Location": "Payne County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recAIC8qi3qIAx1xQ"
+  },
+  {
     "id": "recAJ8b8Xu3R2PSwY",
     "createdTime": "2025-07-24T16:25:27.000Z",
     "Trial": "NC v Brian Reed Grant / Locksmith shot",
@@ -1966,7 +1974,7 @@
   {
     "id": "recDjouH3CZ0sjWF0",
     "createdTime": "2024-08-09T13:07:55.000Z",
-    "Trial": "IN v Ashley and Brent Bredhold (Parents charged with child's death over diabetes treatment neglect)",
+    "Trial": "IN v Ashley and Brent Bredhold (Parents charged with child's death over diabetes treatment neglect) (NO CAMERAS AT BRENT'S TRIAL)",
     "State": "Indiana",
     "Location": "Vanderburgh Circuit Court",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDjouH3CZ0sjWF0"
@@ -2066,14 +2074,6 @@
     "State": "Texas",
     "Location": "Harris County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recE6S0qiT1Qft2w5"
-  },
-  {
-    "id": "recEDCbU4fHeSmIfO",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "AR v Amber Waterman (death penalty case)",
-    "State": "Arkansas",
-    "Location": "Benton County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recEDCbU4fHeSmIfO"
   },
   {
     "id": "recELrNF9z5GxLpnq",
@@ -2186,6 +2186,14 @@
     "State": "Utah",
     "Location": "FOURTH JUDICIAL DISTRICT - AMERICAN FORK DIST",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFIW7GBqTtnOMLJ"
+  },
+  {
+    "id": "recFObkicqogv3mdw",
+    "createdTime": "2026-01-06T13:39:35.000Z",
+    "Trial": "FL v Mario Alejandro Ramirez / Pregnant wife stabbed to death",
+    "State": "Florida",
+    "Location": "Broward County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFObkicqogv3mdw"
   },
   {
     "id": "recFXxBkg8NjM3Pth",
@@ -2370,6 +2378,14 @@
     "State": "Kentucky",
     "Location": "Whitley County / State line of TN",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGKOc6Pzrahouxp"
+  },
+  {
+    "id": "recGMSnqfWXKMpwJp",
+    "createdTime": "2026-01-07T14:07:18.000Z",
+    "Trial": "FL v Brandon McCray / Woman whose body was found wrapped in a white blanket on popular beach was kidnapped and strangled",
+    "State": "Florida",
+    "Location": "Broward County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGMSnqfWXKMpwJp"
   },
   {
     "id": "recGOi0GGhxNbB8sz",
@@ -2938,6 +2954,14 @@
     "State": "South Carolina",
     "Location": "Aiken",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recK8ploK7GP96AS6"
+  },
+  {
+    "id": "recK9CtHbFQGJn6Tw",
+    "createdTime": "2026-01-29T15:02:46.000Z",
+    "Trial": "FL v Diana Cullom / Mother charged with murder, accused of suffocating her 4 year old son",
+    "State": "Florida",
+    "Location": "St. Petersburg / Pinellas County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recK9CtHbFQGJn6Tw"
   },
   {
     "id": "recKJoNaLvDIMZTOS",
@@ -5412,7 +5436,7 @@
   {
     "id": "reccOTYnfkYk9gzMa",
     "createdTime": "2024-05-06T16:31:20.000Z",
-    "Trial": "FL v Wade Steven Wilson (Two women murdered / unrelated / DP case) ",
+    "Trial": "FL v Wade Steven Wilson (Two women murdered / unrelated / DP case)  ",
     "State": "Florida",
     "Location": "Lee County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reccOTYnfkYk9gzMa"
@@ -5890,6 +5914,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recfpL8LgqghMAd0J"
   },
   {
+    "id": "recfvtw5yL8CxXZ57",
+    "createdTime": "2026-01-26T13:20:32.000Z",
+    "Trial": "GA v Vijay Kumar / Four family members killed",
+    "State": "Georgia",
+    "Location": "Gwinnett county",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recfvtw5yL8CxXZ57"
+  },
+  {
     "id": "recfxa02zye5jxSbv",
     "createdTime": "2025-03-03T12:54:47.000Z",
     "Trial": "MS v Rashaan Wallace / Nurse accused of killing husband after argument about social media request, police say",
@@ -5960,14 +5992,6 @@
     "State": "Florida",
     "Location": "Miami-Dade",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgSnvHF0Z5he2KA"
-  },
-  {
-    "id": "recgeIFLFD1LM9ltE",
-    "createdTime": "2025-08-25T16:32:54.000Z",
-    "Trial": "IN v Robert Cooley / Husband allegedly kills wife in domestic violence situation.  She had a 5 week old child.  ",
-    "State": "Indiana",
-    "Location": "Marion County - They allow cameras sometimes.  Depends on the Judge.",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recgeIFLFD1LM9ltE"
   },
   {
     "id": "recgen8yT6O7O4yVW",
@@ -6936,6 +6960,14 @@
     "State": "Georgia",
     "Location": "Fulton County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recnhRfIPEx8Z6ANe"
+  },
+  {
+    "id": "recnj887gj4rIC4Xi",
+    "createdTime": "2025-10-28T20:05:01.000Z",
+    "Trial": "NC v Christopher Whitley / 'She's laying on the floor': Boyfriend FaceTimes pals after killing nurse girlfriend who 'wanted to find a good guy so she could settle down",
+    "State": "North Carolina",
+    "Location": "Durham County ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recnj887gj4rIC4Xi"
   },
   {
     "id": "recnk0JAuZKZwy5p0",
@@ -8404,6 +8436,14 @@
     "State": "Wisconsin",
     "Location": "Milwaukee",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recypsRFf7JHShfAx"
+  },
+  {
+    "id": "recytUAJ2pGntEahz",
+    "createdTime": "2026-02-05T15:00:39.000Z",
+    "Trial": "WI v Tina Beauprey / the boy weighed just 56 pounds at his time of death. An autopsy listed the cause of his death as starvation, citing the manner of death as homicide.",
+    "State": "Wisconsin",
+    "Location": "Fond du Lac County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recytUAJ2pGntEahz"
   },
   {
     "id": "recyujJLT0dn36d7M",

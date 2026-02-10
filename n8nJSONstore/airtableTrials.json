@@ -1366,14 +1366,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9UREObDVD0CuMx"
   },
   {
-    "id": "rec9Wabl7CH1wiEuc",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "NC v Robert Pippin and his mother, Emily Pippin",
-    "State": "North Carolina",
-    "Location": "Catawba County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec9Wabl7CH1wiEuc"
-  },
-  {
     "id": "rec9X6r57JMeiQfM4",
     "createdTime": "2025-07-07T12:29:18.000Z",
     "Trial": "TX v Fernando Machado / Man indicted for murder in deadly March shooting ",
@@ -2210,6 +2202,14 @@
     "State": "Tennessee",
     "Location": "Greene county (An hour west of Knoxville toward NC)",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFbfeo3nOdfj3x3"
+  },
+  {
+    "id": "recFdeznIPa19wgS2",
+    "createdTime": "2026-02-09T15:22:57.000Z",
+    "Trial": "AZ v Randal Basilio Santillan / Arrested for the murder of 18 year old Yessenia Norman",
+    "State": "Arizona",
+    "Location": "Maricopa County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFdeznIPa19wgS2"
   },
   {
     "id": "recFgLgakzlT8TQ49",
@@ -7837,14 +7837,6 @@
     "State": "Florida",
     "Location": "Miami Dade",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recuUsRiY0pZVoxwD"
-  },
-  {
-    "id": "recuaePO0TG5iSBtD",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "FL v Bianca R. Desouza (Teen Mother/Infant death)",
-    "State": "Florida",
-    "Location": "Palm Beach County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recuaePO0TG5iSBtD"
   },
   {
     "id": "recubid4qxxCclMZe",

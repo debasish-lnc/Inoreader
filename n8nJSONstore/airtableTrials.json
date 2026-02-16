@@ -3396,14 +3396,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recO1UOhwi7P1yBeO"
   },
   {
-    "id": "recO4DJicuUKcFJ5I",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "VA v Juliana Peres Magalhaes (au pair accused of murder)",
-    "State": "Virginia",
-    "Location": "Fairfax County Circuit Court",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recO4DJicuUKcFJ5I"
-  },
-  {
     "id": "recO87x0hupe8W0xO",
     "createdTime": "2024-11-15T19:23:16.000Z",
     "Trial": "GA v Angel Thompson / Woman chopped up her 'cash cow' girlfriend into 13 pieces after she tried moving away, then spent years living as her: DA",
@@ -6808,6 +6800,14 @@
     "State": "Nevada",
     "Location": "Washoe / Reno",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recn227BosZsWr9VK"
+  },
+  {
+    "id": "recn39W4dtUMj0rPM",
+    "createdTime": "2026-02-04T14:22:43.000Z",
+    "Trial": "IL v Julius E. Burkes Jr ('execution-style' killing of mother at bar)",
+    "State": "Illinois",
+    "Location": "Kankakee County ",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recn39W4dtUMj0rPM"
   },
   {
     "id": "recn3l7US6O8wzKgw",

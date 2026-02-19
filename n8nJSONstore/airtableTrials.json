@@ -1,5 +1,13 @@
 [
   {
+    "id": "rec01BqYsdelZKgsc",
+    "createdTime": "2026-02-18T17:32:51.000Z",
+    "Trial": "GA v Christina Peterson / Ex-Judge represents herself over an incident at a night club.  ",
+    "State": "Georgia",
+    "Location": "Fulton County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec01BqYsdelZKgsc"
+  },
+  {
     "id": "rec05G63Y8nvY8DCl",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "FL v Emmanuel Espinoza (stabbed mother to death, deputies say)",
@@ -1836,6 +1844,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCeAESICnDR3jkk"
   },
   {
+    "id": "recCffXRglFFs32SL",
+    "createdTime": "2026-02-18T20:12:01.000Z",
+    "Trial": "MI v Kenneth \"KC\" Grondin ",
+    "State": "Michigan",
+    "Location": "40th Circuit Court - Lapeer",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recCffXRglFFs32SL"
+  },
+  {
     "id": "recCkSR7IfGoSbQOY",
     "createdTime": "2024-08-16T18:46:43.000Z",
     "Trial": "TN v Timothy Blackdeer & Catelin Blackdeer(child hot car death, forgot to drop off at babysitter)",
@@ -2946,14 +2962,6 @@
     "State": "South Carolina",
     "Location": "Aiken",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recK8ploK7GP96AS6"
-  },
-  {
-    "id": "recK9CtHbFQGJn6Tw",
-    "createdTime": "2026-01-29T15:02:46.000Z",
-    "Trial": "FL v Diana Cullom / Mother charged with murder, accused of suffocating her 4 year old son",
-    "State": "Florida",
-    "Location": "St. Petersburg / Pinellas County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recK9CtHbFQGJn6Tw"
   },
   {
     "id": "recKJoNaLvDIMZTOS",
@@ -4564,7 +4572,7 @@
   {
     "id": "recVjJiM4FpHWz9Yr",
     "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "NC v  Luzysol Gonzalez De La Fuente (Husband stabbed / Claiming self-defense)",
+    "Trial": "NC v  Luzysol Gonzalez De La Fuente (Husband stabbed / Claiming self-defense) NO CAMERAS",
     "State": "North Carolina",
     "Location": "Harnett County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recVjJiM4FpHWz9Yr"
@@ -7795,7 +7803,7 @@
     "createdTime": "2025-04-22T22:35:23.000Z",
     "Trial": "VA v Katelynn Hipes (murder suspect arrested after manhunt)",
     "State": "Virginia",
-    "Location": "NELSON COUNTY, Va",
+    "Location": "NELSON COUNTY CIRCUIT COURT",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recuBBibeBCIJBG2J"
   },
   {
@@ -8132,6 +8140,14 @@
     "State": "Rhode Island",
     "Location": "Providence County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwuyYIqKYGTBpoY"
+  },
+  {
+    "id": "recx4sdq7lXaswtZ6",
+    "createdTime": "2026-02-18T17:07:02.000Z",
+    "Trial": "MI vs Coralan Kaye-Elizabeth Peters/charged w/leaving space heater pointed directly at toddler's crib",
+    "State": "Michigan",
+    "Location": "Monroe Co",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recx4sdq7lXaswtZ6"
   },
   {
     "id": "recx9tKChZDpI9lHk",

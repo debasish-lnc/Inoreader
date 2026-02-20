@@ -1,13 +1,5 @@
 [
   {
-    "id": "rec01BqYsdelZKgsc",
-    "createdTime": "2026-02-18T17:32:51.000Z",
-    "Trial": "GA v Christina Peterson / Ex-Judge represents herself over an incident at a night club.  ",
-    "State": "Georgia",
-    "Location": "Fulton County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec01BqYsdelZKgsc"
-  },
-  {
     "id": "rec05G63Y8nvY8DCl",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "FL v Emmanuel Espinoza (stabbed mother to death, deputies say)",
@@ -806,14 +798,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5Zq2ALNoqY9n8R"
   },
   {
-    "id": "rec5Zz5AgPLBFTSmj",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "FL v Robert Tyrone Hayes",
-    "State": "Florida",
-    "Location": "Palm Beach County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5Zz5AgPLBFTSmj"
-  },
-  {
     "id": "rec5hT2iIFmIGJtjQ",
     "createdTime": "2025-08-07T20:08:40.000Z",
     "Trial": "FL v Matthew McChesney (HS grad child porn arrest)",
@@ -828,14 +812,6 @@
     "State": "Colorado",
     "Location": "El Paso County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5vWtRevrxha7O3"
-  },
-  {
-    "id": "rec5yZzJsvrWFPNyx",
-    "createdTime": "2025-10-10T13:35:19.000Z",
-    "Trial": "FL v Waymore Gerhardt (14-year-old girl murder)",
-    "State": "Florida",
-    "Location": "Dixie County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec5yZzJsvrWFPNyx"
   },
   {
     "id": "rec62VIkPckCDgBjp",
@@ -1976,7 +1952,7 @@
     "createdTime": "2025-06-20T17:59:36.000Z",
     "Trial": "WI v Paul VanDuyne and Andrea Whitaker / Woman tried to help boyfriend poison multiple ex-girlfriends",
     "State": "Wisconsin",
-    "Location": "Dane County",
+    "Location": "Rock County AND Dane County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recDoU2IbNyOhnVds"
   },
   {
@@ -2182,7 +2158,7 @@
   {
     "id": "recFIW7GBqTtnOMLJ",
     "createdTime": "2024-11-18T18:12:28.000Z",
-    "Trial": "UT v Kathryn Restelli and Tracy Grist",
+    "Trial": "UT v Kathryn Restelli and Tracey Grist",
     "State": "Utah",
     "Location": "FOURTH JUDICIAL DISTRICT - AMERICAN FORK DIST",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recFIW7GBqTtnOMLJ"
@@ -4474,14 +4450,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUspxc2MiFCC0KE"
   },
   {
-    "id": "recUv8N4L4c7CCumX",
-    "createdTime": "2025-10-28T14:30:25.000Z",
-    "Trial": "FL v Richard Ferguson / Father of teen driver in deadly 2023 Poinciana crash heads to trial",
-    "State": "Florida",
-    "Location": "Osceola County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recUv8N4L4c7CCumX"
-  },
-  {
     "id": "recUxrOJaPPuw9Vk2",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "AZ v Thomas J. Desharnais with Stephanie",
@@ -4828,7 +4796,7 @@
   {
     "id": "recXowBaGOI2zQDsY",
     "createdTime": "2025-02-07T20:38:30.000Z",
-    "Trial": "NJ v Sarah Errickson and Joseph Ragan / woman two years ago appears to have stemmed from an inheritance dispute with her older sister",
+    "Trial": "NJ v Sarah Errickson and Joseph Ragan (Woman who blamed sister for losing custody plotted with sibling's boyfriend to murder her, police say)",
     "State": "New Jersey",
     "Location": "Cape May County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recXowBaGOI2zQDsY"
@@ -8516,6 +8484,14 @@
     "State": "Arizona",
     "Location": "Maricopa County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reczNfZPEYdfhEAcv"
+  },
+  {
+    "id": "reczOoekzu1LuTeoa",
+    "createdTime": "2026-02-13T16:20:20.000Z",
+    "Trial": "MI vs Rajai Keyontae Brown (New homeowner's renovations uncover bodies of couple hidden in shed by former housemate: Police)",
+    "State": "Michigan",
+    "Location": "Kalamazoo County 8th District Court",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reczOoekzu1LuTeoa"
   },
   {
     "id": "reczS6Ln75JSDPasP",

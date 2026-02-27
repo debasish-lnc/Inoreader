@@ -170,7 +170,7 @@
   {
     "id": "rec0sP3GcTasgxX62",
     "createdTime": "2025-07-11T19:36:26.000Z",
-    "Trial": "AZ v Tim Wood/ accused of of violently beating and threatening to kill his girlfriend until she allegedly escaped from a shed behind his home",
+    "Trial": "AZ v Tim Wood/ accused of violently beating and threatening to kill his girlfriend until she allegedly escaped from a shed behind his home",
     "State": "Arizona",
     "Location": "Maricopa County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec0sP3GcTasgxX62"
@@ -1112,7 +1112,7 @@
   {
     "id": "rec7nFdYxfaGKchHj",
     "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "WA v Nghiep Kein Chau (Stepdaugher stabbed 100+ times)",
+    "Trial": "WA v Nghiep Kein Chau (Stepdaughter stabbed 100+ times)",
     "State": "Washington",
     "Location": "King County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec7nFdYxfaGKchHj"
@@ -1308,6 +1308,14 @@
     "State": "Iowa",
     "Location": "Des Moines County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec8x9jSmD809S5Ko"
+  },
+  {
+    "id": "rec939gmLhBxIylX8",
+    "createdTime": "2026-02-02T13:06:03.000Z",
+    "Trial": "GA v Aaron White / Wedding shooting",
+    "State": "Georgia",
+    "Location": "Butts County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/rec939gmLhBxIylX8"
   },
   {
     "id": "rec93bh9JPhq3Sl4Z",
@@ -2492,6 +2500,14 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGce0UWgakXmVj7"
   },
   {
+    "id": "recGe54WhftnreyvX",
+    "createdTime": "2024-05-03T16:47:55.000Z",
+    "Trial": "IA v Ali Younes (Student attempted murder/fled to Jordan before trial)",
+    "State": "Iowa",
+    "Location": "Johnson County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recGe54WhftnreyvX"
+  },
+  {
     "id": "recGeR3oessdIRHmf",
     "createdTime": "2025-12-26T12:54:27.000Z",
     "Trial": "OH v Daisha Somers / Toddler killed",
@@ -2814,7 +2830,7 @@
   {
     "id": "recJCodExLwPIn9Dr",
     "createdTime": "2025-04-18T13:36:55.000Z",
-    "Trial": "HI v Dr.  Gerhardt Konig / Attempted murder of his wife.  ",
+    "Trial": "HI v Gerhardt Konig / Attempted murder of his wife.  ",
     "State": "Hawaii",
     "Location": "O'ahu ",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recJCodExLwPIn9Dr"
@@ -4076,7 +4092,7 @@
   {
     "id": "recS6XgDUk1cvg5BZ",
     "createdTime": "2025-07-14T12:29:11.000Z",
-    "Trial": "WI v Ralph Taylor & Casandra Taylor/Milwaukee 4-year-old boy fatally shot over Playstation, child's parents accused",
+    "Trial": "WI v Ralph Taylor & Casandra Taylor/Milwaukee 4-year-old boy fatally shot over a PlayStation, the child's parents accused",
     "State": "Wisconsin",
     "Location": "Milwaukee County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recS6XgDUk1cvg5BZ"
@@ -4922,14 +4938,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYKIMlvDCBSleP8"
   },
   {
-    "id": "recYSgJXJ0CvbaGz0",
-    "createdTime": "2025-12-17T13:44:05.000Z",
-    "Trial": "CA v Tyler McCain / Retrial / Missing wife.  Not found.  ",
-    "State": "California",
-    "Location": "Shasta County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recYSgJXJ0CvbaGz0"
-  },
-  {
     "id": "recYT3zUfBu61McXT",
     "createdTime": "2024-11-27T14:20:26.000Z",
     "Trial": "CA v Miguel Sandoval (teen allegedly murdered 4 while they slept)",
@@ -5072,14 +5080,6 @@
     "State": "New Jersey",
     "Location": "Camden County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recZZCaqlcufu1ved"
-  },
-  {
-    "id": "recZZl7LJBewuLDcr",
-    "createdTime": "2026-02-21T19:46:33.000Z",
-    "Trial": "NM v Madeline Daly / Mom accused of killing son during SWAT standoff / custody dispute ",
-    "State": "New Mexico",
-    "Location": "Silver City District ",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recZZl7LJBewuLDcr"
   },
   {
     "id": "recZbTU4fcc0mexWt",
@@ -5248,6 +5248,14 @@
     "State": "Tennessee",
     "Location": "Giles County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recasDLmn3IjFVkq6"
+  },
+  {
+    "id": "recasYxLoIgY6hXnp",
+    "createdTime": "2026-02-26T20:46:31.000Z",
+    "Trial": "GA v Robert Brandon Keller (Judge finds Bulloch County murder suspect competent, despite removing his own eyeballs)",
+    "State": "Georgia",
+    "Location": "Bulloch County",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recasYxLoIgY6hXnp"
   },
   {
     "id": "recau1BW0q6lbZ0HI",
@@ -6258,14 +6266,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reciYZT25tLJoCKGD"
   },
   {
-    "id": "reciiIpGAqTk4o0X9",
-    "createdTime": "2025-12-11T14:17:28.000Z",
-    "Trial": "CT v New Haven Police Officers / Oscar Diaz, Luis Rivera and Jocelyn Lavandier will head to trial for the treatment of a man in custody.  He was paralyzed from the chest down.  ",
-    "State": "Connecticut",
-    "Location": "New Haven",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reciiIpGAqTk4o0X9"
-  },
-  {
     "id": "recis6WZ6kSYxiZaM",
     "createdTime": "2024-12-27T16:50:40.000Z",
     "Trial": "MI v Nancy Gerwatowski (Woman arrested 30 years later after baby found in a campground toilet)",
@@ -6648,6 +6648,14 @@
     "State": "Georgia",
     "Location": "Effingham County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reclCH20CiNxjkKCn"
+  },
+  {
+    "id": "reclCp3LHZvMdpTxb",
+    "createdTime": "2026-02-26T21:56:46.000Z",
+    "Trial": "FL v Daisy Link (jail battery charges)",
+    "State": "Florida",
+    "Location": "Miami-Dade",
+    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/reclCp3LHZvMdpTxb"
   },
   {
     "id": "reclDwl4dCVmQUxCO",
@@ -8182,14 +8190,6 @@
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwaEUUFkcf163ou"
   },
   {
-    "id": "recwfbgxINtYeYGBK",
-    "createdTime": "2024-05-03T16:47:55.000Z",
-    "Trial": "FL v Delaila Pino Lasalle (Newborn starved)",
-    "State": "Florida",
-    "Location": "Palm Beach County",
-    "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recwfbgxINtYeYGBK"
-  },
-  {
     "id": "recwfu0HqJbC3TMYb",
     "createdTime": "2024-05-03T16:47:55.000Z",
     "Trial": "WI v Timothy Olson / Alleged Dating App predator",
@@ -8512,7 +8512,7 @@
   {
     "id": "recynnmRmS5qxQlN6",
     "createdTime": "2025-01-28T21:06:49.000Z",
-    "Trial": "FL v Cole Goldberg (Attempted murder of 90 day fiance alum Caroline Schwitzky",
+    "Trial": "FL v Cole Goldberg (Attempted murder of 90-day fiancée alum Caroline Schwitzky",
     "State": "Florida",
     "Location": "Palm Beach County",
     "RecordURL": "https://airtable.com/appxT6texBVhbJBoh/tbl5NN5YJeLWv2JLv/viwp24VLrU9LpZAB1/recynnmRmS5qxQlN6"
